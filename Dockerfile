@@ -9,7 +9,7 @@ COPY ["MyBook/MyBook.csproj", "MyBook/"]
 COPY ["MyBook.Core/MyBook.Core.csproj", "MyBook.Core/"]
 COPY ["MyBook.SharedKernel/MyBook.SharedKernel.csproj", "MyBook.SharedKernel/"]
 COPY ["MyBook.Infrastructure/MyBook.Infrastructure.csproj", "MyBook.Infrastructure/"]
-RUN dotnet restore "./MyBook.csproj"
+RUN dotnet restore "MyBook/MyBook.csproj"
 COPY . .
 WORKDIR "/src/MyBook"
 RUN dotnet build "MyBook.csproj" -c Release -o /app/build
