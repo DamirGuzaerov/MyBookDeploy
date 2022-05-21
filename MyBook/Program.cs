@@ -68,16 +68,6 @@ builder.Services.AddDbContext<MyBookContext>(options =>
     .AddScoped<IRecommendationsService, RecommendationsService>()
     .AddSingleton<IPaymentService, PaymentService>();
 
-/*var serviceProvider = builder.Services.BuildServiceProvider();
-try
-{
-    var dbContext = serviceProvider.GetRequiredService<MyBookContext>();
-    dbContext.Database.Migrate();
-}
-catch
-{
-    /*throw new Exception();#1#
-}*/
 builder.Services.AddSignalR();
 builder.Services.AddDistributedMemoryCache();
 builder.Services.AddSession(options =>
