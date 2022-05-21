@@ -40,7 +40,7 @@ else
 }
 builder.Services.AddDbContext<MyBookContext>(options =>
         options.UseNpgsql(defaultConnectionString,
-            options => options.MigrationsAssembly("MyBook")), ServiceLifetime.Transient)
+            options => options.MigrationsAssembly("MyBook.Infrastructure")), ServiceLifetime.Transient)
     .AddScoped<IGenericRepository<Book>, EfGenericRepository<Book>>()
     .AddScoped<IGenericRepository<Author>, EfGenericRepository<Author>>()
     .AddScoped<IGenericRepository<Genre>, EfGenericRepository<Genre>>()

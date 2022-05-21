@@ -8,7 +8,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 
 #nullable disable
 
-namespace MyBook.Migrations
+namespace MyBook.Infrastructure.Migrations
 {
     [DbContext(typeof(MyBookContext))]
     partial class MyBookContextModelSnapshot : ModelSnapshot
