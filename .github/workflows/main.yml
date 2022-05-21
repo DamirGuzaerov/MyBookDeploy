@@ -18,6 +18,8 @@ jobs:
           usedocker: true
       - name: Update database
         run: |
+                heroku run dotnet tool install --global dotnet-ef
+                heroku run dotnet tool restore
                 heroku run dotnet ef database update
         env:
             ASPNETCORE_ENVIRONMENT: Development
