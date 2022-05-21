@@ -16,3 +16,13 @@ jobs:
           heroku_app_name: ${{secrets.HEROKU_APP_NAME}}
           heroku_email: ${{secrets.HEROKU_EMAIL}}
           usedocker: true
+      - name: Update database
+        run: |
+                dotnet tool install --global dotnet-ef
+                dotnet tool restore
+                dotnet ef database update -c MyBookContext -p MyBookDeploy
+        env:
+            ASPNETCORE_ENVIRONMENT: Development
+      
+       
+     
