@@ -19,6 +19,7 @@ jobs:
       - name: Update database
         run: |
                 heroku run dotnet tool install --global dotnet-ef
+                export PATH="$PATH:/app/.dotnet/tools"
                 dotnet ef database update
         env:
             ASPNETCORE_ENVIRONMENT: Production
