@@ -19,7 +19,7 @@ builder.Services.AddTransient<IUserValidator<User>, UserValidator>()
 
 var defaultConnectionString = string.Empty;
 
-if (builder.Environment.EnvironmentName == "Production") {
+if (builder.Environment.EnvironmentName == "Development") {
     defaultConnectionString = builder.Configuration.GetConnectionString("DefaultString");
 }
 else
