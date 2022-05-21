@@ -18,8 +18,6 @@ jobs:
           usedocker: true
       - name: Update database
         run: |
-                dotnet tool install --global dotnet-ef
-                dotnet tool restore
                 dotnet ef database update -c MyBookContext -p MyBookDeploy
         env:
             ASPNETCORE_ENVIRONMENT: Development
