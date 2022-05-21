@@ -1,0 +1,24 @@
+﻿@model MyBook.Entities.Author
+@{
+    var model = new MyBook.Models.Admin.EditAuthorViewModel
+            {
+                AuthorId = Model.AuthorId,
+                BirthDate = null,
+                Name = Model.Name,
+                ImageLink = Model.ImgLinks.FirstOrDefault()?.Url
+            };
+    if (Model.BirthDate != null)
+        model.BirthDate = DateTime.Parse(Model.BirthDate);
+}
+<div class="card" style="width: 18rem;">
+    <img src="~/assets/img/non.png" class="card-img-top" alt="...">
+    <div class="card-body">
+        <h3 class="card-title text-primary">@Model.Name</h3>
+        <p class="card-text text-secondary">Всего книг: @Model.AuthorBooks.Count</p>
+        <button class="spec_but" type="button" onclick="location.href='@Url.Action("EditAuthorModal", "AdminProfile", model)'">
+            Редактировать
+        </button>
+        <button class="spec_but" type="button" onclick="location.href='@Url.Action("DeleteAuthor", "AdminProfile", Model)'">Удалить</button>
+    </div>
+
+</div>

@@ -1,0 +1,24 @@
+﻿@model MyBook.Models.Admin.AdminViewModel
+<section class="admin_functional">
+    <h2>Получить информацию об авторе</h2>
+    <div class="d-flex">
+        <input class="form-control mr-sm-2" id="searchString" onchange="searchEditAuthor()" type="search" placeholder="Найти автора" aria-label="Search">
+        <button class="btn-warning btn_spec" type="button" onclick="location.href='@Url.Action("AddAuthorModal", "AdminProfile", new MyBook.Models.Admin.EditAuthorViewModel())'">
+            Добавить автора
+        </button>
+    </div>
+    <div class="author_information authors_collection_grid">
+        @foreach (var author in Model.Authors.Take(10))
+        {
+            @await Component.InvokeAsync("EditAuthor", author)
+        }
+    </div>
+    <div class="container text-center">
+        <button class="more" type="button" onclick="showMoreEditAuthors()">
+            Показать ещё...
+        </button>
+    </div>
+    <div class="add_author">
+    </div>
+</section>
+<script src="~/js/searchEditAuthors.js"></script>

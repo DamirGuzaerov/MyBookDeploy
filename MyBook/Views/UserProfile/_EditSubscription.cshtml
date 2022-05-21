@@ -1,0 +1,31 @@
+﻿@model MyBook.Models.UserProfileViewModel
+<section class="user_page_lower">
+    <div class="user_page_sub pt-3 pb-5">
+        <div class="container">
+            <div class="content_wrapper">
+                @{
+                    foreach (var subscr in Model.Subscriptions)
+                    {
+                        var specs = subscr.Genre?.Name != null ? subscr?.Genre?.Name : subscr?.Author?.Name;
+                        string name = subscr.Type.TypeName == "Премиум" ? "Премиум подписка" : subscr.Type.TypeName + " , " + specs;
+                        <div class="have_subscriptions row col-12">
+                            <p class="name">@name</p>
+                            <label>Истечение срока действия:</label>
+                            <br>
+                            <label class="label_border col-lg-2 col-md-3 col-sm-4 col-6">до @subscr.EndDate</label>
+                            <br>
+                            <div class="card_info_wrapper">
+                                <div class="card_info">
+                                    <p class="name">Стоимость:</p>
+                                </div>
+                                <div class="card_info_lower">
+                                    <h5 class="pl-4">@subscr.Type.Price руб.</h5>
+                                </div>
+                            </div>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+    </div>
+</section>

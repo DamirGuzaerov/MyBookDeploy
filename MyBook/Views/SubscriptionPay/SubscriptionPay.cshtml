@@ -1,0 +1,61 @@
+﻿@model MyBook.Models.PayViewModel
+<section class="modal_wrapper cointainer-xl">
+    <div class="wrapper_modal_content">
+        <div id="sub-pay">
+            <div class="modal_name">
+                <h2>Период оформления подписки</h2>
+                <button class="close_modal">
+                    <a class="nav-link" asp-area="" asp-controller="Subscription" asp-action="Subscription">
+                        <img src="/assets/img/close.svg">
+                    </a>
+                </button>
+            </div>
+            <form method="post" id="myForm" asp-action="Pay">
+                <div class="buttons_sub">
+                    <input type="hidden" asp-for="@Model.Period" id="period" />
+                    <input type="hidden" asp-for="@Model.Price" id="price" />
+                    <input type="hidden" asp-for="@Model.isGift" />
+                    <input type="hidden" asp-for="@Model.SpecsId" />
+                    <input type="hidden" asp-for="@Model.SpecsName" />
+                    <input type="hidden" asp-for="@Model.TypeId" />
+                    <input type="hidden" asp-for="@Model.TypeName" />
+                    <input type="hidden" asp-for="@Model.UserId" />
+                    <input type="hidden" asp-for="@Model.SpecsName" />
+                    @{
+                        var price = Model.Price; var triplePrice = price * 3; var yearPrice = price * 12;
+                    }
+                    <button type="button" class="btn btn-warning btn-lg" id="one">
+                        1 месяц
+                        <br>
+                        <div class="price">@price руб.</div>
+                    </button>
+                    <button type="button" class="btn btn-warning btn-lg" id="three">
+                        3 месяца
+                        <br>
+                        <div class="price">@triplePrice руб.</div>
+                    </button>
+                    <button type="button" class="btn btn-warning btn-lg" id="twelve">
+                        12 месяцев
+                        <br>
+                        <div class="price">@yearPrice руб.</div>
+                    </button>
+                </div>
+            </form>
+        </div>
+        <div id="sum-up">
+            <h4> Вы покупаете </h4>
+            @{
+                string type = Model.TypeName == "Премиум" ? "Премиум подписка" : Model.TypeName + " , " + Model.SpecsName; 
+            }
+            <p>@type</p>
+            <p id="monthsNumb">Кол-во месяцев: 1</p>
+            <bold>Итого к оплате</bold>
+            <h5 id="total">@Model.Price руб.</h5>
+        </div>
+        <button type="submit" class="reg_button mt-2" form="myForm">Оформить</button>
+    </div>
+</section>
+@section Scripts
+{
+<script src="~/js/pay.js"></script>
+}

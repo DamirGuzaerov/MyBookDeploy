@@ -1,0 +1,66 @@
+﻿@using MyBook.Models
+@model MyBook.Models.UserProfileViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Profile"] - MyBook</title>
+</head>
+<body>
+    <section class="user_page_upper pl-5">
+        <div class="container">
+            <div class="row lk_wrap col-12">
+                <div class="lk_out pr-5">
+                    <h2>Личный кабинет</h2>
+                    <form method="post" asp-action="Logout"><button type="submit" class="sign_out" asp-action="Logout">Выйти из аккаунта</button></form>
+                </div>
+            </div>
+            <nav class="user_links_wrapper">
+                <input type="hidden" id="userId" asp-for="Id" />
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link" id="profile">Профиль</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="history">История</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="subscr">Подписки</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="recommends">
+                            Рекомендации
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </section>
+    <div id="containerProfile">
+        @{
+            await Html.RenderPartialAsync("_EditProfile", Model);
+        }
+    </div>
+    <div id="containerSubscr">
+        @{
+            await Html.RenderPartialAsync("_EditSubscription", Model);
+        }
+    </div>
+    <div id="containerHistory">
+        @{
+            await Html.RenderPartialAsync("_History", Model);
+        }
+    </div>
+    <div id="containerRecommends">
+        @{
+            await Html.RenderPartialAsync("_Recommendations", Model);
+        }
+    </div>
+    @section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script src="~/js/profile.js"></script>
+    <script src="~/js/recommendations.js"></script>
+    }
+</body>
+</html>

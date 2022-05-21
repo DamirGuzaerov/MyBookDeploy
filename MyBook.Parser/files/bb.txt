@@ -1,0 +1,679 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1034,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "X1sLAAAAMAAJ",
+      "etag": "hh0x+zoQi7M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X1sLAAAAMAAJ",
+      "volumeInfo": {
+        "title": "An Introduction to Medieval Romance",
+        "authors": [
+          "Albert Booth Taylor"
+        ],
+        "publishedDate": "1930",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015031024501"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 268,
+        "printType": "BOOK",
+        "categories": [
+          "Literature, Medieval"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X1sLAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X1sLAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=X1sLAAAAMAAJ&q=romance&dq=romance&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=X1sLAAAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_Introduction_to_Medieval_Romance.html?hl=&id=X1sLAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X1sLAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE AIM OF THIS WORK IS MERELY TO offer a general survey of the chief themes and features of medieval <b>romance</b> to readers who have made no deep study of the subject but are sufficiently interested to desire a systematic survey."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xEBZAAAAMAAJ",
+      "etag": "v7GQP8NLAhc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xEBZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Medieval Romance: Themes and Approaches",
+        "authors": [
+          "John Stevens"
+        ],
+        "publisher": "London : Hutchinson",
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015005380855"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": [
+          "English poetry"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xEBZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xEBZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=xEBZAAAAMAAJ&q=romance&dq=romance&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=xEBZAAAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Medieval_Romance_Themes_and_Approaches.html?hl=&id=xEBZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xEBZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "BEER , Gillian , <b>Romance</b> . The Critical Idiom ( 1970 ) . Bezzola , R . R . , Le sens de l &#39; aventure et de l &#39; amour ( Paris 1947 ) . Bezzola , R . R . , Les Origines et la Formation de la Littérature Courtoise en Occident 500 – 1200&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mkgdAQAAMAAJ",
+      "etag": "FP/nd6AtZIg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mkgdAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Comparative Romance Linguistics Newsletter",
+        "publishedDate": "1960",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000125506422"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Contrastive linguistics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mkgdAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mkgdAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=mkgdAQAAMAAJ&q=romance&dq=romance&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=mkgdAQAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comparative_Romance_Linguistics_Newslett.html?hl=&id=mkgdAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mkgdAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "You will also find in this issue the program of the Comparative <b>Romance</b> Linguistics meeting in Washington, D. C. as well as a listing of the various committees. I should like to thank the officers and the membership at large for the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DAZgJqt0gV4C",
+      "etag": "m1+R+o/Sugg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DAZgJqt0gV4C",
+      "volumeInfo": {
+        "title": "The Romance Writer's Pink Pages",
+        "subtitle": "The Insider's Guide to Getting Your Romance Novel Published",
+        "authors": [
+          "Eve Paludan"
+        ],
+        "publisher": "Prima Lifestyles",
+        "publishedDate": "1995-10-25",
+        "description": "Offers advice on choosing agents and evaluating contracts, and includes directories of agents, publishers, and magazine markets",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0761501681"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780761501688"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 325,
+        "printType": "BOOK",
+        "categories": [
+          "Reference"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DAZgJqt0gV4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DAZgJqt0gV4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=DAZgJqt0gV4C&q=romance&dq=romance&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=DAZgJqt0gV4C&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Romance_Writer_s_Pink_Pages.html?hl=&id=DAZgJqt0gV4C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DAZgJqt0gV4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Insider&#39;s Guide to Getting Your <b>Romance</b> Novel Published Eve Paludan. should be 30 lines or less. Our format is 5.5&quot; x 8.5&quot; so artwork should not exceed 4&quot; X 6&quot;. If you have an excellent piece of work, send it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GhnrAAAAMAAJ",
+      "etag": "2NhSZ22YfPQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GhnrAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Classical Mythology and Arthurian Romance",
+        "subtitle": "A Study of the Sources of Chrestien de Troyes' Yvain and Other Arthurian Romances",
+        "authors": [
+          "Charles Bertram Lewis"
+        ],
+        "publisher": "Genève : Slatkine Reprints",
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89010368124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 334,
+        "printType": "BOOK",
+        "categories": [
+          "Arthurian romances"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GhnrAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GhnrAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=GhnrAAAAMAAJ&q=romance&dq=romance&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=GhnrAAAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Classical_Mythology_and_Arthurian_Romanc.html?hl=&id=GhnrAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GhnrAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study of the Sources of Chrestien de Troyes&#39; Yvain and Other Arthurian <b>Romances</b> Charles Bertram Lewis. U CLASSICAL MYTHOLOGY AND ARTHURIAN <b>ROMANCE</b> 0000 THE GONG OF DODONA."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BTkMAAAAMAAJ",
+      "etag": "Q0h6mob/8NU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BTkMAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Vogue of Medieval Chivalric Romance During the English Renaissance",
+        "authors": [
+          "Ronald Salmon Crane"
+        ],
+        "publishedDate": "1919",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015030929247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 53,
+        "printType": "BOOK",
+        "categories": [
+          "Chivalry in literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.8.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BTkMAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BTkMAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=BTkMAAAAMAAJ&q=romance&dq=romance&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=BTkMAAAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Vogue_of_Medieval_Chivalric_Romance.html?hl=&id=BTkMAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BTkMAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I have included the Spanish <b>romances</b> of the Amadis and Palmer in type, though they were scarcely medieval in the strict sense of the word, partly because of their real affinity and indebtedness to the earlier <b>romances</b>,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fEVcAAAAMAAJ",
+      "etag": "NFaxRECtKfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fEVcAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Chansons de Geste in the Age of Romance",
+        "subtitle": "Political Fictions",
+        "authors": [
+          "Sarah Kay"
+        ],
+        "publisher": "Oxford University Press, USA",
+        "publishedDate": "1995",
+        "description": "This is a major reassessment of the relation between the medieval French chansons de geste and the romance genre.Critics have traditionally seen romance as a superior development of the chanson de geste. The chanson de geste are seen as 'formulaic', composed from a public fund of pre-existant and primarily oral narratives and motifs; romance on the other hand, is seen as a more sophisticated product of anewly 'literary' story-telling, line with the more complex social and political conditions of the time. Sarah Kay rejects this 'developmental' model of literary history and, through detailed readings of large numbers of texts - from the well-known Renaut de Montauban or Raoul de Cambrai to theunjustly neglected Doon de la Roche or Orson de Beauvais - reveals the simultaneity of the chansons de geste and romance in medieval culture. Drawing tellingly on recent literary and feminist theory, Kay argues that the chanson de geste and romance are engaged in a productive and telling dialogue;moreover, each genre illuminates the 'political unconscious' of the other: those political conflicts and contradictions that the text attempts to evade and disguise. In particular, Kay contends that romance brings with it new forms of sexism and patriarchy - forms much closer to those of thepresent - and that these need to be read against the politics of sexual difference inscribed in chansons de geste.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015038414804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 273,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fEVcAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fEVcAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=fEVcAAAAMAAJ&q=romance&dq=romance&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=fEVcAAAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Chansons_de_Geste_in_the_Age_of_Roma.html?hl=&id=fEVcAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fEVcAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "*Roland, La Chanson de 82 n., 92, 96, 152 Oxford text 1, 4 n., 9, 14 n., 25-9, 46 n., 50, 51, 121, 177, 201 Rhymed texts 52, 187, 209-11 Roman de Renart, Le 225, 230 <b>romance</b>. For individual poems, see author (if known) or title see also&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IP73_CaEeJsC",
+      "etag": "Fopa3R268qo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IP73_CaEeJsC",
+      "volumeInfo": {
+        "title": "An essay on chivalry. An essay on romance. An essay on the drama",
+        "authors": [
+          "Walter Scott"
+        ],
+        "publishedDate": "1827",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "NYPL:33433067297337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Chivalry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IP73_CaEeJsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IP73_CaEeJsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=IP73_CaEeJsC&q=romance&dq=romance&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=IP73_CaEeJsC&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/An_essay_on_chivalry_An_essay_on_romance.html?hl=&id=IP73_CaEeJsC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IP73_CaEeJsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... of Homer might be degraded into the class of <b>Romances</b>, as Le Beau Deconnu is elevated into that of epic poems, there lies in ordinary speech, and in common sense, as wide a distinction between these two classes of composition,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xHM6AQAAMAAJ",
+      "etag": "6hRaszWXczQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xHM6AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Popular Studies in Mythology, Romance and Folklore",
+        "publishedDate": "1910",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435024493595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Folk literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xHM6AQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xHM6AQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=xHM6AQAAMAAJ&q=romance&dq=romance&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=xHM6AQAAMAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Studies_in_Mythology_Romance_and.html?hl=&id=xHM6AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xHM6AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "RESEMBLANCES or IRISH-WELSH <b>Romances</b> (page 18). The more superficial resemblances alluded&#39;to in the text are more marked in stories like Knlhwch or the Dream of Rhonabwy than in the Four Branches of the Mabinogi."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FwEVAAAAIAAJ",
+      "etag": "b0vdGfqsy2Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FwEVAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Romance and Corrido: A Comparison of Some Folktale Motifs in English and Philippine Metrical Romances",
+        "authors": [
+          "Lilia Agrava Villa"
+        ],
+        "publishedDate": "1949",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105025605424"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 104,
+        "printType": "BOOK",
+        "categories": [
+          "Folk literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FwEVAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FwEVAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=FwEVAAAAIAAJ&q=romance&dq=romance&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=FwEVAAAAIAAJ&dq=romance&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Romance_and_Corrido_A_Comparison_of_Some.html?hl=&id=FwEVAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FwEVAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 5,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "HzQXlPS48PQC",
+      "etag": "l/ilQHZ6s4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HzQXlPS48PQC",
+      "volumeInfo": {
+        "title": "The Martian Chronicles",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-04-17",
+        "description": "The tranquility of Mars is disrupted by humans who want to conquer space, colonize the planet, and escape a doomed Earth.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451678192"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451678193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 241,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 137,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HzQXlPS48PQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HzQXlPS48PQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=HzQXlPS48PQC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=HzQXlPS48PQC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Martian_Chronicles.html?hl=&id=HzQXlPS48PQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HzQXlPS48PQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-QC3TyfN3zoC",
+      "etag": "0MxgsRb5qxA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-QC3TyfN3zoC",
+      "volumeInfo": {
+        "title": "The Illustrated Man",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-04-17",
+        "description": "Eighteen science fiction stories deal with love, madness, and death on Mars, Venus, and in space.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451678185"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451678185"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 279,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 66,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-QC3TyfN3zoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-QC3TyfN3zoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=-QC3TyfN3zoC&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=-QC3TyfN3zoC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Illustrated_Man.html?hl=&id=-QC3TyfN3zoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-QC3TyfN3zoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qz1RynxDZj8C",
+      "etag": "2EVYUrr+c8U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qz1RynxDZj8C",
+      "volumeInfo": {
+        "title": "Bradbury Stories",
+        "subtitle": "100 of His Most Celebrated Tales",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "publisher": "Harper Collins",
+        "publishedDate": "2005-04-05",
+        "description": "For more than sixty years, the imagination of Ray Bradbury has opened doors into remarkable places, ushering us across unexplored territories of the heart and mind while leading us inexorably toward a profound understanding of ourselves and the ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780060544881"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0060544880"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 912,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qz1RynxDZj8C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qz1RynxDZj8C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=Qz1RynxDZj8C&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Qz1RynxDZj8C&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bradbury_Stories.html?hl=&id=Qz1RynxDZj8C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qz1RynxDZj8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8HjWVZkWfDQC",
+      "etag": "pMe0E/pOA3k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8HjWVZkWfDQC",
+      "volumeInfo": {
+        "title": "Ray Bradbury Stories",
+        "authors": [
+          "Ray Bradbury"
+        ],
+        "publisher": "HarperCollins Australia",
+        "publishedDate": "2008",
+        "description": "This collection contains 100 classic stories from the celebrated author of 'Fahrenheit 451'.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780007280476"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0007280475"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 956,
+        "printType": "BOOK",
+        "categories": [
+          "Fantasy fiction, American"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 16,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8HjWVZkWfDQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8HjWVZkWfDQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=8HjWVZkWfDQC&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=8HjWVZkWfDQC&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ray_Bradbury_Stories.html?hl=&id=8HjWVZkWfDQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8HjWVZkWfDQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f-0hDgAAQBAJ",
+      "etag": "ztIiKYdGMpE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f-0hDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Selected Poems",
+        "authors": [
+          "Emily Dickinson"
+        ],
+        "publisher": "Courier Corporation",
+        "publishedDate": "1990-07",
+        "description": "Over 100 best-known, best-loved poems by one of America's foremost poets, reprinted from authoritative early editions. \"The Snake,\" \"Hope,\" \"The Chariot,\" many more, display unflinching honesty, psychological penetration, and technical ...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780486264660"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0486264661"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 54,
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f-0hDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f-0hDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "previewLink": "http://books.google.ru/books?id=f-0hDgAAQBAJ&printsec=frontcover&hl=&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=f-0hDgAAQBAJ&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Selected_Poems.html?hl=&id=f-0hDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f-0hDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+﻿@using MyBook.Entities
+@model MyBook.Models.AuthorViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Author"] - MyBook</title>
+</head>
+<body>
+    @{
+        var birthday = Model.BirthDate == null ? "01.09.2000" : Model.BirthDate;
+        var image = Model.ImgLinks?.FirstOrDefault()?.Url;
+        if (image == null)
+            image = "/assets/img/non.png";
+    }
+    <section class="about_author">
+        <div class="about_author_wrapper">
+            <div class="photo">
+                <img src="@image">
+            </div>
+            <div class="info">
+                <h1>@Model.Name</h1>
+                <h5>Дата рождения: @birthday</h5>
+                <br>
+                @if (!Model.HasSubscr)
+                {
+                    <a asp-action="SubscrForAuthor" asp-controller="Subscription" asp-route-AuthorName="@Model.Name">
+                        <button class="main_button">Подписаться</button>
+                    </a>
+                }
+            </div>
+        </div>
+    </section>
+
+    <section class="authors_book">
+        <div class="container customCarousel">
+            <h3>Книги</h3>
+            @await Component.InvokeAsync("BooksCarousel",new List<Book>(Model.AuthorBooks.Select(book => book.Book).ToList()))
+        </div>
+    </section>
+</body>
+</html>

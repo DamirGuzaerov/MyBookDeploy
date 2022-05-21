@@ -1,0 +1,53 @@
+﻿@using MyBook.Entities
+@model MyBook.Models.Admin.AdminViewModel
+
+<section class="container">
+    <div class="content_wrapper">
+        <div class="mb-5">
+            <h2>Управлять подпиской</h2>
+        </div>
+
+        <section class="sub_table_admin container">
+            <div class="sub_table_content_admin row col-lg-12">
+                <table class="">
+                    <tr class="upper_table_row ">
+                        <td>Подписка</td>
+                        <td>Описание</td>
+                        <td>Стоимость</td>
+                        <td>Действия</td>
+                    </tr>
+
+                    @foreach (var type in Model.SubscrTypes)
+                    {
+                        <tr>
+                            <td>@type.TypeName</td>
+                            <td>
+                                <p>@type.Description</p>
+                            </td>
+                            <td>@type.Price руб</td>
+                            <td>
+                                <div class="flex_but">
+                                    <button class="spec_but" type="button" onclick="location.href='@Url.Action("DeleteSubscrType", "AdminProfile",type)'">Удалить</button>
+                                    <button class="spec_but" type="button" onclick="location.href='@Url.Action("EditSubscriptionModal", "AdminProfile",new MyBook.Models.Admin.EditSubscrViewModel
+                        {
+                                TypeId = type.TypeId,
+                                 TypeName = type.TypeName,
+                                Price = type.Price,
+                                Description = type.Description
+                        })'">
+                                        Редактировать
+                                    </button>
+                                </div>
+                            </td>
+                        </tr>
+                    }
+                </table>
+            </div>
+            <div class="form-button">
+                <button class="btn-warning btn_spec" type="button" onclick="location.href='@Url.Action("AddSubscriptionModal", "AdminProfile",new MyBook.Models.Admin.EditSubscrViewModel())'">
+                    Создать новую подписку
+                </button>
+            </div>
+        </section>
+    </div>
+</section>

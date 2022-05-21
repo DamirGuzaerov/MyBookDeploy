@@ -1,0 +1,29 @@
+﻿@model MyBook.Entities.Book
+
+<link rel="stylesheet" href="~/css/BookPreview.css">
+<article class="postcard ">
+    <div class="card_imgAuth container">
+        <a class="postcard_img_link" asp-controller="Book" asp-action="Book" asp-route-bookId="@Model.BookId">
+            <img class="postcard_img" src="@Model.ImgLinks.FirstOrDefault(link => link.Resolution == "thumbnail")?.Url" alt="">
+        </a>
+    </div>
+    <div class="postcard_text container">
+        <h3 class="PreviewTitle">
+            <a asp-controller="Book" asp-action="Book" asp-route-bookId="@Model.BookId">
+                <div class="me-4 Name">
+                    @Model.Name
+                </div>
+            </a>
+            @(await Component.InvokeAsync("StarsRateResult", 5))
+        </h3>
+        <p class="author">
+            @foreach (var authorBooks in Model.AuthorBooks)
+            {
+                <a asp-controller="Author" asp-action="Author" asp-route-authorId="@authorBooks.Author.AuthorId">
+                    @authorBooks.Author.Name
+                </a>
+            }
+        </p>
+        <p class="postcard_preview-txt">@Model.Description.Description</p>
+    </div>
+</article>

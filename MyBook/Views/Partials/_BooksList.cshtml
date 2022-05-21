@@ -1,0 +1,10 @@
+﻿@model List<MyBook.Entities.Book>
+
+<div>
+    <ul id="list">
+        @foreach (var book in Model)
+        {
+            @await Component.InvokeAsync("BookPreview",book)
+        }
+    </ul>
+</div>

@@ -1,0 +1,67 @@
+﻿@model MyBook.Models.RegistrationModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Registration"] - MyBook</title>
+</head>
+<body>
+    <section class="modal_wrapper">
+        <div class="main_content_page">
+            <div class="wrapper_modal_content">
+                <div class="modal_view">
+                    <div class="modal_name">
+                        <h4>Регистрация</h4>
+                       <button class="close_modal">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                                <img src="/assets/img/close.svg">
+                            </a>
+                        </button>
+                    </div>
+                   
+                    <form method="post" asp-controller="Account" asp-action="Registration">
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="Email" for="nameForm">Ваша электронная почта:</label>
+                            <input asp-for="Email" type="text" class="form-control" id="nameForm" aria-describedby="emailHelp">
+                            <span asp-validation-for="Email" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form_label_reg password">
+                            <label asp-for="Password" for="surnameForm">Придумайте пароль, пожалуйста:</label>
+                            <input asp-for="Password" type="password" class="form-control" id="surnameForm" aria-describedby="emailHelp">
+                            <a href="#" class="password-control"></a>
+                            <label class="lower_label">Не менее 8 символов, цифры и буквы.</label>
+                            <br />
+                            <span asp-validation-for="Password" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="LastName">Фамилия: </label><br />
+                            <input class="form-control" type="text" asp-for="LastName">
+                            <span asp-validation-for="LastName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="FirstName">Имя: </label><br />
+                            <input class="form-control" type="text" asp-for="FirstName">
+                            <span asp-validation-for="FirstName" class="text-danger"></span>
+                        </div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="BirthDate">Дата рождения: </label><br />
+                            <input class="form-control" type="date" min="1922-04-01" max="2020-04-30" id="datepicker" asp-for="BirthDate">
+                            <span asp-validation-for="BirthDate" class="text-danger"></span>
+                        </div>
+                        <button type="submit" class="reg_button">Зарегистрироваться</button>
+                    </form>
+                    <form method="get" asp-controller="Account" asp-action="Login">
+                        <button class="main_button" type="submit">Войти</button>
+                    </form>
+                    <p>Регистрируясь, вы принимаете публичную оферту и условия использования MyBook</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    @section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    }
+</body>
+</html>

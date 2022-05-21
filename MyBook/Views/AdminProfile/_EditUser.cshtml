@@ -1,0 +1,19 @@
+﻿@model MyBook.Models.Admin.AdminViewModel
+<section class="admin_functional container">
+    <h2>Изменить информацию о пользователе</h2>
+    <input class="form-control mr-sm-2" type="search" id="searchStringUsers" onchange="searchEditUser()" placeholder="Найти пользователя" aria-label="Search">
+    <div class="user_information">
+        <div class="users_information">
+            @foreach (var user in Model.Users.Take(1))
+            {
+                @await Component.InvokeAsync("EditUser", user)
+            }
+        </div>
+        <div class="container text-center">
+            <button class="more" type="button" onclick="showMoreEditUsers()">
+                Показать ещё...
+            </button>
+        </div>
+    </div>
+</section>
+<script src="~/js/searchEditUsers.js"></script>

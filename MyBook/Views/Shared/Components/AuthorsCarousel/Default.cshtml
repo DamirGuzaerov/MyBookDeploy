@@ -1,0 +1,30 @@
+﻿@model List<MyBook.Entities.Author>
+
+<link rel="stylesheet" href="~/css/newProducts.css">
+<link rel="stylesheet" href="~/css/BookPreview.css">
+<link rel="stylesheet" href="~/css/booksCarousel.css">
+<div id="authorsCarousel" class="carousel carousel-dark slide container" data-bs-ride="carousel">
+    <div class="carousel-inner w-100">
+        @for (var i = 1; i < Model.Count / 7; i += 7)
+        {
+            <div class="carousel-item @(i == 1 ? " active" : "") customCarouselItem">
+                <div class="row justify-content-between">
+                    @for (int j = i; j % 7 != 0; j++)
+                    {
+                        <div class="col-md-2 col-4 mb-3">
+                            @await Component.InvokeAsync("AuthorSmallPreview",Model[j])
+                        </div>
+                    }
+                </div>
+            </div>
+        }
+    </div>
+    <div class="col-12 text-center">
+        <button class="btn btn-warning mb-3 " type="button" data-bs-target="#authorsCarousel" data-bs-slide="prev">
+            <i class="fa fa-arrow-left"></i>
+        </button>
+        <button class="btn btn-warning mb-3 " type="button" data-bs-target="#authorsCarousel" data-bs-slide="next">
+            <span class="fa fa-arrow-right" aria-hidden="true"></span>
+        </button>
+    </div>
+</div>

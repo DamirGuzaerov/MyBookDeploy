@@ -1,0 +1,813 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 200,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "cBzdDQAAQBAJ",
+      "etag": "VeM08CfOuXQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cBzdDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Books",
+        "subtitle": "Population Zero (fantasy books, fantasy books free, fantasy books for free, dark fantasy, free fantasy books, urban fantasy, free fantasy books for adults) [fantasy books]",
+        "authors": [
+          "I.G. Harding",
+          "fantasy books"
+        ],
+        "publisher": "fantasy books",
+        "publishedDate": "2017-01-09",
+        "description": "Hear What the Critics are Saying \"Wow, what an amazing and Entertaining Book; great cast of characters, very good story with a lot of eerie twists and turns. Population Zero is by far one of the best zombie books to have come out in a long time.\" -Mary Jones – Valley Daily News “A must read in the horror genre. Population Zero is a book that will leave you begging for more; Five Stars All The Way.” -Judy B. Cohen – Elite Media Group “Deliciously entertaining and very fun read. I bought it for a friend as a gift and she loved it as well. It’s by far one of the finest zombie apocalypse books to have come out in the last decade. Highly Recommend This Book.” -Dave Baker – Book Bloggers of America “Very interesting story. I highly recommend this book to any zombie lover out there. Can’t Go Wrong.” -Carl Mosner – Readers Cove Unlimited “Population Zero is an extremely well developed post-apocalyptic zombie tale. I really had a lot of fun reading this story. If you’re looking for a phenomenal zombie book, then look no further than this one. Ten Thumbs Up.” -Debra Eisner – Literary Times Inc. “My favorite zombie book this year; so far I have read more than eight. Once I started reading, I simply couldn’t put it down. Great Read.” -Emma Righter – Writers United Group “This story reminded me why I fell in love with reading zombie books in the first place; thank you Mr. Harding for making such an amazing and fun book. Keep up with the great story telling. Awesome Book!” -Lee Ratner – Daily Media Trends, Inc. Editorial Review Population Zero is an amazing book and a really interesting read. By the end of the book, you will feel like you have gone on an emotional rollercoaster which is not only fun, but also frightening. This zombie book is definitely one of a kind in the horror genre. If you are looking for a book that will leave you biting your nails at the edge of your seat, then look no further than Population Zero. This book is chock-full of amazing characters and terrifying zombies. Five Stars! Jim S. Stein About the Book When a scientist unleashes the deadliest virus the world has ever seen, a small group must band together to survive the zombie apocalypse; their tale is one of redemption, joy and tears. Come and join us in the town of Steel Valley. A world filled with chaos, where even the dead don’t know their rightful place. (fantasy books, fantasy books free, fantasy books for free, dark fantasy, free fantasy books, urban fantasy, free fantasy books for adults) [fantasy books]",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cBzdDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cBzdDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=cBzdDQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=cBzdDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=cBzdDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 525.9,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 473.31,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=cBzdDQAAQBAJ&rdid=book-cBzdDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 525900000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 473310000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cBzdDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZlERCgAAQBAJ",
+      "etag": "hQK/0lfz2MY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZlERCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Manwhore +1",
+        "authors": [
+          "Katy Evans"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-07-07",
+        "description": "Second in the sexy new Manwhore series from the New York Times bestselling author ofREAL. Getting this close to Chicago's hottest player can get a girl burned. Billionaire playboy? Check. Ruthless businessman? Check. Absolutely sinful? Check. Malcolm Saint was an assignment. A job. Any journalist would kill for access to this beautiful, difficult man, but I was the one sent to uncover Chicago's hottest entrepreneur. And uncover him I did betraying his secrets, releasing details of his hookups and hedonistic lifestyle. I intended to reveal him—not let him reveal me. But my head was overtaken by my heart and suddenly nothing could stop me: I fell for him—and I fell hard. Malcolm Saint is absolute Sin, and I've become a hopeless Sinner. Now that the assignment is over, Saint wants something from me—something unexpected—and I want this wicked playboy's heart. But how can I prove to the man who trusts no one that I'm worthy of becoming his plus one? The man they call Saint is pure hell to resist.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501101557"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501101552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZlERCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZlERCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ZlERCgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ZlERCgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Manwhore_+1.html?hl=&id=ZlERCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZlERCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gB4CDQAAQBAJ",
+      "etag": "XOAY0OGW+JA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gB4CDQAAQBAJ",
+      "volumeInfo": {
+        "title": "What Alice Forgot: A Novel by Liane Moriarty (Trivia-On-Books)",
+        "authors": [
+          "Trivion Books"
+        ],
+        "publishedDate": "2016-09-09",
+        "description": "Trivia-on-Book: What Alice Forgot: A Novel by Liane Moriarty Take the challenge yourself and share it with friends and family for a time of fun! What if you woke up one day and realized that you had lost all memories of the last ten years of your life? That is what happened to Alice in What Alice Forgot. A freak accident changed her life. In a touching tale of how one incident can change your life, Liane Moriarty gives readers a peak into the lives of three ladies and how they cope with the ups and downs of life. You may have read the book, but not have liked it. You may have liked the book, but not be a fan. You may call yourself a fan, but few truly are. Are you a fan? Trivia-on-Books is an independently curated trivia quiz on the book for readers, students, and fans alike. Whether you're looking for new materials to the book or would like to take the challenge yourself and share it with your friends and family for a time of fun, Trivia-on-Books provides a unique approach to What Alice Forgot by Liane Moriarty that is both insightful and educational! Features You'll Find Inside: • 30 Multiple choice questions on the book, plots, characters and author • Insightful commentary to answer every question • Complementary quiz material for yourself or your reading group • Results provided with scores to determine \"status\" Promising quality and value, come play your trivia of a favorite book!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gB4CDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gB4CDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=gB4CDQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=gB4CDQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/What_Alice_Forgot_A_Novel_by_Liane_Moria.html?hl=&id=gB4CDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/What_Alice_Forgot_A_Novel_by_Liane_Moria-sample-epub.acsm?id=gB4CDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/What_Alice_Forgot_A_Novel_by_Liane_Moria-sample-pdf.acsm?id=gB4CDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gB4CDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4qcADQAAQBAJ",
+      "etag": "VGGNcY/1caQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4qcADQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Obsession: By Nora Roberts (Trivia-On-Books)",
+        "authors": [
+          "Trivion Books"
+        ],
+        "publishedDate": "2016-09-08",
+        "description": "Trivia-on-Book: The Obsession by Nora Roberts Take the challenge yourself and share it with friends and family for a time of fun! Nora Roberts is back with her latest novel, The Obsession. From an author whose works have spent over a thousand weeks on the bestseller list, it is almost criminal to expect anything but absolute brilliance. Roberts does not disappoint in this fast-paced tale of a young girl who witnesses her father’s barbarism and how one fateful night changes her life forever. Roberts has come up with another masterpiece in the romantic thriller genre. The Obsession became yet another Nora Roberts novel that reached The New York Times number one spot. You may have read the book, but not have liked it. You may have liked the book, but not be a fan. You may call yourself a fan, but few truly are. Are you a fan? Trivia-on-Books is an independently curated trivia quiz on the book for readers, students, and fans alike. Whether you're looking for new materials to the book or would like to take the challenge yourself and share it with your friends and family for a time of fun, Trivia-on-Books provides a unique approach to The Obsession by Nora Roberts that is both insightful and educational! Features You'll Find Inside: • 30 Multiple choice questions on the book, plots, characters and author • Insightful commentary to answer every question • Complementary quiz material for yourself or your reading group • Results provided with scores to determine \"status\" Promising quality and value, come play your trivia of a favorite book!",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Study Aids"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4qcADQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4qcADQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=4qcADQAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=4qcADQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Obsession_By_Nora_Roberts_Trivia_On.html?hl=&id=4qcADQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Obsession_By_Nora_Roberts_Trivia_On-sample-epub.acsm?id=4qcADQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Obsession_By_Nora_Roberts_Trivia_On-sample-pdf.acsm?id=4qcADQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4qcADQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GWWRdWh1L9IC",
+      "etag": "rS57G4BYoBA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GWWRdWh1L9IC",
+      "volumeInfo": {
+        "title": "The Art of Criticism",
+        "subtitle": "Henry James on the Theory and the Practice of Fiction",
+        "authors": [
+          "Henry James"
+        ],
+        "publisher": "University of Chicago Press",
+        "publishedDate": "1986-06-15",
+        "description": "A collection of \"the most important\" of Henry James' Prefaces; \"his studies of Hawthorne, George Eliot, Balzac, Zola, de Maupassant, Turgenev, Sainte-Beuve, and Arnold; and his essays on the function of criticism and the future of the novel.\"--P. [4] of cover.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780226391977"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0226391973"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 517,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.6.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GWWRdWh1L9IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GWWRdWh1L9IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=GWWRdWh1L9IC&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=GWWRdWh1L9IC&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Art_of_Criticism.html?hl=&id=GWWRdWh1L9IC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Art_of_Criticism-sample-epub.acsm?id=GWWRdWh1L9IC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GWWRdWh1L9IC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KyvUDgAAQBAJ",
+      "etag": "QZO61bi5rNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KyvUDgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Mackenzies (Books 4–6)",
+        "subtitle": "Emotional and Heartwarming Romance",
+        "authors": [
+          "Sophie Haydon"
+        ],
+        "publisher": "Bay Books",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781927323595"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1927323592"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KyvUDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KyvUDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=KyvUDgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KyvUDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KyvUDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 772.54,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 772.54,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KyvUDgAAQBAJ&rdid=book-KyvUDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 772540000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 772540000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KyvUDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "apY8EAAAQBAJ",
+      "etag": "VSfxDs9rB1M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/apY8EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Hanne Wilhelmsen Series Books 1-5",
+        "subtitle": "Blind Goddess, Blessed Are Those Who Thirst, Death of the Demon, The Lion's Mouth, Dead Joker",
+        "authors": [
+          "Anne Holt"
+        ],
+        "publisher": "Atlantic Books",
+        "publishedDate": "2021-11-04",
+        "description": "* AN INTERNATIONAL NO.1 BESTSELLER * 'Anne Holt is the Godmother of modern Norwegian crime fiction' Jo Nesbo Now collected together for the first time, the first five novels in Anne Holt's celebrated Hanne Wilhelmsen series. In this splendidly chilling novels, Oslo-based Detective Hanne Wilhelmsen never backs down whatever the task, tracking down serial killers, catching rapists and challenging corruption.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781838956479"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1838956476"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=apY8EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=apY8EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=apY8EAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=apY8EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=apY8EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1350.03,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1215.03,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=apY8EAAAQBAJ&rdid=book-apY8EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1350030000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1215030000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Hanne_Wilhelmsen_Series_Books_1_5-sample-epub.acsm?id=apY8EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Hanne_Wilhelmsen_Series_Books_1_5-sample-pdf.acsm?id=apY8EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=apY8EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2_nFDwAAQBAJ",
+      "etag": "iIamQCYXgHo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2_nFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hymns from the Greek Office Books",
+        "subtitle": "Together with Centos and Suggestions",
+        "authors": [
+          "John Brownlie"
+        ],
+        "publisher": "Good Press",
+        "publishedDate": "2019-12-18",
+        "description": "\"Hymns from the Greek Office Books\" by John Brownlie. Published by Good Press. Good Press publishes a wide range of titles that encompasses every genre. From well-known classics & literary fiction and non-fiction to forgotten−or yet undiscovered gems−of world literature, we issue the books that need to be read. Each Good Press edition has been meticulously edited and formatted to boost readability for all e-readers and devices. Our goal is to produce eBooks that are user-friendly and accessible to everyone in a high-quality digital format.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "EAN:4064066160234"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 125,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2_nFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2_nFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=2_nFDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=2_nFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=2_nFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 159,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 159,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=2_nFDwAAQBAJ&rdid=book-2_nFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 159000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 159000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2_nFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "T_32DwAAQBAJ",
+      "etag": "MXANPKkq+bA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/T_32DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Bill Murdoch Mysteries: Books 1-3",
+        "subtitle": "Australian Crime Fiction (box set)",
+        "authors": [
+          "Ged Gillmore"
+        ],
+        "publisher": "deGrevilo",
+        "publishedDate": "2018-09-10",
+        "description": "Meet Bill Murdoch, the world's most reluctant private investigator… This box set contains all three books in the Bill Murdoch Mysteries series, each a perfect piece of modern crime fiction which will grab you and keep you guessing until the very last line. Tense and taut, smart and sharply-observed, this series is a 'cracking new addition to the Aussie crime genre'. HEADLAND (Book #1) What happens when a drug dealer is forced to turn detective? Meet Bill Murdoch, the world's most-reluctant private investigator... Murdoch’s doing just ﬁne, thanks for not asking. He’s dealing drugs for a crime syndicate in Sydney and saving for a house by the sea. But what does he think life is, a fairy tale? As the syndicate puts pressure on him to fill the shoes of his murdered boss, Murdoch is cornered by an equally formidable foe: the Australian Tax Ofﬁce demanding an explanation for his sizeable cash income. Murdoch spins a beautiful lie, telling tax inspector, Hannah Simms, he’s a private detective. When Simms asks him to investigate the mystery of her niece's disappearance, Murdoch grabs what he thinks is a golden opportunity to outrun the syndicate. But his arrival in the missing girl's small coastal home town causes an unexpected stir and the reluctant PI soon realises his troubles are only just beginning... CLASS ACT (Book #2) ** Nominated for Best Australian Crime Fiction [Ned Kelly Awards, 2018] ** Can a man who’s lived a life of crime ever escape his past? The world’s most reluctant private investigator is about to find out... Former bad boy turned local hero, Bill Murdoch, should be happy with his little piece of paradise. After all, he’s got the fancy car and the big house by the beach. The only trouble is he’s slowly suffocating in small town life. So when Murdoch is hired to investigate who framed wealthy businessman, James Harte, with the murder of a glamorous young woman, he jumps at the chance. Going undercover among the jet set, Murdoch is quickly drawn into an exciting world of yachts, horse racing and glitzy parties. But soon Murdoch’s shady past looks set to catch up with him and when he falls for Harte’s beautiful wife, Amanda, things take a deadly turn... BASE NATURE (Book #3) How far can you push a man before he reveals his base nature? Bill Murdoch is about to find out… Murdoch takes on two cases in as many days. First he is hired to find local man, Scott Patterson, the victim of a mysterious abduction. Then an impressive stranger arrives in town with a tempting offer. But has Patterson really been abducted? And is the stranger all he appears to be? As Murdoch gives in to temptation and risks everything by returning to his old criminal ways, the hunt for Scott Patterson takes an unexpected turn. Soon Murdoch and his partner, Davie Simms, are dragged into a depraved underworld of human trafficking, prostitution and torture, where they will find evil on their doorstep, and face a desperate fight for their lives... _____________________________________ PRAISE FOR THE MURDOCH BOOKS: \"Gillmore is a great author and knows how to make the characters and setting really interesting\" -- Book Addict's Reviews \"A lot of the success of HEADLAND is down to the character of Bill Murdoch. Dry as a chip, determined, understandably daft at times, he's a survivor first and foremost, but a decent bloke all the same. There's nuance and substance to everyone in this book...this is an extremely promising Australian thriller, PI noir debut\" -- Aust Crime \"[Murdoch] is a guy that is more than capable of handling himself in tough situations and is now on my list of favourite PI's!\" -- BookieWookie _____________________________________ Set in Sydney and small-town Australia, the books in this series are enjoyed by fans of Mick Herron, Peter Temple, Barry Maitland, Ragnar Jonasson, Erik Hamre, Jane Harper, Garry Disher, Mari Hannah, Dave Warner, Pete Brassett, and Iain Rankin's Rebus novels. Ready to meet your new favorite private investigator? Get the series now. Search terms: amateur sleuth, Australia, Australian, Australian crime fiction, British detective, crime, crime fiction, crime mystery, crime thriller, detective, female cop, hard-boiled, human trafficking, international, lad lit, men’s adventure, missing girl, mysteries, mystery, mystery & detective, mystery and detective, Mystery & Thrillers, Mystery and Thrillers, Mystery and thrillers hard- boiled, Mystery and thrillers noir, people smuggling, police procedural, private investigator, series, small town, suspense, thriller",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780648189022"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0648189023"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=T_32DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=T_32DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=T_32DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=T_32DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=T_32DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 754.54,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 754.54,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=T_32DwAAQBAJ&rdid=book-T_32DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 754540000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 754540000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=T_32DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IDjPDwAAQBAJ",
+      "etag": "u698LiHxQXo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IDjPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Veils and Vows Romance Collection (Books 0-3)",
+        "subtitle": "Marriage of Convenience Romances",
+        "authors": [
+          "Jean Oram"
+        ],
+        "publisher": "Oram Productions",
+        "publishedDate": "2020-02-09",
+        "description": "Sweet romance at its best. Fall in love with four small town marriage of convenience romances! Prequel: The Promise Will this race car driver and debutante be able to hold on to their love when reality comes knocking? Book 1: The Surprise Wedding Sometimes exes come in handy. Devon Mattson’s week couldn’t get much worse. Not only is he fake engaged to the woman who broke his heart a decade ago, but his goal of saving his hometown of Blueberry Springs has become dependent on the two of them playing nicely. Will a fake engagement help them overcome their painful past and lead them back to love once again? Book 2: A Pinch of Commitment When falling in love isn’t part of the contract. Chef Lily Harper grew up tagging along after Ethan who saved her from bullies, mud puddles and being an outsider. When Lily flees a nasty ex who won’t take a hint, she comes running home to Blueberry Springs, striking a deal with her childhood protector, Ethan. If he marries her, she’ll take his restaurant off his hands, giving him more time to spend on his dream tech business. It seems like an ideal agreement…until she begins to fall in love with the man who’s made it clear his heart will never be part of their fake marriage deal. Book 3: The Wedding Plan Falling in love wasn't part of the plan. They've promised their past mistakes won't impact their secret wedding plan. They’ve promised not to kiss…not to fall in love. The problem is, both Luke and Emma harbor enough secrets to destroy even the best laid wedding plans. Will these two lose everything when the truth rises to the surface? Or will they overcome their past so they can claim their future? Indulge in this sweet romance collection and start reading well into the night today! \"This is a sweet story of healing, forgiveness and moving forward.\" -- reader review from G. Anderson. \"I love books about true love and soul mates. I hated to put the book down. My husband had to remind me to go to bed.\" --reader review from Lisa F. If you love the small town words written by Jill Shalvis, Sophie Jacobs, Chris Keniston, Melody Grace, Melissa Foster, Addison Cole, Bella Andre, Lucy Kevin, Brenda Novak, Catherine Bybee, Kathryn Andrews, Ev Bishop, and Barbara Freethy try the Veils and Vows series! For readers who enjoyed sweetbriar cove series, whiskey creek, and The Callaways and The Gannett Island series, Seaside Summers, Faraday Country, The Sullivans and more! Jean’s books are also similar to: Jenny Hale, Jill Sanders, Debbie Macomber, Tracey Alvarez, Stacy Claflin, Robyn Carr, Jeanette Lewis, Kait Nolan, Sherryl Woods, Olivia Miles, Debbie White, Kristan Higgins, Chris Keniston, Faith Hogan, Jamie Beck, Catherine Bybee, Kimberly Rae Jordan, Liz Talley, Karen Kingsbury, Mary Campisi, Melissa Storm, Tracy Williams, Melissa McClone, Shirlee McCoy, Ava Miles, Sheila Roberts, Kirsten Osbourne, Pamela Kelley, Holly Martin, Donna Kauffman, Debra Clopton, Noelle Adams, Elena Aitken, Mindy Neff, Tracey Brogan, Erin Nichols, Elin Hildebrand, Samantha Chase, Sonya Weiss. Keywords: sweet romance, clean romance books, friendship, free romance, free ebook, family saga, small town romance series, clean and wholesome, romance series, romantic women’s fiction, best friends, women friends, lighthearted romance, fun romance, southern romance, beach read, friendship, heartwarming romance, laugh romance, feel good romance, inspirational romance, contemporary romance, happily ever after, HEA romance, 7 brides for 7 brothers, Hallmark movies, heartwarming by Harlequin, romantic comedy, romantic comedy series, funny romance, modern romance, lighthearted romance, light romance, romance for adults, contemporary romance 2019, swoonworthy, beach reads, good characters, romantic comedy books free, romance books free, family, love, love books, kissing books, long series, long romance series, captivating romance, forbidden love, beach romance, beach reads for women, books for summer, books for the beach, love and friendship, vacation romance, marriage of convenience romance, groom mail order, mail order brides, marriage of convenience romance, mail order romance with baby, second chance romance, second chance romance with baby, best friend marriage, marriage by accident, amnesia marriage, South Carolina romance, Jean Orem, Jean Orum, Jean Dram, Gene Oram, Gene Orum, Gene Orem, Montana romance, mountain town romance, best friend romance, forbidden romance, sisters boyfriend romance, fake engagement romance, fake marriage romance book, Indigo Bay Sweet Romances.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781989359150"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1989359159"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 878,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IDjPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IDjPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=IDjPDwAAQBAJ&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IDjPDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IDjPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 691.03,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 691.03,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IDjPDwAAQBAJ&rdid=book-IDjPDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 691030000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 691030000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IDjPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

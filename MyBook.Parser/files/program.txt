@@ -1,0 +1,2860 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 880,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "M_lQDwAAQBAJ",
+      "etag": "M5OK2sdTvZo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M_lQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Autism as a malicious generic program. Causes of its occurrence. Successful experience of the experimental group",
+        "authors": [
+          "Лиана Димитрошкина"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-12-20",
+        "description": "Nowadays, the diagnosis of \"autism\" becomes more and more widespread. Growth rates are monstrous, it is almost 100 times during the last 20 years.If you or your loved ones are facing this disease of your children, you might find it useful to learn from the book:• what are malicious generic programs and how they contribute to the autism development• why the number of diagnosed children is growing with the speed of wild fire• for what reason an autistic child is born in the family• is autism equals hopelessness• what progress you can achieve within 4 months if you start working with generic programs and intertwinings of the mother, without even involving the child• that mothers of autistic children say about the participation in the Program MAu-Therapy• about the report on the MAu-Therapy program at the congress of psychotherapists (Moscow, 2016)• what to treat: \"apple or apple tree\"; or how mother's actions to heal her own malicious generic programs affect the physical and emotional condition of the child.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041054991"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041054991"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M_lQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M_lQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=M_lQDwAAQBAJ&pg=PT37&dq=program&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=M_lQDwAAQBAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Autism_as_a_malicious_generic_program_Ca.html?hl=&id=M_lQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Autism_as_a_malicious_generic_program_Ca-sample-epub.acsm?id=M_lQDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Autism_as_a_malicious_generic_program_Ca-sample-pdf.acsm?id=M_lQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M_lQDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The consequences of this viral generic <b>program</b> – the drama of older sisters. There are thousands of older sisters who have faced a very different attitude from the mother when a younger sister appears, and very often the older sister&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8CaFDwAAQBAJ",
+      "etag": "rRGIhFZmcrA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8CaFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Standard for Program Management - Fourth Edition (RUSSIAN)",
+        "publisher": "Project Management Institute",
+        "publishedDate": "2019-01-01",
+        "description": "The Standard for Program Management – Fourth Edition differs from prior editions by focusing on the principles of good program management. Program activities have been realigned to program lifecycle phases rather than topics, and the first section was expanded to address the key roles of program manager, program sponsor and program management office. It has also been updated to better align with PMI's Governance of Portfolios, Programs, and Projects: A Practice Guide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781628256024"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1628256028"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8CaFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8CaFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=8CaFDwAAQBAJ&pg=PT127&dq=program&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8CaFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8CaFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5627.6,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 5627.6,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8CaFDwAAQBAJ&rdid=book-8CaFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5627600000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 5627600000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Standard_for_Program_Management_Fourth_E-sample-epub.acsm?id=8CaFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Standard_for_Program_Management_Fourth_E-sample-pdf.acsm?id=8CaFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8CaFDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Формулированне Закрытне <b>програм</b> программы Планирование \\ , программы Поставка &quot; программы управлениевыгодамипрограммы ,- &quot; &quot;. r &quot;. r&quot; &quot; &quot; * Идентификация * Получение н * Мониторинт * Консолидация * Монитор и квалификация приорнтизация&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VlszJwrS5lkC",
+      "etag": "hlGbKouuQls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VlszJwrS5lkC",
+      "volumeInfo": {
+        "title": "Programm (Program) srbske gimnazie Karlovacke, izdan Joannom Pantelic. (Programm des serbischen Gymnasiums zu Karlowitz)",
+        "publishedDate": "1853",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "ONB:+Z222841303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VlszJwrS5lkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VlszJwrS5lkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=VlszJwrS5lkC&pg=PA9&dq=program&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VlszJwrS5lkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VlszJwrS5lkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VlszJwrS5lkC&rdid=book-VlszJwrS5lkC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Programm_Program_srbske_gimnazie_Karlova.epub?id=VlszJwrS5lkC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VlszJwrS5lkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... 500 и 600 Фор . сребра : - и што се физикалный кабинетъ кабинетъ основа0 и е найнуждніймъ васада етварма снабдѣо . Види <b>програм</b> : овог число VII , г. ден одѣ Уставъ я устровнiв Гимназів Карловачке . Ово почива на основима одъ самогъ&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zuBmQA1VmpYC",
+      "etag": "3ehemNjqTz4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zuBmQA1VmpYC",
+      "volumeInfo": {
+        "title": "Program Plan",
+        "authors": [
+          "United States. Bureau of Justice Assistance"
+        ],
+        "publishedDate": "2000",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437011487374"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Crime prevention"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.2.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zuBmQA1VmpYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zuBmQA1VmpYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=zuBmQA1VmpYC&q=program&dq=program&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=zuBmQA1VmpYC&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Program_Plan.html?hl=&id=zuBmQA1VmpYC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zuBmQA1VmpYC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "BJA has four primary components: (1) the State and Local Assistance Division, which administers formula grant <b>programs</b> such as Byrne Formula Grants and Local Law Enforcement Block Grants; (2) the <b>Program</b> Development Division,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EPdKAQAAMAAJ",
+      "etag": "US60pTKQa04",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EPdKAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Guidelines for Program Analysis and Review",
+        "authors": [
+          "New York (State). Division of the Budget"
+        ],
+        "publishedDate": "1968",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112085287875"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Program budgeting"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EPdKAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EPdKAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=EPdKAQAAMAAJ&q=program&dq=program&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=EPdKAQAAMAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Guidelines_for_Program_Analysis_and_Revi.html?hl=&id=EPdKAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EPdKAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "PART 3 <b>PROGRAM</b> PLAN REPORT A. INTRODUCTION The <b>Program</b> Plan Report is to contain specific information on each of the following components: 1. Authorized <b>Programs</b>. 2. Proposed <b>Program</b> Changes. 3. <b>Program</b> Effectiveness Studies. 4."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cRBMAQAAMAAJ",
+      "etag": "9efh4Dxjx24",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cRBMAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Host Bibliographic Record for Boundwith Item Barcode 30112048173196 and Others",
+        "publishedDate": "2013",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112118487930"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cRBMAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cRBMAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=cRBMAQAAMAAJ&q=program&dq=program&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=cRBMAQAAMAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Host_Bibliographic_Record_for_Boundwith.html?hl=&id=cRBMAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cRBMAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Clean Lakes <b>Program</b> (Section 314 of the Act) has been reauthorized by both houses at the annual level of S30 million. It is this federal <b>program</b> which provided the initial catalyst for the nation&#39;s focus on lake management."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "25kYAQAAMAAJ",
+      "etag": "vKl+dk2NVgM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/25kYAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Using a Logic Model to Review and Analyze an Environmental Education Program",
+        "authors": [
+          "Thomas Joseph Marcinkowski"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000060341846"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 86,
+        "printType": "BOOK",
+        "categories": [
+          "Environmental education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=25kYAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=25kYAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=25kYAQAAMAAJ&q=program&dq=program&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=25kYAQAAMAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Using_a_Logic_Model_to_Review_and_Analyz.html?hl=&id=25kYAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=25kYAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a general model, it reflects common features of educational <b>programs</b> in the U.S., but does not include all elements ... to <b>program</b> logic and logic modeling (e.g., it does not address factors internal and external to a given <b>program</b>)."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BkChUJQmEgAC",
+      "etag": "DOfqHC/jiI4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BkChUJQmEgAC",
+      "volumeInfo": {
+        "title": "Computer Program Abstracts",
+        "publishedDate": "1969",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000011048778"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computer programs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.1.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BkChUJQmEgAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BkChUJQmEgAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=BkChUJQmEgAC&pg=RA1-PA83&dq=program&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BkChUJQmEgAC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BkChUJQmEgAC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=BkChUJQmEgAC&rdid=book-BkChUJQmEgAC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Computer_Program_Abstracts.epub?id=BkChUJQmEgAC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BkChUJQmEgAC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Analysis of low resolution nass spectra GSC - 11279 C06 M71-10079 SPERRY RAND CORP . , NEW YORK , Injection covariance and mapping matrix conversion <b>program</b> NPO - 10236 c19 M70-10088 STANFORD LINEAR ACCELERATOR CENTER , CALIP ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "i0I7AQAAIAAJ",
+      "etag": "YLiaTp8Skl0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/i0I7AQAAIAAJ",
+      "volumeInfo": {
+        "title": "Accelerated Development Program Projecting to 1980 for the California State Park System",
+        "authors": [
+          "California. Department of Parks and Recreation"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105130595361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Beaches"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=i0I7AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=i0I7AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=i0I7AQAAIAAJ&q=program&dq=program&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=i0I7AQAAIAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accelerated_Development_Program_Projecti.html?hl=&id=i0I7AQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=i0I7AQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DEPARTMENTAL PLANN1NG AND DEVELOPMENT <b>PROGRAMS</b> The planning and development <b>programs</b> of the Department of Parks and Recreation form the basis for making use of California&#39;s total recreation resources to meet the State&#39;s total recreation&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wser86GoyvMC",
+      "etag": "17JymTJ0yi4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wser86GoyvMC",
+      "volumeInfo": {
+        "title": "Agricultural Conservation Program",
+        "authors": [
+          "United States. Congress. House. Committee on Appropriations"
+        ],
+        "publishedDate": "1958",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0000090399"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wser86GoyvMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wser86GoyvMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Wser86GoyvMC&pg=PA1444&dq=program&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wser86GoyvMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wser86GoyvMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=Wser86GoyvMC&rdid=book-Wser86GoyvMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Agricultural_Conservation_Program.epub?id=Wser86GoyvMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wser86GoyvMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The <b>program</b> for 1957 The Department carried out the 1957 agricultural conservation <b>program</b> consistent with the authorization contained in the Department of Agriculture and Farm Credit Administration Appropriation Act , 1957."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q9wGEAAAQBAJ",
+      "etag": "vltfvlj8tA4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q9wGEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Policy, Program and Project Evaluation",
+        "subtitle": "A Toolkit for Economic Analysis in a Changing World",
+        "authors": [
+          "Anwar Shah"
+        ],
+        "publisher": "Springer Nature",
+        "publishedDate": "2020-11-02",
+        "description": "Evaluation in recent decades has evolved from a tool for project appraisals to a more widely used framework for public decision-making and operational management. Most evaluation books are focused on traditional tools of analysis such as cost-effectiveness and cost-benefit analysis to the neglect of modern tools such as multi-criteria evaluation, social marginal cost of funds analysis, data envelopment analysis, results-oriented management and evaluation and theory based evaluations. This edited volume provides an easily accessible and comprehensive survey of both traditional and modern tools of analysis that are used in the evaluation literature to evaluate public projects, programs, policies and policy analysis and advice. The book will be of interest to students, scholars, researchers, practitioners and policy makers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030485672"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030485676"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 410,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q9wGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q9wGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=q9wGEAAAQBAJ&pg=PA26&dq=program&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q9wGEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q9wGEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 7360.32,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 7360.32,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q9wGEAAAQBAJ&rdid=book-q9wGEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 7360320000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 7360320000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Policy_Program_and_Project_Evaluation-sample-epub.acsm?id=q9wGEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Policy_Program_and_Project_Evaluation-sample-pdf.acsm?id=q9wGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q9wGEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Higher coverage efficiency can also help <b>program</b> managers to gain the approval and support of <b>program</b> sponsors and other stakeholders. Another problem in public <b>programs</b> is the bias in target participation. The bias refers to the degree&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fFPgS8_bdyoC",
+      "etag": "cOKWC5cu04c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fFPgS8_bdyoC",
+      "volumeInfo": {
+        "title": "Sweat Equity and the HOME Program",
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210024951400"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 51,
+        "printType": "BOOK",
+        "categories": [
+          "Government publications"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fFPgS8_bdyoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fFPgS8_bdyoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=fFPgS8_bdyoC&pg=PA11&dq=program&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=fFPgS8_bdyoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=fFPgS8_bdyoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=fFPgS8_bdyoC&rdid=book-fFPgS8_bdyoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Sweat_Equity_and_the_HOME_Program.epub?id=fFPgS8_bdyoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fFPgS8_bdyoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "DESIGNING A SWEAT EQUITY <b>PROGRAM</b> Appendixes Appendix A : Guidelines for HOME Sweat Equity <b>Programs</b>. Chapter Three O contribution to the project , and the <b>program</b> that uses large volunteer teams to build a number of houses simultaneously&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UycHBPrEQ7wC",
+      "etag": "vjQT4NGA3B0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UycHBPrEQ7wC",
+      "volumeInfo": {
+        "title": "A Wind Tunnel Free-flight Data-reduction Program for Either Spinning Or Non Spinning Models Utilizing Data from a Single Plane",
+        "authors": [
+          "Charles Eugene Knadler"
+        ],
+        "publishedDate": "1968",
+        "description": "This report describes PLANAR, a data-reduction program for wind tunnel free-flight tests which utilizes data from a single plane. The program calculates moment, force and, in the case of a spinning model, Magnus coefficients. The program is written for an IBM 7090 computer operating under the IBSYS monitor. The mathematical formulation of the problem and the computer program are presented. The program description includes a FORTRAN listing and instructions for its use. (Author).",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015095150309"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 19,
+        "printType": "BOOK",
+        "categories": [
+          "Wind tunnels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UycHBPrEQ7wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UycHBPrEQ7wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UycHBPrEQ7wC&pg=RA7-PT5&dq=program&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UycHBPrEQ7wC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UycHBPrEQ7wC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=UycHBPrEQ7wC&rdid=book-UycHBPrEQ7wC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/A_Wind_Tunnel_Free_flight_Data_reduction.epub?id=UycHBPrEQ7wC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UycHBPrEQ7wC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A WIND TUNNEL TREE - FLIGHT DATA - RENDUCTION <b>PROGRAM</b> FOR EITHER SPINNING OR NONSPINNING 3 . MODELS UTILIZING DATA FROM A SINGLE PLANE ( u ) , by Charles E. Knadler , Jr. 3 June 1968 . v.p. , illus . , charts , tables , diagrs . 5 ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A2HVbcHybHgC",
+      "etag": "e7OmZgtE4B0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A2HVbcHybHgC",
+      "volumeInfo": {
+        "title": "Refugee Resettlement Program",
+        "authors": [
+          "United States. Office of Refugee Resettlement"
+        ],
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "COLUMBIA:CU16706242"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Refugees"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A2HVbcHybHgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A2HVbcHybHgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=A2HVbcHybHgC&pg=PA14&dq=program&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=A2HVbcHybHgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=A2HVbcHybHgC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=A2HVbcHybHgC&rdid=book-A2HVbcHybHgC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Refugee_Resettlement_Program.epub?id=A2HVbcHybHgC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A2HVbcHybHgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In FY 1992 , the refugee domestic assistance <b>program</b> was funded under the Departments of Labor , Health and Human Services , and Education , and Related Agencies Appropriations Act ( Pub . L. No. 102-170 ) . The total funding that the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9ZWcAgAAQBAJ",
+      "etag": "gnJc6t5Wvm8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9ZWcAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Community Development Quota Program in Alaska",
+        "authors": [
+          "National Research Council",
+          "Division on Earth and Life Studies",
+          "Polar Research Board",
+          "Ocean Studies Board",
+          "Commission on Geosciences, Environment and Resources",
+          "Committee to Review the Community Development Quota Program"
+        ],
+        "publisher": "National Academies Press",
+        "publishedDate": "1999-06-03",
+        "description": "This book reviews the performance and effectiveness of the Community Development Quotas (CDQ) programs that were formed as a result of the Sustainable Fisheries Act of 1996. The CDQ program is a method of allocating access to fisheries to eligible communities with the intent of promoting local social and economic conditions through participation in fishing-related activities. The book looks at those Alaskan fisheries that have experience with CDQs, such as halibut, pollock, sablefish, and crab, and comments on the extent to which the programs have met their objectives--helping communities develop ongoing commercial fishing and processing activities, creating employment opportunities, and providing capital for investment in fishing, processing, and support projects such as infrastructure. It also considers how CDQ-type programs might apply in the Western Pacific.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780309060820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0309060826"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Technology & Engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9ZWcAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9ZWcAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=9ZWcAgAAQBAJ&pg=PT122&dq=program&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=9ZWcAgAAQBAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Community_Development_Quota_Program.html?hl=&id=9ZWcAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9ZWcAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "National Research Council, Division on Earth and Life Studies, Polar Research Board, Ocean Studies Board, Commission on Geosciences, Environment and Resources, Committee to Review the Community Development Quota <b>Program</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F6LVOHTuXLMC",
+      "etag": "8m3/Aujwzvc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F6LVOHTuXLMC",
+      "volumeInfo": {
+        "title": "Regulatory Program of the United States Government",
+        "authors": [
+          "United States. Office of Management and Budget"
+        ],
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105111228735"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Administrative agencies"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F6LVOHTuXLMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F6LVOHTuXLMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=F6LVOHTuXLMC&pg=PA138&dq=program&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=F6LVOHTuXLMC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F6LVOHTuXLMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=F6LVOHTuXLMC&rdid=book-F6LVOHTuXLMC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Regulatory_Program_of_the_United_States.epub?id=F6LVOHTuXLMC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F6LVOHTuXLMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Currently , there are a number of diverse substance abuse testing <b>programs</b> being conducted at DOE facilities by the ... The DOE proposed <b>program</b> would establish a baseline <b>program</b> that is uniform and consistently applied by all affected&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bzfomwxamkkC",
+      "etag": "0bNdBGILKUs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bzfomwxamkkC",
+      "volumeInfo": {
+        "title": "Combined Coastal Management Program and Final Environmental Impact Statement for the State of Michigan",
+        "authors": [
+          "National Ocean Survey. Office of Coastal Zone Management"
+        ],
+        "publishedDate": "1978",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210024718023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 287,
+        "printType": "BOOK",
+        "categories": [
+          "Coastal zone management"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bzfomwxamkkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bzfomwxamkkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=bzfomwxamkkC&pg=PA183&dq=program&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bzfomwxamkkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bzfomwxamkkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=bzfomwxamkkC&rdid=book-bzfomwxamkkC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Combined_Coastal_Management_Program_and.epub?id=bzfomwxamkkC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bzfomwxamkkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Local and Regional Local units of government , i.e. , counties , townships , cities and villages will both impact on and be impacted by the State <b>programs</b> , projects and processes described immediately above . The <b>Program</b> will increase&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5l8pAgAAQBAJ",
+      "etag": "sSI6z0bYFIk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5l8pAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The HM Learning and Study Skills Program",
+        "subtitle": "Level 2: Teacher's Guide",
+        "authors": [
+          "Judy Tilton Brunner",
+          "Matthew S. Hudson"
+        ],
+        "publisher": "R&L Education",
+        "publishedDate": "2013-11-21",
+        "description": "The hm Learning and Study Skills Program: Level II was designed to provide an introduction to learning and study skills for 8th, 9th, and 10th grade students through a series of activity-oriented units. It is structured on the assumption that an activity-oriented lesson is the most effective instructional strategy for the teaching of study skills: more succinctly, that “learning by doing” is the best way ‘study smart’. The Level II Teacher’s Guide includes a pretest, a wide variety of teaching suggestions, unit summaries, activities for retrieval and closure as well as teaching adaptations through the use of technology. It was published to help teachers assist students in the development of essential study skills and to reinforce their existing strategies that work. The Program supports academic independence for students that have a wide range of ability with college and career readiness as a tangible and realistic goal.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781475803815"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1475803818"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5l8pAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5l8pAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=5l8pAgAAQBAJ&pg=PA7&dq=program&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=5l8pAgAAQBAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_HM_Learning_and_Study_Skills_Program.html?hl=&id=5l8pAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_HM_Learning_and_Study_Skills_Program-sample-epub.acsm?id=5l8pAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_HM_Learning_and_Study_Skills_Program-sample-pdf.acsm?id=5l8pAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5l8pAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "For the student who has already mastered a skill, participation in one of the <b>program&#39;s</b> lessons offers review, reinforcement, and the opportunity to increase one&#39;s level of competence in that skill. Thus, the <b>program</b> allows for the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "V3JQDwAAQBAJ",
+      "etag": "itpMu21fG8M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/V3JQDwAAQBAJ",
+      "volumeInfo": {
+        "title": "GPU Parallel Program Development Using CUDA",
+        "authors": [
+          "Tolga Soyata"
+        ],
+        "publisher": "CRC Press",
+        "publishedDate": "2018-01-19",
+        "description": "GPU Parallel Program Development using CUDA teaches GPU programming by showing the differences among different families of GPUs. This approach prepares the reader for the next generation and future generations of GPUs. The book emphasizes concepts that will remain relevant for a long time, rather than concepts that are platform-specific. At the same time, the book also provides platform-dependent explanations that are as valuable as generalized GPU concepts. The book consists of three separate parts; it starts by explaining parallelism using CPU multi-threading in Part I. A few simple programs are used to demonstrate the concept of dividing a large task into multiple parallel sub-tasks and mapping them to CPU threads. Multiple ways of parallelizing the same task are analyzed and their pros/cons are studied in terms of both core and memory operation. Part II of the book introduces GPU massive parallelism. The same programs are parallelized on multiple Nvidia GPU platforms and the same performance analysis is repeated. Because the core and memory structures of CPUs and GPUs are different, the results differ in interesting ways. The end goal is to make programmers aware of all the good ideas, as well as the bad ideas, so readers can apply the good ideas and avoid the bad ideas in their own programs. Part III of the book provides pointer for readers who want to expand their horizons. It provides a brief introduction to popular CUDA libraries (such as cuBLAS, cuFFT, NPP, and Thrust),the OpenCL programming language, an overview of GPU programming using other programming languages and API libraries (such as Python, OpenCV, OpenGL, and Apple’s Swift and Metal,) and the deep learning library cuDNN.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781498750769"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1498750761"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=V3JQDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=V3JQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=V3JQDwAAQBAJ&pg=PA59&dq=program&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=V3JQDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=V3JQDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4476.28,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 4476.28,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=V3JQDwAAQBAJ&rdid=book-V3JQDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4476280000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 4476280000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/GPU_Parallel_Program_Development_Using_C-sample-pdf.acsm?id=V3JQDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=V3JQDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "BAD THINGS could happen such as: (1) the disk could be full, (2) memory could be full, (3) the user could enter a response that causes the <b>program</b> to crash, (4) the <b>program</b> could request an extreme number of threads, for which there are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AQgvoe1mr3QC",
+      "etag": "8AXD1KJWsoI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AQgvoe1mr3QC",
+      "volumeInfo": {
+        "title": "The Food Stamp Program's Elderly Nutrition Pilot Demonstration",
+        "subtitle": "Final Evaluation Design",
+        "authors": [
+          "Merrile Sing"
+        ],
+        "publishedDate": "2005",
+        "description": "Low participation rates in the Food Stamp Program (FSP) by poor elderly individ. have been a persistent problem. No more than 1/3 of eligible elderly individuals have participated in the FSP -- a participation (PA) rate that is far lower than that of any other major demographic group. To address this problem, the USDA is funding the Elderly Nutrition Demon. -- 6 separate pilot programs that are testing 3 alternative ways to increase elderly PA in the FSP & improve the satis. of elderly persons who participate. Insights & info. obtained from the eval. of these demonstrations should help fed. policymakers formulate effective strategies for increasing FSP PA among the elderly. This report presents eval. design options, schedules, & cost estimates for the eval. Illus.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCBK:C093638537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Elderly poor"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AQgvoe1mr3QC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AQgvoe1mr3QC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=AQgvoe1mr3QC&q=program&dq=program&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=AQgvoe1mr3QC&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Food_Stamp_Program_s_Elderly_Nutriti.html?hl=&id=AQgvoe1mr3QC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AQgvoe1mr3QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "TABLE C.2 FLORIDA STAKEHOLDERS Stakeholder Type Organization Key Staff Grantee Florida Dept. of Children and <b>Program</b> administrator Families Operation review specialist Economic Self Sufficiency - Data systems analysts Services y y Food&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "geFYeAtRljwC",
+      "etag": "AAK+n4cEeBM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/geFYeAtRljwC",
+      "volumeInfo": {
+        "title": "National Cancer Program",
+        "subtitle": "Report of the President's Cancer Panel",
+        "authors": [
+          "United States. President's Cancer Panel"
+        ],
+        "publishedDate": "1974",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105219438590"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 12,
+        "printType": "BOOK",
+        "categories": [
+          "Cancer"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=geFYeAtRljwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=geFYeAtRljwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=geFYeAtRljwC&pg=PA9&dq=program&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=geFYeAtRljwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=geFYeAtRljwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=geFYeAtRljwC&rdid=book-geFYeAtRljwC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/National_Cancer_Program.epub?id=geFYeAtRljwC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=geFYeAtRljwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Panel believes that the Centers <b>Program</b> will greatly enrich the fundamental research in cancer and will improve and extend the scope of the best cancer treatment . The Director , the Board , and the Panel are all aware of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "SoAzFzFkq-IC",
+      "etag": "lTGNW4kk9Us",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/SoAzFzFkq-IC",
+      "volumeInfo": {
+        "title": "Setting and Monitoring Program Strategies",
+        "subtitle": "Agency Directive",
+        "authors": [
+          "United States. Agency for International Development. Bureau for Policy and Program Coordination"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89050395268"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 34,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=SoAzFzFkq-IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=SoAzFzFkq-IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=SoAzFzFkq-IC&pg=PA4&dq=program&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=SoAzFzFkq-IC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SoAzFzFkq-IC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=SoAzFzFkq-IC&rdid=book-SoAzFzFkq-IC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Setting_and_Monitoring_Program_Strategie.epub?id=SoAzFzFkq-IC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=SoAzFzFkq-IC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( iii ) to establish a planning framework for allocating Agency resources and for monitoring the progress and effectiveness of the Agency&#39;s <b>programs</b> in accomplishing their objectives . III . ORGANIZATIONAL FRAMEWORK FOR SETTING <b>PROGRAM</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yITZCpwXB8MC",
+      "etag": "9GZzZDCC++o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yITZCpwXB8MC",
+      "volumeInfo": {
+        "title": "The disadvantaged business enterprise program of the Federal-Aid Highway Act",
+        "subtitle": "hearing before the Subcommittee on Transportation of the Committee on Environment and Public Works, United States Senate, Ninety-ninth Congress, first session, Novembver 19, 1985",
+        "authors": [
+          "United States. Congress. Senate. Committee on Environment and Public Works. Subcommittee on Transportation"
+        ],
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5133086"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 462,
+        "printType": "BOOK",
+        "categories": [
+          "Federal aid to minority business enterprises"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yITZCpwXB8MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yITZCpwXB8MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=yITZCpwXB8MC&pg=PA317&dq=program&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yITZCpwXB8MC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yITZCpwXB8MC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=yITZCpwXB8MC&rdid=book-yITZCpwXB8MC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/The_disadvantaged_business_enterprise_pr.epub?id=yITZCpwXB8MC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yITZCpwXB8MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I believe training and technical assistance are important to the success of the <b>program</b> . In order to help DBE&#39;s better manage their resources and to provide technical assistance , industry training <b>programs</b> and mentor / protege&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JwIoDwAAQBAJ",
+      "etag": "Dp1ytpaorxo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JwIoDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Dialogue and Difference in a Teacher Education Program",
+        "subtitle": "A 16-Year Sociocultural Study of a Professional Development School",
+        "authors": [
+          "Marilyn Johnston-Parsons"
+        ],
+        "publisher": "IAP",
+        "publishedDate": "2012-05-01",
+        "description": "This book is a longitudinal study of a 10-year experimental teacher education program. Follow-up studies and writing continued for 6 years after the program closed. This case study describes a search for effective and socially just practices within a long-term reform initiative intended to prepare teachers for urban schools. The program was run through a Professional Development School--a collaboration between a university program and a diverse group of practicing teachers; and the book was written collaboratively by many of the participants—faculty, mentor teachers, doctoral students, and teacher candidates/graduates. There are few longitudinal studies of teacher education programs, especially ones that focus on what was learned and told by those who did the learning. The narratives here are rich, diverse, and multivocal. They capture the complexity of a reform initiative conducted within a democratic context. It’s difficult, messy and as varied as is democracy itself. The program was framed by a sociocultural perspective and the focus was on learning through difference. Dialogue across difference, which is more than just talk, was both the method for doing research and the means for learning. The program described here began in the ferment of teacher education reform in the early 1990s, responding to the critics of the mid-1980s; and this account of it is finished at a time when teacher education is again under attack from a different direction. Criticized earlier for being too progressive, teacher education is now seen as too conservative. The longitudinal results of this program show high retention rates and ground the argument that quality teacher preparation programs for teaching in urban schools may well be cost effective, as well as provide increased student learning. This is counter to the current move to shorten teacher preparation programs, at a time of low teacher retention in our under resourced urban schools. The book does not advocate a model for teacher education, but it aims to provide principles for practice that include school/university collaboration, democratic dialogue across differences, and inquiry as a way to guide reform.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781617357671"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1617357677"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 329,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JwIoDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JwIoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=JwIoDwAAQBAJ&pg=PA224&dq=program&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=JwIoDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=JwIoDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5739.19,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 5739.19,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=JwIoDwAAQBAJ&rdid=book-JwIoDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5739190000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 5739190000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Dialogue_and_Difference_in_a_Teacher_Edu-sample-pdf.acsm?id=JwIoDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JwIoDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "that they were not feeling as well prepared after teaching as they did while in their <b>program</b>. If evaluations of a teacher education <b>program</b> increase after graduation, as in our data, it might suggest an increased valuing of their&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6F1BYqZUkD0C",
+      "etag": "Z/KshMGBuTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6F1BYqZUkD0C",
+      "volumeInfo": {
+        "title": "Regulations Governing the Vocational Rehabilitation Program ... May 1958",
+        "authors": [
+          "United States. Department of Health, Education, and Welfare. Vocational Rehabilitation Administration"
+        ],
+        "publishedDate": "1957",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105219390668"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 25,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6F1BYqZUkD0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6F1BYqZUkD0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=6F1BYqZUkD0C&pg=PA9&dq=program&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6F1BYqZUkD0C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6F1BYqZUkD0C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=6F1BYqZUkD0C&rdid=book-6F1BYqZUkD0C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Regulations_Governing_the_Vocational_Reh.epub?id=6F1BYqZUkD0C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6F1BYqZUkD0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "the administration of the vocational rehabilitation <b>program</b> of the State agency , shall be required to devote his full time and efforts to the vocational rehabilitation <b>program</b> , with the following excep tions : ( a ) upon the request&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "o0JrIIPM3FIC",
+      "etag": "5/VMybttUEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/o0JrIIPM3FIC",
+      "volumeInfo": {
+        "title": "Food Assistance and Nutrition Research Small Grants Program",
+        "subtitle": "Executive Summaries of 1998 Research Grants",
+        "publishedDate": "1999",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435069968758"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 27,
+        "printType": "BOOK",
+        "categories": [
+          "Food relief"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=o0JrIIPM3FIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=o0JrIIPM3FIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=o0JrIIPM3FIC&pg=PA24&dq=program&hl=&cd=26&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=o0JrIIPM3FIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=o0JrIIPM3FIC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=o0JrIIPM3FIC&rdid=book-o0JrIIPM3FIC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Food_Assistance_and_Nutrition_Research_S.epub?id=o0JrIIPM3FIC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=o0JrIIPM3FIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Impact of Welfare Reform on Food Assistance <b>Programs</b> on American Indian Reservations : The Northern Cheyenne Case Study priority . Prevalence of the value placed on sharing and caring for others is evident in the low to nonexistent&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "a40ISQNe52EC",
+      "etag": "YdFlXsjAScs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/a40ISQNe52EC",
+      "volumeInfo": {
+        "title": "Nuclear Safety Research Development Program",
+        "subtitle": "Summary Report",
+        "authors": [
+          "U.S. Atomic Energy Commission. Division of Reactor Development"
+        ],
+        "publishedDate": "1964",
+        "description": "This program is being carried out to provide a technological basis for the incorporation of the highest degree of public and personnel protection, consistent with economic and military requirements, in all the varied applications of reactors and other nuclear devices in the over-all program of the Division.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015095068337"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 87,
+        "printType": "BOOK",
+        "categories": [
+          "Nuclear engineering"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.4.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=a40ISQNe52EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=a40ISQNe52EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=a40ISQNe52EC&pg=PA11&dq=program&hl=&cd=27&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=a40ISQNe52EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=a40ISQNe52EC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=a40ISQNe52EC&rdid=book-a40ISQNe52EC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Nuclear_Safety_Research_Development_Prog.epub?id=a40ISQNe52EC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=a40ISQNe52EC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Nuclear Safety Research and Development <b>Program</b> therefor includes a comprehensive analytical , experimental , and engineering - scale test effort to develop information essential to provide an adequate basis for the safe design&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F2Z7YI7O5hoC",
+      "etag": "BIgUrhZkeIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F2Z7YI7O5hoC",
+      "volumeInfo": {
+        "title": "Small Business Development Center Program",
+        "subtitle": "Joint Hearing Before the Subcommittee on SBA and SBIC Authority, Minority Enterprise and General Small Business Problems of the Committee on Small Business, House of Representatives with the Committee on Small Business, United States Senate, Ninety-eighth Congress, First Session",
+        "authors": [
+          "United States. Congress. House. Committee on Small Business. Subcommittee on SBA and SBIC Authority, Minority Enterprise, and General Small Business Problems"
+        ],
+        "publishedDate": "1984",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:AA0000586040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Small business"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F2Z7YI7O5hoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F2Z7YI7O5hoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=F2Z7YI7O5hoC&pg=PA125&dq=program&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=F2Z7YI7O5hoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=F2Z7YI7O5hoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=F2Z7YI7O5hoC&rdid=book-F2Z7YI7O5hoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Small_Business_Development_Center_Progra.epub?id=F2Z7YI7O5hoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F2Z7YI7O5hoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easy access to quality , low - cost advisory services , counseling <b>programs</b> , and educational services such as those of SBDC will help to ensure that the small business community in South Carolina is in a much stronger position to fully&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gZwBbrz7_OoC",
+      "etag": "GQRUPjyVlrw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gZwBbrz7_OoC",
+      "volumeInfo": {
+        "title": "Research Program Plan",
+        "authors": [
+          "National Institute of Justice (U.S.)"
+        ],
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000010791444"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Criminal justice, Administration of"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gZwBbrz7_OoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gZwBbrz7_OoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=gZwBbrz7_OoC&pg=PA97&dq=program&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gZwBbrz7_OoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gZwBbrz7_OoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=gZwBbrz7_OoC&rdid=book-gZwBbrz7_OoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Research_Program_Plan.epub?id=gZwBbrz7_OoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gZwBbrz7_OoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This need forms the mandate of the Institute&#39;s Special Initiative on Drug <b>Program</b> Evaluation . The mission of this special initiative is to evaluate innovative and model <b>programs</b> in the enforcement of drug control efforts as well as&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YP9fsQIbw20C",
+      "etag": "X82KX9sdwPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YP9fsQIbw20C",
+      "volumeInfo": {
+        "title": "Farm Program--food Supply",
+        "subtitle": "Studies and Data on the Farm Program",
+        "authors": [
+          "United States. Congress. Senate. Committee on Agriculture and Forestry"
+        ],
+        "publishedDate": "1973",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "SRLF:A0000657890"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 75,
+        "printType": "BOOK",
+        "categories": [
+          "Agricultural laws and legislation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YP9fsQIbw20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YP9fsQIbw20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=YP9fsQIbw20C&pg=PA48&dq=program&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YP9fsQIbw20C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YP9fsQIbw20C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YP9fsQIbw20C&rdid=book-YP9fsQIbw20C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Farm_Program_food_Supply.epub?id=YP9fsQIbw20C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YP9fsQIbw20C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "50 - million - acre <b>program</b> to $ 1,383 million for a 60 - million - acre <b>program</b> . As a result of methods used , both sets of estimates are probably lower than would actually be required . Both studies show that production of the major&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FeklBQAAQBAJ",
+      "etag": "d/eGKVBPgI0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FeklBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Interactive Theorem Proving and Program Development",
+        "subtitle": "Coq’Art: The Calculus of Inductive Constructions",
+        "authors": [
+          "Yves Bertot",
+          "Pierre Castéran"
+        ],
+        "publisher": "Springer Science & Business Media",
+        "publishedDate": "2013-03-14",
+        "description": "A practical introduction to the development of proofs and certified programs using Coq. An invaluable tool for researchers, students, and engineers interested in formal methods and the development of zero-fault software.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783662079645"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "366207964X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FeklBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FeklBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=FeklBQAAQBAJ&pg=PA5&dq=program&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=FeklBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=FeklBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 6061.29,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 6061.29,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=FeklBQAAQBAJ&rdid=book-FeklBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 6061290000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 6061290000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Interactive_Theorem_Proving_and_Program-sample-pdf.acsm?id=FeklBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FeklBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "1.4 Specifications and Certified <b>Programs</b> The few examples we have already seen show that propositions can refer to data and <b>programs</b>. The Coq type system also makes it possible to consider the converse: the type of a <b>program</b> can&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7_gO5D31WgsC",
+      "etag": "RnS3YEiEXvI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7_gO5D31WgsC",
+      "volumeInfo": {
+        "title": "Residential Program Highlights",
+        "authors": [
+          "National Fire Academy"
+        ],
+        "publishedDate": "1982",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:30000010549966"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fire prevention"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7_gO5D31WgsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7_gO5D31WgsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=7_gO5D31WgsC&pg=PA10&dq=program&hl=&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7_gO5D31WgsC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7_gO5D31WgsC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=7_gO5D31WgsC&rdid=book-7_gO5D31WgsC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7_gO5D31WgsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Since it began in 1980 , the National Fire Academy , a component of the NETC , has graduated thousands of students from its resident <b>program</b> . These graduates came from the volunteer and paid fire service , from emergency and disaster&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IRxmOwZPxIoC",
+      "etag": "7tF65e67SOM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IRxmOwZPxIoC",
+      "volumeInfo": {
+        "title": "Eighteenth Annual Philip A. Connelly Awards Program for Excellence in Army Food Service",
+        "publishedDate": "1986",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "MINN:31951002949204L"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Food service"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IRxmOwZPxIoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IRxmOwZPxIoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=IRxmOwZPxIoC&pg=PP3&dq=program&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IRxmOwZPxIoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IRxmOwZPxIoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IRxmOwZPxIoC&rdid=book-IRxmOwZPxIoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Eighteenth_Annual_Philip_A_Connelly_Awar.epub?id=IRxmOwZPxIoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IRxmOwZPxIoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "295 GOVERNMENT PUBLICATIONS DIVISION ) Food <b>Program</b> Eighteenth Annual Philip A. Connelly Awards <b>Program</b> for Excellence in Army Food Service | FIELD KITCHEN CATEGORY CHECKLIST For use of this form ,. WILS GOVU D 101.4 : 30-85-2 D101.4 ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZLEyYhYPkY4C",
+      "etag": "sw3rnA4XDWE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZLEyYhYPkY4C",
+      "volumeInfo": {
+        "title": "Defense Acquisition Improvement Program",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210023598806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 21,
+        "printType": "BOOK",
+        "categories": [
+          "Government publications"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZLEyYhYPkY4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZLEyYhYPkY4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ZLEyYhYPkY4C&pg=PA19&dq=program&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZLEyYhYPkY4C&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZLEyYhYPkY4C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=ZLEyYhYPkY4C&rdid=book-ZLEyYhYPkY4C&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Defense_Acquisition_Improvement_Program.epub?id=ZLEyYhYPkY4C&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZLEyYhYPkY4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Significant progress has been made towards the implementation of the Acquisition Improvement <b>Program</b> . The Deputy Secretary of Defense has concluded that 22 of the entire 32 Actions are either completed or on track ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OfWFSrCcI7QC",
+      "etag": "lLwM0oguTNI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OfWFSrCcI7QC",
+      "volumeInfo": {
+        "title": "Geothermal Energy Research, Development & Demonstration Program, Annual Report",
+        "authors": [
+          "United States. Energy Research and Development Administration. Division of Geothermal Energy"
+        ],
+        "publishedDate": "1977",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32435073181919"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Geothermal resources"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OfWFSrCcI7QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OfWFSrCcI7QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OfWFSrCcI7QC&pg=RA1-PA8&dq=program&hl=&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OfWFSrCcI7QC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OfWFSrCcI7QC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=OfWFSrCcI7QC&rdid=book-OfWFSrCcI7QC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Geothermal_Energy_Research_Development_D.epub?id=OfWFSrCcI7QC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OfWFSrCcI7QC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Scientific and technical education <b>programs</b> ; and O An international cooperation <b>program</b> . FEDERAL <b>PROGRAM</b> The Federal Geothermal Energy Research , Development and Demonstration <b>Program</b> is aimed at opening the option for early&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YS8wZ0_seEoC",
+      "etag": "fOtaVoyr6Ow",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YS8wZ0_seEoC",
+      "volumeInfo": {
+        "title": "Review of Voluntary Agreements Program Under the Defense Production Act",
+        "authors": [
+          "United States. Department of Justice"
+        ],
+        "publishedDate": "1950-12-07",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B5346526"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Defense industries"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.6.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YS8wZ0_seEoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YS8wZ0_seEoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=YS8wZ0_seEoC&pg=RA7-PP3&dq=program&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YS8wZ0_seEoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YS8wZ0_seEoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=YS8wZ0_seEoC&rdid=book-YS8wZ0_seEoC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Review_of_Voluntary_Agreements_Program_U.epub?id=YS8wZ0_seEoC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YS8wZ0_seEoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Government&#39;s tungsten expansion <b>program</b> . A. Need for a <b>program</b> . B. Government agencies responsible for the <b>program</b> . C. Conservation , priorities , and allocations . D. The domestic purchase <b>program</b>.1. Price ceilings --- 2."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xxgDb9tJUwcC",
+      "etag": "Nvl3RCbJz5w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xxgDb9tJUwcC",
+      "volumeInfo": {
+        "title": "Operation of the Trade Agreements Program",
+        "publishedDate": "1955",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "OSU:32437122927599"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Foreign trade regulation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xxgDb9tJUwcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xxgDb9tJUwcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=xxgDb9tJUwcC&pg=PA32&dq=program&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xxgDb9tJUwcC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xxgDb9tJUwcC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=xxgDb9tJUwcC&rdid=book-xxgDb9tJUwcC&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Operation_of_the_Trade_Agreements_Progra.epub?id=xxgDb9tJUwcC&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xxgDb9tJUwcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The report stated that the various <b>programs</b> fall into three categories : Long - term <b>programs</b> ( 10 to 20 years before substantial results may be obtained ) ; medium - term <b>programs</b> ( 5 to 10 years ) ; and short - term <b>programs</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hDIRAAAAYAAJ",
+      "etag": "4nH0n5bOILU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hDIRAAAAYAAJ",
+      "volumeInfo": {
+        "title": "A Review of the Chesapeake Bay Program's First Decade & Recommendations for the Future",
+        "subtitle": "A Report",
+        "publishedDate": "1993",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:35007001232416"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Estuarine ecology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hDIRAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hDIRAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=hDIRAAAAYAAJ&q=program&dq=program&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=hDIRAAAAYAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Review_of_the_Chesapeake_Bay_Program_s.html?hl=&id=hDIRAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hDIRAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qUdHAAAAMAAJ",
+      "etag": "24mN1GMp8Lw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qUdHAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Directory of Federal Government Programs and Services for Women",
+        "authors": [
+          "Canada. Status of Women Canada"
+        ],
+        "publisher": "Status of Women",
+        "publishedDate": "1989",
+        "description": "The directory lists programs and services relating to women and work, education, social services and health, women and the law, women and culture, native women, new Canadians and multiculturalism, and women in the community.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015016145131"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Federal aid to women's organizations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qUdHAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qUdHAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=qUdHAAAAMAAJ&q=program&dq=program&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qUdHAAAAMAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Directory_of_Federal_Government_Programs.html?hl=&id=qUdHAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qUdHAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Federal Women&#39;s Film <b>Program</b> 128 Forward from Nairobi Workshop Kit 1 56 Funerals and Burials 87 Grants and Contributions <b>Program</b> (Consumer and Corporate Affairs Canada) 1 54 Health Care <b>Program</b> (Department of Veterans Affairs) 85 Health&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LVorAQAAMAAJ",
+      "etag": "b0Kg61CAtek",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LVorAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Programs for New Clientele",
+        "authors": [
+          "American Association of State Colleges and Universities. Resource Center for Planned Change"
+        ],
+        "publishedDate": "1976",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UIUC:30112107816826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 638,
+        "printType": "BOOK",
+        "categories": [
+          "Educational innovations"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LVorAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LVorAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=LVorAQAAMAAJ&q=program&dq=program&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=LVorAQAAMAAJ&dq=program&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Programs_for_New_Clientele.html?hl=&id=LVorAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LVorAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The broad-based institutional support necessary to run this <b>program</b>: (Continued) able on a need basis. Purpose(s) or objectives: The Educational Opportunity <b>Program</b> is designed for students who are potential college candidates;&nbsp;..."
+      }
+    }
+  ]
+}

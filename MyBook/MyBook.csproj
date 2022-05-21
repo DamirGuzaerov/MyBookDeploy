@@ -1,0 +1,43 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>56be8aac-5c95-4832-b015-854570e20c0a</UserSecretsId>
+    <DockerDefaultTargetOS>Windows</DockerDefaultTargetOS>
+    <DockerfileContext>.</DockerfileContext>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.3" />
+    <PackageReference Include="Microsoft.AspNetCore.SignalR" Version="1.1.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.14.0" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Pages\Components\BookPreviewComponent\Default.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Components\BookPreview\Default.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Components\BookSmallPreview\Default.cshtml" />
+    <_ContentIncludedByDefault Remove="Pages\Components\BooksCarousel\Default.cshtml" />
+    <_ContentIncludedByDefault Remove="wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.js" />
+    <_ContentIncludedByDefault Remove="wwwroot\lib\jquery-ajax-unobtrusive\jquery.unobtrusive-ajax.min.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyBook.Infrastructure\MyBook.Infrastructure.csproj" />
+    <ProjectReference Include="..\MyBook.SharedKernel\MyBook.SharedKernel.csproj" />
+
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\MyBookContextModelSnapshot.cs" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿@model MyBook.Models.PayViewModel
+<section class="modal_wrapper cointainer-xl">
+    <div class="wrapper_modal_content">
+        <div id="sub-pay">
+            <div class="modal_name">
+                <h2>Покупка книги</h2>
+                <button class="close_modal">
+                    <a class="nav-link" asp-area="" asp-controller="Book" asp-action="Book" asp-route-bookId=@Model.BookId>
+                        <img src="/assets/img/close.svg">
+                    </a>
+                </button>
+            </div>
+            <form method="post" id="myForm" asp-action="Pay">
+                    <input type="hidden" asp-for="@Model.BookPrice"/>
+                    <input type="hidden" asp-for="@Model.isGift" />
+                    <input type="hidden" asp-for="@Model.UserId" />
+                    <input type="hidden" asp-for="@Model.BookId" />
+            </form>
+        </div>
+        <div id="sum-up">
+            <h4> Вы покупаете </h4>
+            <p>@Model.BookName</p>
+            <bold>Итого к оплате</bold>
+            @{
+                var price = Model.BookPrice != null ? Model.BookPrice : "299 руб.";
+            }
+            <h5 >@price</h5>
+        </div>
+        <button type="submit" class="reg_button mt-2" form="myForm">Перейти к оплате</button>
+    </div>
+</section>

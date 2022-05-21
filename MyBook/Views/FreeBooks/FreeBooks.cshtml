@@ -1,0 +1,46 @@
+﻿@model MyBook.Models.FreeBooksViewModel;
+@using MyBook.Entities
+@using MyBook.Helpers.SortHelper
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Free Books</title>
+    <link rel="stylesheet" href="~/css/BookPreview.css">
+</head>
+<body>
+<div class="container">
+    <div class="content_wrapper">
+        <div class="row test">
+            <div class="col-lg-8">
+                <div class="books_info_wrap">
+                    <h1 class="main_title_book">Все бесплатные книги</h1>
+                    <h5 class="ml-1">@Model.AllBooks.Count() книг</h5>
+                    <a asp-controller="FreeBooks" asp-action="FreeBooks"></a>
+                    @foreach (var book in Model.AllBooks)
+                    {
+                        @await Component.InvokeAsync("BookPreview", book)
+                    }
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <form asp-action="FreeBooks" asp-controller="FreeBooks" method="POST">
+                    <label class="Search bold_label">Порядок: </label>
+                    @Html.DropDownList("sortOrder", BooksSortHelper.Orders)
+                    <label class="Search bold_label">Язык: </label>
+                    @Html.DropDownList("filterLanguage", Model.Languages as List
+                        <SelectListItem>
+                        )
+                    <br>
+                    <label class="Search bold_label">Жанр: </label>
+                    @Html.DropDownList("filterGenre", Model.Genres as List
+                        <SelectListItem>
+                        )
+                    <br>
+                    <input name="filter" value="Отфильтровать" type="submit" class="btn btn-warning"/>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>

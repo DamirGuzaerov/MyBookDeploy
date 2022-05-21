@@ -1,0 +1,138 @@
+﻿
+@media (max-width: 1400px) {
+    .inner_block {
+        top: -35em;
+    }
+}
+
+@media (max-width: 1200px) {
+    .inline_wrapper h1 {
+        font-size: 3rem;
+    }
+
+    .inner_block {
+        top: -29em;
+    }
+
+    .container_inner_block {
+        height: 200px !important;
+    }
+}
+
+@media (max-width: 992px) {
+    .inline_wrapper h1 {
+        font-size: 2rem;
+    }
+
+    .inner_block {
+        top: -26em;
+    }
+
+    .main_title {
+        text-align: center;
+        justify-content: center;
+    }
+
+    .picture_wrapper {
+        text-align: center;
+        justify-content: center;
+        width: 100%;
+    }
+
+    .card_style {
+        margin: 1.5em 1em !important;
+    }
+
+    .blocks_inf {
+        flex-wrap: wrap;
+    }
+
+    @media (max-width: 765px) {
+        .inner_block {
+            top: -20em;
+        }
+
+        .container_inner_block {
+            height: 700px !important;
+        }
+
+        .wrapper_position {
+            display: flex;
+            flex-wrap: wrap;
+        }
+
+        .inline_wrapper .spec_but a {
+            padding: 0em !important;
+        }
+
+        .wrapper_inner_blocks {
+            flex-wrap: wrap !important;
+        }
+
+        .card_style {
+            margin: 0 !important;
+        }
+
+        .inner_block_card {
+            padding: 1em 0;
+        }
+
+        .sort_and_books {
+            flex-wrap: wrap-reverse;
+        }
+
+        .filter_block {
+            width: 100%;
+            padding: 2em 2.5em 3em 2.5em;
+        }
+
+        .payment_content {
+            box-shadow: none;
+            border: none;
+        }
+
+        .modal_admin {
+            box-shadow: none;
+        }
+
+            .modal_admin .modal-header {
+                box-shadow: none;
+            }
+    }
+
+    @media (max-width: 520px) {
+        .map {
+            display: none;
+        }
+
+        .img_sbr_wrapper {
+            display: none;
+        }
+    }
+
+    @media (max-width: 480px) {
+        .inner_block {
+            display: none;
+        }
+
+        .container_inner_block {
+            display: none;
+        }
+    }
+
+/*---------------------modals_media-----------------*/
+
+
+@media (max-width: 765px) {
+    .modal_wrapper {
+        background: white;
+    }
+
+    .modals_footer {
+        display: none !important;
+    }
+
+    .wrapper_modal_content {
+        box-shadow: none !important;
+        border: none;
+    }

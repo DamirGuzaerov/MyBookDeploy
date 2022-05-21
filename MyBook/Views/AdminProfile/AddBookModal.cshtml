@@ -1,0 +1,141 @@
+﻿@model MyBook.Models.Admin.EditBookViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["AddBook"] - MyBook</title>
+</head>
+<body class="lock">
+    <section class="modal_wrapper">
+        <div class="main_content_page" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="" role="document">
+                <div class="modal_admin_book">
+                    <div class="modal-header">
+                        <h2 class="modal-title" id="exampleModalLongTitle">Добавить книгу</h2>
+                        <button class="close_modal">
+                            <a class="nav-link" asp-controller="AdminProfile" asp-action="ShowCurrent" asp-route-page="Book">
+                                <img src="/assets/img/close.svg">
+                            </a>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post" asp-action="AddBook" asp-controller="AdminProfile">
+                            <div class="d-flex">
+                                <div class="left">
+                                    <div asp-validation-summary="ModelOnly"></div>
+                                    <input type="hidden" asp-for="BookId" id="bookId" />
+                                    <div class="form-group">
+                                        <label asp-for="Name" for="nameInput">Название книги</label>
+                                        <input asp-for="Name" type="text" class="form-control" id="nameInput" placeholder="Название">
+                                         <span class="alerts" asp-validation-for="Name"></span>
+                                    </div>
+                                    <label asp-for="Language" for="LanguageRadio">Язык</label>
+                                    <div id="LanguageRadio">
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="Language" class="form-check-input" type="radio" value="ru">
+                                            <p class="form-check-label" asp-for="Language">ru</p>
+                                        </div>
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="Language" class="form-check-input" type="radio" value="en">
+                                            <p class="form-check-label" asp-for="Language">en</p>
+                                        </div>
+                                        <span class="alerts" asp-validation-for="Language"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="PublishedDate">Дата публикации: </label><br />
+                                        <input asp-for="PublishedDate" class="form-control" type="date" min="1922-04-01" max="2020-04-30" id="datepicker">
+                                        <span class="alerts" asp-validation-for="PublishedDate"></span>
+                                    </div>
+                                    <label asp-for="IsPaid" for="isPaid">Бесплатная ?</label>
+                                    <div id="isPaid">
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="IsPaid" class="form-check-input" type="radio" value=@true>
+                                            <p class="form-check-label" asp-for="IsPaid">Да</p>
+                                        </div>
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="IsPaid" class="form-check-input" type="radio" value=@false>
+                                            <p class="form-check-label" asp-for="IsPaid">Нет</p>
+                                        </div>
+                                    </div>
+                                    <label asp-for="IsForAdult" for="forAdult">Только для совершеннолтених ?</label>
+                                    <div id="forAdult">
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="IsForAdult" class="form-check-input" type="radio" value=@true>
+                                            <p class="form-check-label" asp-for="IsForAdult">Да</p>
+                                        </div>
+                                        <div class="form-check form-check-inline">
+                                            <input asp-for="IsForAdult" class="form-check-input" type="radio" value=@false>
+                                            <p class="form-check-label" asp-for="IsForAdult">Нет</p>
+                                        </div>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="Description" for="descInput">Описание книги</label>
+                                        <textarea asp-for="Description" type="text" class="form-control" id="descInput" placeholder="Описание книги"></textarea>
+                                         <span class="alerts" asp-validation-for="Description"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="PagesCount" for="pageCountInput">Количество страниц</label>
+                                        <input asp-for="PagesCount" type="number" class="form-control" id="pageCountInput" placeholder="Кол-во страниц" />
+                                        <span class="alerts" asp-validation-for="PagesCount"></span>
+                                    </div>
+                                </div>
+                                <div class="right">
+                                    <div class="form-group">
+                                        <label asp-for="Price" for="priceInput">Цена</label>
+                                        <input asp-for="Price" class="form-control" id="priceInput" placeholder="Стоимость">
+                                         <span class="alerts" asp-validation-for="Price"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="UrlPDF" for="pdf">Ссылка на книгу (pdf)</label>
+                                        <input asp-for="UrlPDF" type="text" class="form-control" id="pdf" placeholder="Ссылка на pdf" />
+                                        <span class="alerts" asp-validation-for="UrlPDF"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="UrlEPUB" for="epub">Ссылка на книгу (epub)</label>
+                                        <input asp-for="UrlEPUB" type="text" class="form-control" id="epub" placeholder="Ссылка на epub" />
+                                         <span class="alerts" asp-validation-for="UrlEPUB"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label asp-for="ImageLink" for="img">Ссылка на изображение</label>
+                                        <input asp-for="ImageLink" type="text" class="form-control" id="img" placeholder="Ссылка на изображение" />
+                                        <span class="alerts" asp-validation-for="ImageLink"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Выберите автора: </label>
+                                        <input list="author-list" class="form-control" asp-for="AuthorName" id="author-input">
+                                        <datalist id="author-list">
+                                            @foreach (var author in Model.Authors)
+                                            {
+                                                <option value="@author.Name"></option>
+                                            }
+                                        </datalist>
+                                         <span class="alerts" asp-validation-for="AuthorName"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <label>Выберите жанр: </label>
+                                        <input list="genre-list" class="form-control" asp-for="GenreName" id="genre-input">
+                                        <datalist id="genre-list">
+                                            @foreach (var genre in Model.Genres)
+                                            {
+                                                <option value="@genre.Name"></option>
+                                            }
+                                        </datalist>
+                                        <span class="alerts" asp-validation-for="GenreName"></span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-button">
+                                <button type="submit" class="btn btn-warning">Сохранить</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+    }

@@ -1,0 +1,6 @@
+﻿@model List<MyBook.Entities.Rating>
+
+@foreach (var rating in Model)
+{
+    <partial name="../Partials/_Comment" model="rating"/>
+}

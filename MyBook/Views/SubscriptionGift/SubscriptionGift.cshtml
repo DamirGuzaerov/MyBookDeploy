@@ -1,0 +1,94 @@
+﻿@model MyBook.Models.GiftViewModel
+@{
+    var premium = Model.SubscrTypes.FirstOrDefault(it => it.TypeName == "Премиум");
+    var authors = Model.SubscrTypes.FirstOrDefault(it => it.TypeName == "Подписка на автора");
+    var genres = Model.SubscrTypes.FirstOrDefault(it => it.TypeName == "Подписка на жанр");
+}
+<div class="container">
+    <div class="content_wrapper">
+        <div class="title_for_sbr">
+            <h2>Оформление подписки в подарок</h2>
+            <h5>Мы пришлем сертификат на указанную почту. (Получатель должен быть клиентом MyBook)</h5>
+        </div>
+        <div class="card_style">
+            <form asp-action="SubscriptionGift" method="post" asp-controller="SubscriptionGift">
+                <div asp-validation-summary="ModelOnly"></div>
+                <input asp-for=Email type="text" class="textarea-postcard" maxlength="150" placeholder="Напишите e-mail получателя">
+                <span asp-validation-for="Email"></span>
+                <div class="container-fluid">
+                    <div class="headings">
+                        <h1>Подписки</h1>
+                        <p>Выберите подписку</p>
+                    </div>
+                    <div class="container-fluid sub" id="subscription-admin">
+                        <div class="row">
+                            <div class="col-3" id="col-3-admin1">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" asp-for=TypeId value="@premium?.TypeId">
+                                </div>
+                            </div>
+                            <div class="col-9">
+                                <h3> @premium?.TypeName</h3>
+                                <h5>@premium?.Price руб./месяц </h5>
+                                <br>
+                                <br>
+                            </div>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-3" id="col-3-admin2">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" asp-for=TypeId value="@authors?.TypeId">
+                                </div>
+                            </div>
+                            <div class="col-9">
+                                <h3>@authors?.TypeName</h3>
+                                <h5>@authors?.Price руб./месяц </h5>
+                                <br>
+                                <br>
+                                <label>Выберите автора: </label>
+                                <input list="author-list" class="form-control" asp-for="AuthorName" id="author-input">
+                                <datalist id="author-list">
+                                    @foreach (var author in Model.Authors)
+                                    {
+                                        <option value="@author.Name"></option>
+                                    }
+                                </datalist>
+                                <span asp-validation-for="AuthorName"></span>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-3" id="col-3-admin3">
+                                <div class="form-check form-check-inline">
+                                    <input class="form-check-input" type="radio" asp-for=TypeId value="@genres?.TypeId">
+                                </div>
+                            </div>
+                            <div class="col-9">
+                                <h3> @genres?.TypeName</h3>
+                                <h5> @genres?.Price руб./месяц </h5>
+                                <br>
+                                <br>
+                                <label>Выберите жанр: </label>
+                                <input list="genre-list" class="form-control" asp-for="GenreName" id="genre-input">
+                                <datalist id="genre-list">
+                                    @foreach (var genre in Model.Genres)
+                                    {
+                                        <option value="@genre?.Name"></option>
+                                    }
+                                </datalist>
+                                <span asp-validation-for="GenreName"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <span asp-validation-for="TypeId"></span>
+                <div class="but_card_wrap">
+                    <button type="submit" class="btn btn-warning">Подарить</button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+    }

@@ -1,0 +1,40 @@
+﻿@model MyBook.ViewModels.LibraryViewModel;
+@using MyBook.Entities;
+@using MyBook.Helpers.SortHelper
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Библиотека</title>
+</head>
+<body>
+<div class="main_wrap">
+    <div class="customCarousel container">
+        <div class="row sort_and_books">
+            <div class="col-md-8">
+                <h1 class="main_title_book ms-4 mb-2">Все книги</h1>
+                <h3 class="ms-4 mb-4 text-secondary">@Model.AllBooks.Count() книг</h3>
+                @await Component.InvokeAsync("BooksCarousel", new List<Book>(Model.AllBooks))
+            </div>
+            <div class="col-6 col-md-4 filter_block">
+                <form asp-action="Index" asp-controller="Library" method="POST">
+                    <label class="Search bold_label">Порядок: </label>
+                    @Html.DropDownList("sortOrder", BooksSortHelper.Orders)
+                    <label class="Search bold_label">Язык: </label>
+                    @Html.DropDownList("filterLanguage", Model.Languages)
+                    <br>
+                    <label class="Search bold_label">Жанр: </label>
+                    @Html.DropDownList("filterGenre", Model.Genres)
+                    <br>
+                    <input name="filter" value="Отфильтровать" type="submit" class="btn btn-warning"/>
+                </form>
+            </div>
+        </div>
+        <div class="customCarousel container mb-4">
+            <h1 class="main_title_book ms-4 mb-2">Все авторы</h1>
+            <h3 class="ms-4 mb-4 text-secondary">@Model.AllAuthors.Count() авторов</h3>
+            @await Component.InvokeAsync("AuthorsCarousel", new List<Author>(Model.AllAuthors))
+        </div>
+    </div>
+</div>
+</body>
+</html>

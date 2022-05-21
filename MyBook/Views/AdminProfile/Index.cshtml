@@ -1,0 +1,77 @@
+﻿@model MyBook.Models.Admin.AdminViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Admin"] - MyBook</title>
+</head>
+<body>
+    <section class="container">
+        <header>
+            <div class="lower_header">
+                    <div class="admin_nav">
+                        <div>
+                            <ul class="admin_ul">
+                                <li>
+                                    <a id="subscr">Управлять типами подписок</a>
+                                </li>
+                                <li>
+                                    <a id="book">Изменить информацию о книгах</a>
+                                </li>
+                                <li>
+                                    <a id="author">Редактировать информацию об авторах</a>
+                                </li>
+                            </ul>
+                            <ul class="admin_ul">
+                                <li>
+                                    <a id="bookCenter">Изменить информацию о магазинах</a>
+                                </li>
+                                <li>
+                                    <a id="user">Управлять пользователями</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="logout_admin">
+                            <form method="post" asp-action="Logout">
+                                <button type="submit" class="sign_out" asp-action="Logout">Выйти из аккаунта</button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+        </header>
+        <input type="hidden" asp-for="CurrentPage" id="current">
+        <div id="containerSubscription">
+            @{
+                await Html.RenderPartialAsync("_EditSubscription", Model);
+            }
+        </div>
+        <div id="containerAuthor">
+            @{
+                await Html.RenderPartialAsync("_EditAuthor", Model);
+            }
+        </div>
+        <div id="containerBook">
+            @{
+                await Html.RenderPartialAsync("_EditBook", Model);
+            }
+        </div>
+        <div id="containerBookCenter">
+            @{
+                await Html.RenderPartialAsync("_EditBookCenter", Model);
+            }
+        </div>
+        <div id="containerUser">
+            @{
+                await Html.RenderPartialAsync("_EditUser", Model);
+            }
+        </div>
+    </section>
+</body>
+</html>
+
+@section Scripts
+{
+<script src="~/js/admin.js"></script>
+<script src="https://code.jquery.com/jquery-3.6.0.js" integrity="sha256-H+K7U5CnXl1h5ywQfKtSj8PCmoN9aaq30gDh27Xc0jk=" crossorigin="anonymous"></script>
+}

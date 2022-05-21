@@ -1,0 +1,71 @@
+﻿@model MyBook.Models.PayViewModel
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Payment"] - MyBook</title>
+</head>
+<body class="">
+<section class="modal_wrapper">
+    <div class="payment_content">
+        <form method="post" asp-controller="SubscriptionPay" asp-action="PaymentModal">
+            <input type="hidden" asp-for="@Model.Period" id="period"/>
+            <input type="hidden" asp-for="@Model.Price" id="price"/>
+            <input type="hidden" asp-for="@Model.isGift"/>
+            <input type="hidden" asp-for="@Model.SpecsId"/>
+            <input type="hidden" asp-for="@Model.SpecsName"/>
+            <input type="hidden" asp-for="@Model.TypeId"/>
+            <input type="hidden" asp-for="@Model.TypeName"/>
+            <input type="hidden" asp-for="@Model.UserId"/>
+            <input type="hidden" asp-for="@Model.BookId"/>
+            <input type="hidden" asp-for="@Model.SpecsName"/>
+            <div class="modal_view">
+                <div class="modal_name">
+                    <h4>Оплата</h4>
+                    <button class="close_modal">
+                        <a class="nav-link" asp-area="" asp-controller="Subscription" asp-action="Subscription">
+                            <img src="/assets/img/close.svg">
+                        </a>
+                    </button>
+                </div>
+                <div asp-validation-summary="All"></div>
+                <h5>Введите данные карты</h5>
+                <div class="card_info_owner">
+                    <div class="payment_card_modal mt-2">
+                        <div class="card_information">
+                            <div class="form_1">
+                                <label asp-for=CardNum>Номер карты:</label>
+                                <input asp-for=CardNum class="payCard-form" type="tel" inputmode="numeric" autocomplete="cc-number" maxlength="19">
+                            </div>
+                            <div class="form_2">
+                                <label asp-for=CardDate>Месяц/Год:</label>
+                                <input asp-for=CardDate class="payCard-form" inputmode="numeric">
+                            </div>
+                        </div>
+                        <div class='mt-5 '>
+                            <label asp-for="CardName">Владелец карты:</label>
+                            <input type="text" oninput="this.value = this.value.toUpperCase()" asp-for="CardName" class="payCard-form upper_form">
+                        </div>
+                    </div>
+                    <div class="payment_card_modal_backside ">
+                        <div class="first_block"></div>
+                        <div class="black_row mb-5"></div>
+                        <div class='mt-5 second_block'>
+                            <label asp-for=CardCode>CVV2(CVC2)</label>
+                            <br/>
+                            <input type="number" asp-for=CardCode class="payCard-form upper_form" maxlength=3/>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="payment_btn">
+                <button class="btn-warning" type="submit">Оплатить</button>
+            </div>
+        </form>
+    </div>
+</section>
+</body>
+</html>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial"/>
+}

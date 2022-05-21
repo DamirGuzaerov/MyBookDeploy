@@ -1,0 +1,51 @@
+﻿@model MyBook.Entities.User
+@{
+    var name = Model.FirstName + " " + Model.LastName;
+    var subscrs = Model.UserSubscrs.Select(it => it.Subscription).Where(it => DateTime.Parse(it.EndDate).CompareTo(DateTime.Now) > 0);
+    <section class="container">
+        <div class="card d-flex flex-row align-items-center border-bottom p-5 pt-4 pb-4 userEditCard justify-content-around ms-3 me-3 mb-3">
+            <h4 class=" me-4 text-nowrap">
+                @name
+            </h4>
+            <h6 class="text-secondary me-4">
+                @Model.Email
+            </h6>
+            <button type="button" class="sign_out dropdown-toggle me-4 w-100" data-bs-toggle="dropdown" aria-expanded="false">
+                Подписки пользователя
+            </button>
+            <ul class="dropdown-menu">
+                @foreach (var subscr in subscrs)
+                {
+                    <li class="dropdown-item dropdown-item-text d-flex align-items-center">
+                        <h5 class="text-primary me-2">
+                            @subscr.Type.TypeName
+                        </h5>
+                        <div class="flex_but me-2">
+                            <form method="post" asp-action="DeleteUserSubscr">
+                                <input type="hidden" value="@Model.Id" name="id">
+                                <input type="hidden" value="@subscr.SubscriptionId" name="subscrId">
+                                <button class="spec_but" type="submit">Удалить</button>
+                            </form>
+                        </div>
+                        <div class="text-secondary">Дата окончания: </div>
+                        <div class="text-primary">
+                            @subscr.EndDate
+                        </div>
+                    </li>
+                }
+            </ul>
+            <form method="post" class="me-4" asp-action="AddSubscrModal">
+                <input type="hidden" value="@Model.Id" name="userId">
+                <button class="spec_but w-100" type="submit">
+                    Назначить подписку
+                </button>
+            </form>
+            <form method="post" asp-action="AddAdmin">
+                <input type="hidden" value="@Model.Id" name="userId">
+                <button class="spec_but w-100" type="submit">
+                    Назначить администратором
+                </button>
+            </form>
+        </div>
+    </section>
+}

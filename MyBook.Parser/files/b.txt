@@ -1,0 +1,691 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 888,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "UpfGAAAAMAAJ",
+      "etag": "QuABGNf//7o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UpfGAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historical Outlook",
+        "subtitle": "A Journal for Readers, Students and Teachers of History",
+        "publishedDate": "1927",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015057298666"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UpfGAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UpfGAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UpfGAAAAMAAJ&q=historical&dq=historical&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=UpfGAAAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historical_Outlook.html?hl=&id=UpfGAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UpfGAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "H . Rothwell ( English <b>Historical</b> Review , October ) . Edward l &#39; s Exercise of the Right of Presentation to Benefices as Shown by the Patent Rolls . Reginal A . L . Hartridge ( Cambridge <b>Historical</b> Journal , II , No . 2 ) ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L7ejDwAAQBAJ",
+      "etag": "XctQjUfFvPI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L7ejDwAAQBAJ",
+      "volumeInfo": {
+        "title": "All-Historical the Eschatological theory or additions of Frank t., the version of Efraim",
+        "authors": [
+          "Andrei Romanov-Kolomietsing"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2019-07-19",
+        "description": "It is about historical secrets and why there maked so mutch fals. Who did and for what? Should be translate and you thouch the true.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041811495"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041811490"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L7ejDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L7ejDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=L7ejDwAAQBAJ&pg=PT4&dq=historical&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=L7ejDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L7ejDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 46,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 41.4,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=L7ejDwAAQBAJ&rdid=book-L7ejDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 46000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 41400000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/All_Historical_the_Eschatological_theory-sample-epub.acsm?id=L7ejDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/All_Historical_the_Eschatological_theory-sample-pdf.acsm?id=L7ejDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L7ejDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "All-<b>Historical</b> the Eschatological theory or additions of Frank t., the version of Efraim It is time to consider Efraim part version of Frank theory in spectrum the risk research, Philadelphian to truly time around the world and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WW3xAAAAMAAJ",
+      "etag": "sF6QRIyfvQc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WW3xAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historical Archaeology",
+        "publishedDate": "1967",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89058370040"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "America"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WW3xAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WW3xAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=WW3xAAAAMAAJ&q=historical&dq=historical&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=WW3xAAAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historical_Archaeology.html?hl=&id=WW3xAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WW3xAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Recently there has been much discussion — both vocally and in print — as to what scholarly fields have a rightful place in <b>historical</b> archeology and what scholarly fields do not. Some have taken the position that <b>historical</b> sites (or&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cjvjAAAAMAAJ",
+      "etag": "BZkMiFVz3oM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cjvjAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historical Bulletin",
+        "authors": [
+          "Philippine Historical Association"
+        ],
+        "publishedDate": "1965",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015011509133"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Philippines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cjvjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cjvjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=cjvjAAAAMAAJ&q=historical&dq=historical&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=cjvjAAAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historical_Bulletin.html?hl=&id=cjvjAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cjvjAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Philippine <b>Historical</b> Association. PRESIDENT DIOSDADO MACAPAGAL Honorary President DR . FRANCISCO DALUPAN Honorary Vice - President PROF . GABRIEL F . FABELLA SR . President Emeritus OFFICERS FOR 1965 President - GREGORIO F . ZAIDE Vice&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Ih0qAQAAMAAJ",
+      "etag": "0K1yGzqgvs0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Ih0qAQAAMAAJ",
+      "volumeInfo": {
+        "title": "English Historical Documents: 1714-1783",
+        "authors": [
+          "David Charles Douglas"
+        ],
+        "publishedDate": "1959",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:35112104022373"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Great Britain"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Ih0qAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Ih0qAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Ih0qAQAAMAAJ&q=historical&dq=historical&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Ih0qAQAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/English_Historical_Documents_1714_1783.html?hl=&id=Ih0qAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Ih0qAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "LATER WORKS (G) PERIODICALS &#39; For long the publications of the Camden Society, 1838-, and the Transactions oj the Royal <b>Historical</b> Society, both indexed by Hubert Hall, List and Index [1840-1897] (London, 1925), were almost the only&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oOtZAAAAMAAJ",
+      "etag": "rZjLfx78njA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oOtZAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historical Whodunits",
+        "authors": [
+          "Michael Ashley"
+        ],
+        "publishedDate": "1993",
+        "description": "A collection of short story mysteries.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015058708945"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 522,
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oOtZAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oOtZAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=oOtZAAAAMAAJ&q=historical&dq=historical&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=oOtZAAAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historical_Whodunits.html?hl=&id=oOtZAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oOtZAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Up until that time no one had written an entire detective novel set in an <b>historical</b> period, let alone one so far back as 2000 bc. It wasn&#39;t long though before another great writer of detective stories started to make the <b>historical</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C00RAAAAIAAJ",
+      "etag": "q87QUZGhHdE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C00RAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Journal of the Illinois State Historical Society",
+        "authors": [
+          "Illinois State Historical Society"
+        ],
+        "publishedDate": "1944",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105007780674"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Illinois"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C00RAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C00RAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=C00RAAAAIAAJ&q=historical&dq=historical&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=C00RAAAAIAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Journal_of_the_Illinois_State_Historical.html?hl=&id=C00RAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C00RAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Illinois State <b>Historical</b> Society. At the conclusion of the Friday afternoon session those who attended were served tea at the home of Mrs . Florence Fifer Bohrer . Many then took advantage of an invitation to visit the fine library of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FolmAAAAMAAJ",
+      "etag": "h5gum5CBZsc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FolmAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Historical Reflections",
+        "subtitle": "Réflexions Historiques",
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015072432258"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.17.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FolmAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FolmAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=FolmAAAAMAAJ&q=historical&dq=historical&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=FolmAAAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Historical_Reflections.html?hl=&id=FolmAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FolmAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "2001 <b>Historical</b> Reflections/Reflexions Historiques All rights reserved. ISSN 0315-7997 <b>Historical</b> Reflections/Reflexions Historiques invites contributions in all fields of intellectual-cultural history and the histories of religion and&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bYgRAAAAIAAJ",
+      "etag": "3jLvn/xSazE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bYgRAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Utah Historical Quarterly",
+        "publishedDate": "1960",
+        "description": "List of charter members of the society: v. 1, p. 98-99.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105007775815"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Utah"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bYgRAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bYgRAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=bYgRAAAAIAAJ&q=historical&dq=historical&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=bYgRAAAAIAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Utah_Historical_Quarterly.html?hl=&id=bYgRAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bYgRAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "S. K. Stevens, director of the Pennsylvania <b>Historical</b> and Museum Commission, states that while figures are not available, it is likely that no state fifty years ago had spent more than a few thousand dollars to conserve its <b>historical</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vPsnAQAAMAAJ",
+      "etag": "/vjZwvpqJDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vPsnAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Annual Report of the Connecticut Historical Society",
+        "authors": [
+          "Connecticut Historical Society"
+        ],
+        "publishedDate": "1940",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89067602615"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Connecticut"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vPsnAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vPsnAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vPsnAQAAMAAJ&q=historical&dq=historical&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vPsnAQAAMAAJ&dq=historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Annual_Report_of_the_Connecticut_His.html?hl=&id=vPsnAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vPsnAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Connecticut <b>Historical</b> Society ... Alice T. , Hartford , Conn . , Delaware <b>Historical</b> Society , Wilmington , Del . , Dept. of Public Instruction , Harrisburg , Pa . , Department of State , Washington , D. C. , Detroit Library Commission&nbsp;..."
+      }
+    }
+  ]
+}

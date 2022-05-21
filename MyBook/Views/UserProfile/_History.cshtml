@@ -1,0 +1,35 @@
+﻿@model MyBook.Models.UserProfileViewModel
+
+<section class="user_page_lower">
+    <div class="sub_table container">
+        <div class="container">
+            <div class="sub_table_wrapper col-12 pt-4 pb-4">
+                <table>
+                    <tr class="title_tr">
+                        <td>Название книги</td>
+                        <td>Дата скачивания</td>
+                        <td>Стоимость</td>
+                    </tr>
+                    @foreach (var history in Model.Histories)
+                    {
+                        var price = history.Book.Description.Price;
+                        if (!history.Book.IsPaid)
+                            price = "Бесплатная";
+                        if (string.IsNullOrWhiteSpace(price))
+                            price = "299 руб.";
+                        else price += " руб.";
+                        <tr>
+                            <td>
+                                <a asp-controller="Book" asp-action="Book" asp-route-bookId="@history.Book.BookId">
+                                    @history.Book.Name
+                                </a>
+                            </td>
+                            <td>@history.DateTime</td>
+                            <td>@price</td>
+                        </tr>
+                    }
+                </table>
+            </div>
+        </div>
+    </div>
+</section>

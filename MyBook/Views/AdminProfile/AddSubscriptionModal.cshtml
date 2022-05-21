@@ -1,0 +1,49 @@
+﻿@model MyBook.Models.Admin.EditSubscrViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["AddSubscription"] - MyBook</title>
+</head>
+<body class="lock">
+    <section class="modal_wrapper">
+        <div class="modal_admin">
+            <div class="modal-header">
+                <h2 class="modal-title" id="exampleModalLongTitle">Добавить тип подписки</h2>
+                <button class="close_modal">
+                    <a class="nav-link" asp-controller="AdminProfile" asp-action="ShowCurrent" asp-route-page="Subscription">
+                        <img src="/assets/img/close.svg">
+                    </a>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form method="post" asp-action="AddSubscrType">
+                    <div asp-validation-summary="ModelOnly"></div>
+                    <div class="form-group">
+                        <label asp-for="TypeName" for="nameInput">Название подписки</label>
+                        <input type="text" asp-for="TypeName" class="form-control" id="nameInput" placeholder="Название">
+                        <span class="alerts" asp-validation-for="TypeName"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Price" for="nameInput">Стоимость</label>
+                        <input type="text" asp-for="Price" class="form-control" id="priceInput" placeholder="Цена">
+                        <span class="alerts" asp-validation-for="Price"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Description" for="descInput">Описание</label>
+                        <textarea type="text" asp-for="Description" class="form-control" id="descInput" placeholder="Описание"></textarea>
+                        <span class="alerts" asp-validation-for="Description"></span>
+                    </div>
+                    <div class="form-button">
+                        <button type="submit" class="btn btn-warning">Сохранить</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+    }

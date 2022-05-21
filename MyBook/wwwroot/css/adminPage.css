@@ -1,0 +1,115 @@
+﻿.modal_admin {
+    background: white;
+    border-radius: 16px;
+    width: 400px;
+    box-shadow: 0 0 15px #cfcccc;
+}
+
+    .modal_admin .modal-header {
+        padding: 1em 2em;
+    }
+
+    .modal_admin .modal-body {
+        padding: 0.5em 2em 1.5em 2em;
+    }
+
+.modal-body button {
+    padding: 0.7em 1.2em;
+    border-radius: 12px;
+    font-weight: bold;
+    width: 100%;
+    box-shadow: 0 0 10px #cfcccc;
+}
+
+.modal_admin label {
+    font-weight: bold;
+    font-size: 16px;
+    padding-top: 0;
+}
+
+.form-button {
+    justify-content: center;
+    text-align: center;
+    padding: 1em;
+    cursor: pointer;
+}
+
+.modal_admin_book {
+    background: white;
+    border-radius: 16px;
+    width: 100%;
+    box-shadow: 0 0 15px #cfcccc;
+    white-space: nowrap;
+}
+
+    .modal_admin_book .modal-header {
+        padding: 0.8em 1.8em;
+    }
+
+    .modal_admin_book .modal-body {
+        padding: 0.5em 2em 1.5em 2em;
+    }
+
+    .modal_admin_book label {
+        font-weight: bold;
+        font-size: 16px;
+        padding-top: 0em;
+    }
+
+.modal-body .right {
+    padding: 0 0.5em;
+    width: 100%;
+}
+
+.modal-body .left {
+    padding: 0 0.5em;
+    width: 100%;
+}
+.admin_nav li{
+    padding: 0.5em;
+}
+.admin_nav{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.admin_ul li{
+    margin: 1em;
+}
+.logout_admin button{
+    margin-right: 4em;
+}
+.logout_admin  {
+    margin: auto 0;
+}
+.text_button{
+    display: flex;
+    justify-content: space-between;
+}
+.more{
+    background: none;
+    color: black;
+    border: none;
+    font-weight: bold;
+    font-size: 18px;
+}
+.btn_spec {
+    border-radius: 15px;
+    font-weight: 600;
+    white-space: nowrap;
+    padding: 0.7em;
+    box-shadow: 0 0 2px #cfcccc;
+    margin: -0.5em 0.3em 0 0.3em;
+}
+.alerts{
+    display: block;
+    color: red;
+    padding: 0.5em 0.2em 0 0.2em;
+    font-size: 14px;
+    font-weight: normal;
+}
+.form-group{
+    padding: 0;
+    margin: 0;
+}

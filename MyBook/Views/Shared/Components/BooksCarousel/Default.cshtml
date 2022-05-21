@@ -1,0 +1,46 @@
+﻿@model List<MyBook.Entities.Book>
+
+<link rel="stylesheet" href="~/css/newProducts.css">
+<link rel="stylesheet" href="~/css/BookPreview.css">
+<link rel="stylesheet" href="~/css/booksCarousel.css">
+<div id="carouselExampleIndicators" class="carousel carousel-dark slide container" data-bs-ride="carousel">
+    <div class="carousel-inner w-100">
+        @for (var i = 0; i < (Model.Count>6?(Model.Count - 6):Model.Count); i += 6)
+        {
+            Console.WriteLine("================================");
+            <div class="carousel-item @(i == 0 ? " active" : "") customCarouselItem">
+                <div class="row">
+                    @{
+                        if (Model.Count > 6)
+                        {
+                            for (int j = i;j < i+6; j++)
+                            {
+                                <div class="col-md-2 col-4 mb-3">
+                                    @await Component.InvokeAsync("BookSmallPreview", Model[j])
+                                </div>
+                            }
+                        }
+                        else
+                        {
+                            for (int j = i; j < Model.Count; j++)
+                            {
+                                <div class="col-md-2 col-4 mb-3">
+                                    @await Component.InvokeAsync("BookSmallPreview", Model[j])
+                                </div>
+                            }
+                        }
+                    }
+                    
+                </div>
+            </div>
+        }
+    </div>
+    <div class="col-12 text-center">
+        <button class="btn btn-warning mb-3 " type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+            <i class="fa fa-arrow-left"></i>
+        </button>
+        <button class="btn btn-warning mb-3 " type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+            <span class="fa fa-arrow-right" aria-hidden="true"></span>
+        </button>
+    </div>
+</div>

@@ -1,0 +1,58 @@
+﻿@model MyBook.Models.SignInModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Login"] - MyBook</title>
+</head>
+<body class="lock">
+    <section class="modal_wrapper">
+        <div class="main_content_page">
+            <div class="wrapper_modal_content">
+                <div class="modal_view">
+                    <div class="modal_name">
+                        <h4>Вход</h4>
+                       <button class="close_modal">
+                            <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">
+                                <img src="/assets/img/close.svg">
+                            </a>
+                        </button>
+                    </div>
+
+                    <form method="post" asp-controller="Account" asp-action="Login"
+                          asp-route-returnUrl="@Model.ReturnUrl">
+
+                        <div asp-validation-summary="ModelOnly"></div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="Email" for="nameForm">Почта:</label>
+                            <input asp-for="Email" type="text" class="form-control" id="nameForm" aria-describedby="emailHelp">
+                            <span asp-validation-for="Email"></span>
+                        </div>
+                        <div class="form-group form_label_reg password">
+                            <label asp-for="Password" for="surnameForm">Пароль:</label>
+                            <input asp-for="Password" type="password" class="form-control" id="surnameForm" aria-describedby="emailHelp">
+                            <a href="#" class="password-control"></a>
+                            <span asp-validation-for="Password"></span>
+                        </div>
+                        <div class="form-group form_label_reg">
+                            <label asp-for="RememberMe"></label><br />
+                            <input asp-for="RememberMe" />
+                        </div>
+                        <button type="submit" class="reg_button">Войти</button>
+                    </form>
+                    <form asp-controller="Account" asp-action="ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl">
+                        <button class="signin_button" >Вход с помощью VK</button>
+                    </form>
+                    <form method="get" asp-controller="Account" asp-action="Registration">
+                        <button type="submit" class="main_button">Зарегистрироваться</button>
+                    </form><button class="main_button">Забыл пароль</button>
+                </div>
+            </div>
+        </div>
+    </section>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+    }
+</body>
+</html>

@@ -1,0 +1,3403 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 935,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "gnH-DwAAQBAJ",
+      "etag": "p5dKlc96x98",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gnH-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Just Make It Work",
+        "subtitle": "An Honest Guide to Navigating the First Decade of Your Career",
+        "authors": [
+          "Donte Ledbetter"
+        ],
+        "publisher": "Donte Ledbetter",
+        "publishedDate": "2021-01-05",
+        "description": "Are you finding it hard to gain a rhythm when job hunting? Are you confused about how to get promoted and grow at your company? Are you struggling to overcome rejection and self-doubt in your career? Then you need to read this book. Building a successful career is harder than it should be, and sometimes standard career advice doesn’t put you on the right path. Just Make It Work gives you honest tips, inspiration, and stories on how to unapologetically build the career you deserve within your first ten years. Just Make It Work gives it to you straight. This honest and refreshing take on work life and career-building will inspire you to be proactive and take what you want. You'll learn how to navigate the job hunt, approach upward mobility and career growth, accelerate your success at a new job, expand your thinking around work-life balance and career purpose, build a network and personal brand, and much more! There’s a method for building a career you’ve always dreamed of. A career that you can look back on and be proud of. A career that has you written all over it. Just Make It Work breaks down that method in the form of actionable tips, inspiring stories, and thoughtful guidance. Now is the time to take control of your career and remember that you have all the power.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gnH-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gnH-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=gnH-DwAAQBAJ&pg=PT108&dq=it&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gnH-DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gnH-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 753.52,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 753.52,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gnH-DwAAQBAJ&rdid=book-gnH-DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 753520000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 753520000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Just_Make_It_Work-sample-epub.acsm?id=gnH-DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Just_Make_It_Work-sample-pdf.acsm?id=gnH-DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gnH-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "of ways to do <b>it</b>. All you have to have is the drive and desire. Those of us who have found ourselves in the tech industry in some capacity from the 1990s to today have benefited handsomely from everything tech has bestowed upon our&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3tlwDwAAQBAJ",
+      "etag": "d1IDMP7TuTw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3tlwDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kickin' It",
+        "subtitle": "for drum kit and piano",
+        "authors": [
+          "Vincent Ho"
+        ],
+        "publisher": "Promethean Editions Limited",
+        "publishedDate": "2018-01-01",
+        "description": "Ho explores a range of performance practices and playing techniques in Kickin’ It. Movements packed with precariousness and frenzy sit alongside others that bathe in the resonant spaces between gestures. Ho’s compositional approach here provides performers with an opportunity to display their versatility, as Kickin’ It demands not only virtuosic technique but creativity in interpreting more improvisatory performance realms. This electronic version includes both the score and drum kit part.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781776601684"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1776601688"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3tlwDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3tlwDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=3tlwDwAAQBAJ&pg=PR6&dq=it&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3tlwDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3tlwDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4568.49,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 4568.49,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3tlwDwAAQBAJ&rdid=book-3tlwDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4568490000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 4568490000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kickin_It-sample-pdf.acsm?id=3tlwDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3tlwDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The composer writes: Written for acclaimed piano and percussion duo of Vicky Chow and Ben Reimer, Kickin&#39; <b>It</b> is a work that provides two performers the opportunity to showcase their virtuoso skills. There were a number of elements that&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dHW4BgAAQBAJ",
+      "etag": "PlV+4ConrCA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dHW4BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Научное и прикладное использование современных информационных систем и технологий в подготовке IT-специалистов",
+        "subtitle": "коллективная монография",
+        "authors": [
+          "Ловянникова Наталья Васильевна",
+          "Долгополова Людмила Валерьевна",
+          "Ворохобина Яна Витальевна",
+          "Казначеева Ольга Харлампиевна",
+          "Попова Марина Викторовна",
+          "Тихонов Эдуард Евгеньевич",
+          "Таранова Ирина Викторовна",
+          "Сыроватская Валентина Ивановна",
+          "Стрижакова Наталья Евгеньевна",
+          "Добровольская Ирина Анатольевна",
+          "Желудкова Татьяна Владимировна",
+          "Мальцева Валентина Васильевна"
+        ],
+        "publisher": "Scientific magazine \"Kontsep",
+        "publishedDate": "2011-02-01",
+        "description": "Предлагаемое вниманию читателей издание – это коллективное монографическое исследование освещающее процесс подготовки IT-специалистов с применением информационных систем и технологий. Этот процесс затрагивает как организацию учебного процесса, так и методику преподавания отдельных дисциплин. Работа адресуется научно-педагогическим кадрам, занимающимся подготовкой специалистов в области информационных технологий.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 230,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dHW4BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dHW4BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=dHW4BgAAQBAJ&pg=PA5&dq=it&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=dHW4BgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B5_%D0%B8_%D0%BF%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%BE%D0%B5.html?hl=&id=dHW4BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dHW4BgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Особенности формировании знаний в области информационной безопасности при подготовке <b>IT</b>-специалистов . ... Информационные и коммуникационные технологии обучения <b>IT</b> – специалиста иностранному языку."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IblnAAAAQBAJ",
+      "etag": "POddJCyeW5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IblnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Виртуальный национальный университет IT-образования: проект создания",
+        "authors": [
+          "В. Сухомлин"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "Конечной целью работ, выполняемых по теме представленного проекта, является создание Виртуального национального университета (ВНУ ИТ), который должен стать востребованной национальной системой IT-образования с развитой интегрированной средой электронного обучения, с актуальным образовательным контентом и высоким уровнем информатизации образовательных бизнес-процессов, реализующих инновационные педагогические практики. Разработка выполняется в рамках национального проекта «Образование». Она направлена на достижение качественно нового уровня подготовки востребованных научных и профессиональных кадров в области информационных технологий на основе современных образовательных технологий.В статье рассматривается концепция интегрированной виртуальной образовательной среды в качестве технологического ядра ВНУ ИТ.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457389335"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457389332"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IblnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IblnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=IblnAAAAQBAJ&pg=PA60&dq=it&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IblnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IblnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 110.4,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 99.36,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=IblnAAAAQBAJ&rdid=book-IblnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 110400000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 99360000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-sample-pdf.acsm?id=IblnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IblnAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Рассматриваются концепция и принципы разработки Виртуального национального университета <b>IT</b> образования, создаваемого в рамках национального проекта «Образование». Данный проект направлен на достижение качественно нового уровня&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gRnTDwAAQBAJ",
+      "etag": "DVYaXPYvS08",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gRnTDwAAQBAJ",
+      "volumeInfo": {
+        "title": "It was getting dark. Адаптированный рассказ для чтения, перевода и пересказа. Серия © Лингвистический Реаниматор",
+        "authors": [
+          "Татьяна Олива Моралес"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-02-27",
+        "description": "Книга состоит из упражнения на перевод рассказа, адаптированного по методике © Лингвистический Реаниматор, с русского языка на английский; и упражнения на чтение, перевод и пересказ неадаптированного английского варианта этого же рассказа. Упражнение 1 имеет ключ. Рассказ содержит 942 английских слова и выражения. По сложности книга соответствует уровням В1—В2. Рекомендуется широкому кругу лиц, изучающих английский язык.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785042356131"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5042356134"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Humor"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gRnTDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gRnTDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=gRnTDwAAQBAJ&pg=PT28&dq=it&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gRnTDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gRnTDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 82.8,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 74.52,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gRnTDwAAQBAJ&rdid=book-gRnTDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 82800000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 74520000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/It_was_getting_dark_%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0-sample-epub.acsm?id=gRnTDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/It_was_getting_dark_%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0-sample-pdf.acsm?id=gRnTDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gRnTDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>It</b> got dark. However, Ivan decided to be persistent. He brought the antenna into the house, carefully examined <b>it</b>, found no damage, and decided to screw <b>it</b> to its rightful place. The second ascent of Yegorych ended as swiftly as <b>it</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UhldEAAAQBAJ",
+      "etag": "7RPboOftxD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UhldEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Все, что вы хотели знать об IT-рекрутинге: Как обогнать конкурентов в гонке за профессионалами",
+        "authors": [
+          "Ксения Окунцева"
+        ],
+        "publisher": "Альпина Паблишер",
+        "publishedDate": "2022-01-28",
+        "description": "Хороших книг о рекрутинге на русском языке не так много, а о специфическом IT HR — практически нет. Подбор IT-специалистов отличается особенностями этой сферы, спецификой занятых в ней людей и подходом к ним, а также источниками поиска и оценками на интервью. Для тех, кто хочет подобрать лучших специалистов для проекта любого масштаба максимально быстро и эффективно, профессиональный IT-рекрутер Ксения Окунцева написала настольную книгу, опираясь на свой опыт и кейсы ведущих компаний. Получилось детальное руководство — специалисты могут открыть нужную главу, взять алгоритм, учесть советы и адаптировать под свою бизнес-задачу. Каким бы ни был опыт читателя книги, он научится основам IT-рекрутинга и профессиональным приемам лучших рекрутеров, узнает, какие вопросы задавать соискателям, чтобы не ошибиться в выборе, научится писать привлекательные тексты вакансий и составлять тестовые задания. Автор подскажет, как вести себя на рынке, чтобы заработать личный авторитет и улучшить имидж бренда, научит понимать все нюансы своей работы и бизнес-процессов в компании в целом, а также устанавливать нормы по эффективности и производительности для каждого из членов команды.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785907534889"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5907534885"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UhldEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UhldEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=UhldEAAAQBAJ&pg=PT47&dq=it&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UhldEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UhldEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 339,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 339,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UhldEAAAQBAJ&rdid=book-UhldEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 339000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 339000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%81%D0%B5_%D1%87%D1%82%D0%BE_%D0%B2%D1%8B_%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8_%D0%B7%D0%BD%D0%B0%D1%82-sample-epub.acsm?id=UhldEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D1%81%D0%B5_%D1%87%D1%82%D0%BE_%D0%B2%D1%8B_%D1%85%D0%BE%D1%82%D0%B5%D0%BB%D0%B8_%D0%B7%D0%BD%D0%B0%D1%82-sample-pdf.acsm?id=UhldEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UhldEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Мы, Cellar door, молодое <b>IT</b> HR-агентство. В ноябре 2021-го нам исполнится два года. Но молодые не значит неопытные. В нашей небольшой ламповой команде <b>IT</b>-рекрутеры с опытом 5+ лет. СЕО Ксения Окунцева в <b>IT</b> HR девять лет, а в рекрутинге&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6erSBgAAQBAJ",
+      "etag": "oPBcij7Ndak",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6erSBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Блондинка вокруг света или I did it my way",
+        "authors": [
+          "Анна Лазарева"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-07-11",
+        "description": "Это путевые записки девушки, которая прилично побродила по нашей планете.Если вы засиделись на месте, переживаете, что вас поглотили семья и быт, но боитесь все бросить и «рвануть», тогда эта впечатляющая история для вас.Она удивляет, восхищает и захватывает. Её уютно читать под одеялом, радуясь, что вы здесь, а не в безвыходном положении на другом конце земного шара.После неё больше ценишь семью и близких, но при этом, ваши чемоданы и рюкзаки начинают звать в дорогу...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457719569"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457719561"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6erSBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6erSBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=6erSBgAAQBAJ&pg=PT238&dq=it&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6erSBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6erSBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 165.6,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 149.04,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6erSBgAAQBAJ&rdid=book-6erSBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 165600000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 149040000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%91%D0%BB%D0%BE%D0%BD%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82-sample-epub.acsm?id=6erSBgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%91%D0%BB%D0%BE%D0%BD%D0%B4%D0%B8%D0%BD%D0%BA%D0%B0_%D0%B2%D0%BE%D0%BA%D1%80%D1%83%D0%B3_%D1%81%D0%B2%D0%B5%D1%82-sample-pdf.acsm?id=6erSBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6erSBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>It</b> was on a remote Caribbean island. There was a tavern called «Papagaio» with an inscription on the wall»? <b>It</b> could be worse?» There was a girl called Marie. Marie wasn&#39;t local. She was from one of those bitter Northern countries,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q4PVDwAAQBAJ",
+      "etag": "ewSQKvWVWTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q4PVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "It was getting dark. Адаптированный рассказ для перевода с английского на испанский язык и пересказа. Серия © Лингвистический Реаниматор",
+        "authors": [
+          "Татьяна Олива Моралес"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-08-17",
+        "description": "Книга состоит из упражнения на перевод рассказа, адаптированного по методике © Лингвистический Реаниматор, с английского языка на испанский; и 2-х упражнений на чтение, перевод и пересказ неадаптированного английского и испанского варианта этого же рассказа. Упражнение 1 имеет ключ. Рассказ содержит 942 английских / испанских слова и выражения. По сложности книга соответствует уровням В1—В2. Рекомендуется широкому кругу лиц, изучающих английский и испанский язык.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785042371233"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5042371230"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q4PVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q4PVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=q4PVDwAAQBAJ&pg=PT33&dq=it&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q4PVDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q4PVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 119.6,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 107.64,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q4PVDwAAQBAJ&rdid=book-q4PVDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 119600000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 107640000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/It_was_getting_dark_%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0-sample-epub.acsm?id=q4PVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/It_was_getting_dark_%D0%90%D0%B4%D0%B0%D0%BF%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0-sample-pdf.acsm?id=q4PVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q4PVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>It</b> got dark. However, Ivan decided to be persistent. He brought the antenna into the house, carefully examined <b>it</b>, found no damage, and decided to screw <b>it</b> to its rightful place. The second ascent of Yegorych ended as swiftly as <b>it</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "if4jDwAAQBAJ",
+      "etag": "Y0WGD8OvsiA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/if4jDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Обзор рынка труда: IT",
+        "authors": [
+          "Максим Калинников"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-09-05",
+        "description": "Наше новое исследование посвящено рынку труда в сфере информационных технологий. В этом буклете мы собрали для вас обширную статистику по вакансиям и резюме в области IT, а также оценили динамику спроса и предложения за последние годы, узнали средние зарплаты для различных IT-специалистов и сравнили ситуацию на рынке труда в различных регионах России.Онлайн-опросы соискателей позволили заглянуть внутрь профессии, оценить ее преимущества и недостатки глазами самих IT-специалистов, а также подробно осветить проблему трудовой миграции среди представителей этой профессиональной области.Обзор дополнили наш рейтинг лучших московских вузов и факультетов, выпускающих IT-специалистов, а также портрет среднестатистического соискателя, составленный на основе анализа опубликованных пользователями сайтов http://hh.ru и http://career.ru резюме.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040566099"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040566093"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=if4jDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=if4jDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=if4jDwAAQBAJ&pg=PA5&dq=it&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=if4jDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=if4jDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 148.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 133.52,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=if4jDwAAQBAJ&rdid=book-if4jDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 148350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 133520000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9E%D0%B1%D0%B7%D0%BE%D1%80_%D1%80%D1%8B%D0%BD%D0%BA%D0%B0_%D1%82%D1%80%D1%83%D0%B4%D0%B0_IT-sample-pdf.acsm?id=if4jDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=if4jDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Невзирая на турбулентность рынка труда, вызванную экономическим кризисом, сфера <b>IT</b> на протяжении нескольких лет остается одним из островков стабильности и драйвером развития. Особенно это заметно в Москве, где <b>IT</b>-сектор составляет&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PTxpAAAAQBAJ",
+      "etag": "HD8F2smcOZs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PTxpAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Как использовать потенциал студентов в образовательном процессе. Реальные примеры из IT– и других областей",
+        "authors": [
+          "С. Дмитриев",
+          "Т. Ландо"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "На данный момент в образовании назревает смена образовательной парадигмы. В первую очередь это касается специальностей, связанных с информационными технологиями. Изменения в технологиях настолько интенсивны и иногда радикальны, что вузы практически не в состоянии угнаться за ними и своевременно модернизировать образовательный процесс. В этих новых условиях задача преподавателя меняется: он должен не столько учить, сколько помогать учиться, т.е. координировать и направлять образовательный процесс. Из этого вытекает, что основной инновационный потенциал вуза – студенты, недавние выпускники, а также настоящие (а не просто числящиеся таковыми) аспиранты, поскольку наполнение образовательного процесса определяется именно ими. В задачи образовательного института входит создание среды и инфраструктуры, в которых новые знания и навыки передаются и формируются наиболее быстрым и эффективным способом, не жертвуя при этом систематичностью. До тех пор пока вузы вынуждены ориентироваться на жесткие правила и закрепленные на федеральном уровне методики и учебные планы, а не на потребность в информации самих студентов, рассчитывать на динамизм и успешную координацию действий с бизнесом не приходиться.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457394636"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457394638"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PTxpAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PTxpAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=PTxpAAAAQBAJ&pg=PA42&dq=it&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PTxpAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PTxpAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 110.4,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 99.36,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PTxpAAAAQBAJ&rdid=book-PTxpAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 110400000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 99360000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%B0%D0%BA_%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C_%D0%BF%D0%BE%D1%82%D0%B5-sample-pdf.acsm?id=PTxpAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PTxpAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "дут выставляться на русском и английском учиться, участвуя в реальных проектах, языках. часто под руководством представителей Глубокие игры <b>IT</b> индустрии. Проекты подразумевают работу над реПланируются исследования глубоких игр альными&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fJ6LDwAAQBAJ",
+      "etag": "obuUmZV5TLw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fJ6LDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Get it right = Говорите правильно по-английски",
+        "authors": [
+          "Джейн Поуви"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-13",
+        "description": "В пособии рассматривается около 120 слов и конструкций английского языка, в употреблении которых русские студенты чаще всего допускают ошибки. Цель пособия – предупреждение типичных ошибок, обусловленных влиянием родного языка обучающихся. Предлагаются упражнения для проверки усвоения и тренировки материала.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457696532"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457696537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fJ6LDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fJ6LDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=fJ6LDwAAQBAJ&pg=PA151&dq=it&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=fJ6LDwAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Get_it_right_%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8.html?hl=&id=fJ6LDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Get_it_right_%D0%93%D0%BE%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B8-sample-pdf.acsm?id=fJ6LDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fJ6LDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>It</b> took English people a long time to get used to decimal currency. 9. She was just getting used to the new district when they moved again. 10. I havent got used to living in the suburbs yet. 11. <b>It</b> takes a bit of getting used to."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "95N9DwAAQBAJ",
+      "etag": "jHw3t/8/2Cw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/95N9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Английский язык (a2–b2). Страноведение: Россия. Russia as it is 2-е изд., испр. и доп. Учебное пособие для вузов",
+        "authors": [
+          "Наталия Токарева"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-01",
+        "description": "Материал учебного пособия направлен на развитие речевых навыков английского языка. Особенность издания заключается в том, что читатели учатся овладевать не только лексикой и грамматикой, но и умением понимать культурные и социальные отличия поведения носителей языка, знаковые отсылки к традициям. Поэтому в основе текста лежит диалог между американцами и русскими студентами, обсуждающими культуру России в сопоставлении с культурой США. Пособие содержит тексты на русском и английском языках,задания для тренировки понимания сообщаемой информации, развития речевых навыков и навыка письменного перевода. Пособие также может использоваться англоязычными обучающимися в рамках изучения дисциплины «Русский язык как иностранный».",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041458508"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041458502"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=95N9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=95N9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=95N9DwAAQBAJ&pg=PA34&dq=it&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=95N9DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=95N9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 976.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 878.72,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=95N9DwAAQBAJ&rdid=book-95N9DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 976350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 878720000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D1%8F%D0%B7%D1%8B%D0%BA_a2_b2_%D0%A1%D1%82-sample-pdf.acsm?id=95N9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=95N9DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I personally think that to make everyone the same and to draw conclusions as if they were applicable to everyone is not a good idea ; and thus , <b>it</b> is possible to note particular national characteristics , which we have tried to do ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xUxuFzYTAOkC",
+      "etag": "1vvmbp37zE4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xUxuFzYTAOkC",
+      "volumeInfo": {
+        "title": "IT-storii: записки айтишника. Полноцветное издание",
+        "authors": [
+          "Кузин А В"
+        ],
+        "publisher": "Издательский дом \"Питер\"",
+        "publishedDate": "2008-09-12",
+        "description": "Книга путевых заметок Андрея Кузина — основателя и владельца популярнейшего сайта 3DNews.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785388004154"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5388004155"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.10.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xUxuFzYTAOkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xUxuFzYTAOkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=xUxuFzYTAOkC&pg=PA59&dq=it&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=xUxuFzYTAOkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=xUxuFzYTAOkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 69,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 69,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=xUxuFzYTAOkC&rdid=book-xUxuFzYTAOkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 69000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 69000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/IT_storii_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%BA%D0%B8_%D0%B0%D0%B9%D1%82%D0%B8%D1%88%D0%BD%D0%B8-sample-pdf.acsm?id=xUxuFzYTAOkC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xUxuFzYTAOkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Что такое ОДИН, хоть и большой, павильон по сравнению с 20–30, которые CeBIT занимает в Ганновере. Из лидирующих выставочных мероприятий <b>IT</b>-индустрии Comdex уже превратился в какуюто региональную местечковую выставку, на которую,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6YdnAAAAQBAJ",
+      "etag": "81dTQdsOgaw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6YdnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Виртуальный национальный университет IT-образования: от концепций к реализации",
+        "authors": [
+          "В. Сухомлин"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "Публикация содержит подробное изложение и результаты практической реализации основных концепций создания интегрированной образовательной среды электронного обучения, объединяющей множество центров дистанционного обучения учебных, научных и отраслевых организаций, обеспечивая интеграцию интеллектуальных, информационных и других ресурсов для подготовки востребованных в IT-отрасли и научной сфере кадров.При реализации такой образовательной технологии базовой технологической конструкцией становится так называемая виртуальная кафедра (ВК), которая расширяет возможности традиционного учебного подразделения (кафедры/лаборатории) благодаря использованию среды поддержки образовательной деятельности конкретного учебного подразделения университета. ВК оснащена набором инструментальных средств, а также учебно-методическим обеспечением, необходимым для проведения занятий с учащимися в режиме как традиционного, так и дистанционного обучения.Реализация механизма ВК для отдельных подразделений вуза (кафедры, лаборатории, факультеты) способствует их оперативному переходу к технологиям смешанного обучения, существенно опережая процессы внедрения средств электронного обучения в масштабе организации в целом.Технологической основой Виртуального университета является интегрированная виртуальная образовательная среда (ИВОС), которая представляет собой систему интерактивно взаимодействующих единых информационных образовательных систем вузов (и других организаций), используемых для управления знаниями, процессом профессионального обучения.Автор отмечает, что одним из важнейших аспектов создания ВНУ ИТ является формирование системы управления знаниями в сфере обучения.За короткий период апробации ВК в процессе реализации образовательной деятельности университета на основе использования смешанной формы обучения получены практические результаты, подтверждающие эффективность такой организационной формы, какой является ВК, для внедрения инновационных образовательных технологий в учебный процесс.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457387713"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457387712"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6YdnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6YdnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=6YdnAAAAQBAJ&pg=PA89&dq=it&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=6YdnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6YdnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 110.4,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 99.36,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=6YdnAAAAQBAJ&rdid=book-6YdnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 110400000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 99360000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%B8%D1%80%D1%82%D1%83%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9_%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB-sample-pdf.acsm?id=6YdnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6YdnAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>IT</b>. образования: от. концепций. к. реализации. В рамках данной статьи представлены результаты осуществления проекта, основные положения которого были опубликованы автором на страницах нашего журнала в No1(7) за 2007 год."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zP1IDQAAQBAJ",
+      "etag": "4LHqV1/MmAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zP1IDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Роль капитала бренда в управлении бизнесом (на примере IT-компаний)",
+        "authors": [
+          "М. Ягольницер",
+          "К. Казанцев"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "В работе дан когнитивный подход к анализу капитала бренда. При этом обусловлено, что бренд является нематериальным активом, формирующим долгосрочные эффекты бизнес-стратегий компании. В исследовании не ставится задача выбора конкретного набора измерителей, которая достаточно подробно решается в работах многих авторов [Aaker, 1991; Вуд, 2006; Pitta, Katsanis, 1995; Burmann et al., 2009; Андреева, Прокофьева, 2010; Третьяк, 2001; Муравский и др., 2012 и др.]. Цель исследования – оценить взаимосвязи капитала бренда с его отдельными измерителями. Подробно описана процедура построения модели, основанная на оценке матрицы смежности ориентированного графа. Проведено сравнение результатов с публикуемыми данными компании Interbrand. Полученные результаты свидетельствуют, что предложенный методический подход может быть использован как для комплексной оценки капитала бренда, так и отдельных ее составляющих – показателей восприятия потребителей и рыночных показателей. При этом показатели могут конкретизироваться с учетом особенностей рынков и детализации потребительских предпочтений.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040305544"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040305540"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zP1IDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zP1IDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=zP1IDQAAQBAJ&pg=PA105&dq=it&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zP1IDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zP1IDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 193.2,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 173.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zP1IDQAAQBAJ&rdid=book-zP1IDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 193200000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 173880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%A0%D0%BE%D0%BB%D1%8C_%D0%BA%D0%B0%D0%BF%D0%B8%D1%82%D0%B0%D0%BB%D0%B0_%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0-sample-pdf.acsm?id=zP1IDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zP1IDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Sila brenda i ee izmerenie (na primere <b>IT</b>-kompaniy) [Brand power and tis measurement (for example <b>IT</b>-companies]. Ekonomika i menedzhment sistem upravleniya, 2014, no. 4.2 (14), pp. 322–331. 11. Aaker D. Managing Brand Equity."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eV5qAAAAQBAJ",
+      "etag": "xQFNAlNJSTM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eV5qAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераНовинки Lync Server 2013Блочная модель Lync Server 2013Lync Server 2013 Planning ToolБезопасностьУпрощенное ограниченное делегирование Kerberos в Windows Server 2012, часть 2ПланированиеРоли пользователя Microsoft System Center 2012 SP1 Virtual Machine ManagerУправлениеСкрываем данные в Active Directory с помощью разряда конфиденциальностиОтказоустойчивостьИспользование Hyper-V Replica в Windows Server 2012и многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457397248"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457397246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eV5qAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eV5qAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=eV5qAAAAQBAJ&pg=PA41&dq=it&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=eV5qAAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=eV5qAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=eV5qAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eV5qAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "66уtesРеrline - 16 <b>it</b> (8uttersiаe У1, 564еsРеrline ne О) 1 vrite-еtror&quot;-Вutiertirе раrameter must be a multiрle ot. SbуtesРеrline!&quot; -саtegorуlnvalidАrgument ехt } 4Кеeрtrаck оt out роsitіon vithin the file. IIIImt32181іieОttset."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L7FcEAAAQBAJ",
+      "etag": "pCCE0F6Ajtk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L7FcEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Золотая жила IT",
+        "authors": [
+          "Сергей Костанич"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-02-04",
+        "description": "...Поистине неисповедимы пути Господни. Мы не можем знать, куда он направит нас завтра, через месяц, через год. Как отзовется наше слово, наше действие – все это в руках и помыслах Всевышнего.Но мы точно знаем, что он нас бережет, он не дает нам испытаний, которых мы не могли бы вынести. Он ведет нас так, как надо.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785044172319"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5044172316"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L7FcEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L7FcEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=L7FcEAAAQBAJ&pg=PT7&dq=it&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=L7FcEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=L7FcEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 59.8,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 53.82,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=L7FcEAAAQBAJ&rdid=book-L7FcEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 59800000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 53820000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D0%B6%D0%B8%D0%BB%D0%B0_IT-sample-epub.acsm?id=L7FcEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F_%D0%B6%D0%B8%D0%BB%D0%B0_IT-sample-pdf.acsm?id=L7FcEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L7FcEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "пока в руки не попала книга про современные <b>IT</b>-технологии. Увлекся, не то слово! Стал прикидывать, а что я могу сделать в сфере <b>IT</b>? Мои немногочисленные друзья, когда я с ними поделился мыслями, на смех меня подняли."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "sT7CBAAAQBAJ",
+      "etag": "z7FOMPkvwu4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/sT7CBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераПереходим на SQL Server 2014Как стать эффективным администратором баз данныхЧто необходимо знатьО компьютерах и устройствахПланированиеМертвые птицы и шторм аудита SQL ServerЛабораторияГруппы доступности AlwaysOn и агенты чтения журналов от независимых производителейБезопасностьСоздание системы предотвращения утечек информации с помощью решений Microsoftи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457647763"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457647765"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=sT7CBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=sT7CBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=sT7CBAAAQBAJ&pg=PA22&dq=it&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=sT7CBAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=sT7CBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=sT7CBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=sT7CBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Поддерживаемые операционные системы для основных редакций SQL Server 2014 Windows Server 2012 R2 64-<b>it</b> Standard x64; • Windows Server 2012 64-<b>it</b> Datacenter x64; • WindowsServer 201264-<b>it</b> Standardx64; • Windows Server 2008 R2 SP1&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vFiyDgAAQBAJ",
+      "etag": "7qDX5S6plaM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vFiyDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE No04/2017",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-04-08",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераКоманды, группы SharePoint и SkypeОтладка кода SharePoint для локальной разработкиТенденции развития информационных технологийSQL ServerСоветы по использованию временных таблицИстории о данных: случай с «разбухающими» таблицамиВводный курсКоллекционирование личных данных, часть 1ПланированиеРуководство по переходуБезопасностьСостояние мобильного банкаи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040528363"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040528361"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vFiyDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vFiyDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=vFiyDgAAQBAJ&pg=PA55&dq=it&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vFiyDgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE_No04_2017.html?hl=&id=vFiyDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE_No04_2017-sample-pdf.acsm?id=vFiyDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vFiyDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "On each execution <b>it</b> loads in the previous executions list of VMs that were stopped and had not been restarted/stopped within # the last 20 minutes. If the VM on this execution is still stopped and has not been restarted/stopped within&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gGoUEAAAQBAJ",
+      "etag": "tYGJFLR5vaA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gGoUEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Take It Off: история Kiss без масок и цензуры",
+        "authors": [
+          "Грег Прато"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-29",
+        "description": "«Это самая подробная и авторитетная книга о «безгримовой» эре, и она часто несправедливо замалчивается в пользу эпохи «масок». TAKE IT OFF обязательна к прочтению для каждого члена Kiss Army».Metal-Rules.comКнига, написанная музыкальным журналистом Грэгом Прато, расскажет вам об одной из ярчайших вех в истории KISS, времени, когда, по мнению многих фанатов, были созданы лучшие песни группы: Heaven’s On Fire, Lick It Up, Tears Are Falling, Crazy Crazy Nights и другие. Это эра, когда музыканты решились смыть свой фирменный грим и снять вычурные наряды, чтобы не только не затеряться среди других исполнителей, но и суметь вернуть себе место на олимпе рок-музыки 80-х.Внутри книги собраны эксклюзивные интервью с людьми, сотрудничавшими с KISS в разное время: музыкантами, журналистами, продюсерами. Они и вспоминают первое появление группы «без масок» в эфире MTV, и рассказывают, как писали хиты с их альбомов, и делятся живыми воспоминаниями о концертах и турах. Также здесь перечислены вся дискография и самые яркие видеовыступления группы за этот период.В формате PDF A4 сохранен издательский макет.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043140401"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043140402"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gGoUEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gGoUEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=gGoUEAAAQBAJ&pg=PT37&dq=it&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gGoUEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gGoUEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 389.85,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 350.86,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gGoUEAAAQBAJ&rdid=book-gGoUEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 389850000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 350860000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Take_It_Off_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_Kiss_%D0%B1%D0%B5%D0%B7-sample-epub.acsm?id=gGoUEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Take_It_Off_%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F_Kiss_%D0%B1%D0%B5%D0%B7-sample-pdf.acsm?id=gGoUEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gGoUEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Соавтор книги KISS Alive Forever: The Complete Touring History[18] вспоминает гастроли Lick <b>It</b> Up, в которых снова были использованы сценические декорации тура Creatures, а сама группа продолжала искать точку опоры в выступлениях без&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oPo6EAAAQBAJ",
+      "etag": "c25XVNSlPpc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oPo6EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Из IT в психологию и обратно. Личные впечатления от работы психологом",
+        "authors": [
+          "Елена Иванова"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-07-31",
+        "description": "Книга о подводных камнях, особенностях, сложностях и иллюзиях, о ярких и ценных моментах в практике консультирующего психолога.Будет интересна тем, кто задумывается о выборе профессии психолога, а также тем, кто хочет “заглянуть за кулисы” профессии.В книге описаны личные впечатления автора и особенности процессов получения образования, развития практики и непосредственно работы психологом.Поиски \"Святого Грааля\", ошибки, неоправданные ожидания... Но в то же время бесценный опыт, радость и красота процессов, глубинные внутренние перемены...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043601339"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043601337"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Psychology"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oPo6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oPo6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=oPo6EAAAQBAJ&pg=PT36&dq=it&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oPo6EAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oPo6EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 171.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 154.22,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oPo6EAAAQBAJ&rdid=book-oPo6EAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 171350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 154220000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%98%D0%B7_IT_%D0%B2_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8E_%D0%B8_%D0%BE%D0%B1-sample-epub.acsm?id=oPo6EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%98%D0%B7_IT_%D0%B2_%D0%BF%D1%81%D0%B8%D1%85%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8E_%D0%B8_%D0%BE%D0%B1-sample-pdf.acsm?id=oPo6EAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oPo6EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Многие после окончания не пошли работать в сферу <b>IT</b> совсем, кто-то зашел в <b>IT</b>, но в другой роли, не программистом. Из тех, кто пошли работать по специальности, не все стали “хорошими программистами”, не все стали “высокооплачиваемыми”&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lIUfAQAAMAAJ",
+      "etag": "06DizwhgxwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lIUfAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Russia as it is, and not as it has been represented",
+        "subtitle": "together with observations and reflections on the pernicious and deceitful policy of the new school",
+        "authors": [
+          "Peter Dobell"
+        ],
+        "publishedDate": "1833",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "WISC:89017284076"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Russia"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lIUfAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lIUfAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=lIUfAQAAMAAJ&pg=PA5&dq=it&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lIUfAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lIUfAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=lIUfAQAAMAAJ&rdid=book-lIUfAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Russia_as_it_is_and_not_as_it_has_been_r.epub?id=lIUfAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.ru/books/download/Russia_as_it_is_and_not_as_it_has_been_r.pdf?id=lIUfAQAAMAAJ&hl=&output=pdf&sig=ACfU3U1hdnas6afXs6vK-iW6I5WZ12PwHQ&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lIUfAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Imperfect as I feel this sketch is delineated , I cannot help flattering myself with the hope that <b>it</b> may serve , for the moment , to convey to the world at large more accurate notions than they have hitherto received of the political&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z05XEAAAQBAJ",
+      "etag": "yHKwPIH//Uo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z05XEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Если бы программисты строили дом, или Как не потерять миллионы в IT-проектах",
+        "authors": [
+          "Наталья Легеза"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-31",
+        "description": "Все мы, так или иначе, за последние 10 лет сталкивались с представителями IT-сферы. У кого-то из нас они вызывают восхищение, у кого-то зависть, а у кого-то раздражение. Представители этой, совершенно не древней профессии уже успели засиять на ярком небосклоне и оказаться в числе самых востребованных специалистов на нашей планете. Как не потерять деньги, инвестируя в IT-проекты? Как научиться понимать программистов? Все эти ответы вы найдёте на страницах этой книги.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785044106819"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "504410681X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z05XEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z05XEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Z05XEAAAQBAJ&pg=PT5&dq=it&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Z05XEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Z05XEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 286.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 257.72,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Z05XEAAAQBAJ&rdid=book-Z05XEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 286350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 257720000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%95%D1%81%D0%BB%D0%B8_%D0%B1%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B-sample-epub.acsm?id=Z05XEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%95%D1%81%D0%BB%D0%B8_%D0%B1%D1%8B_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%81%D1%82%D1%8B-sample-pdf.acsm?id=Z05XEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z05XEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Да и что там говорить, уже и в сказах тысячелетней давности разыскивают <b>IT</b>-решения, которые завуалированной форме пытались донести до нас, неразумных, древние предки. Не удивлюсь, если в какойнибудь сказке разыщут аналог IPHONE,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NVpnAAAAQBAJ",
+      "etag": "uFyCBUxztng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NVpnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Использование кейс-методов в обучении IT-специалистов для формирования навыков продвижения сайта в сети Интернет",
+        "authors": [
+          "А. Беспалько",
+          "Н. Сочнева"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "Статья посвящена методам формирования у студентов специальности «Прикладная информатика в экономике» навыков размещения и продвижения сайта в сети Интернет. Рассматриваются краткие предпосылки к становлению сетевой экономики, виды наиболее популярных экономических отношений и средства для их реализации. Приведен пример кейса по второму модулю предмета «Сетевая экономика». В качестве методологии используются кейс-методы.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457385917"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457385914"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NVpnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NVpnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=NVpnAAAAQBAJ&pg=PA29&dq=it&hl=&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=NVpnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NVpnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 110.4,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 99.36,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=NVpnAAAAQBAJ&rdid=book-NVpnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 110400000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 99360000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%98%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BA%D0%B5%D0%B9%D1%81_%D0%BC%D0%B5-sample-pdf.acsm?id=NVpnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NVpnAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Использование кейс - методов в обучении <b>IT</b> - специалистов для формирования навыков продвижения сайта В сети Интернет Статья посвящена методам формирования у студентов специальности « Прикладная информатика в экономике » навыков&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ByneCAAAQBAJ",
+      "etag": "KHk07ZbUrRQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ByneCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераРезервирование и шифрование устройств на AndroidФизическая защита мобильного устройстваIT и бизнесОдновременный выпуск клиентских и серверных операционных системЛабораторияСредство восстановления Windows Phone после установки Windows 10 Technical PreviewПишем сценарииОт пакетных файлов к PowerShell: различия в синтаксисеСпроси экспертаНа вопросы читателей отвечает Джон Сэвилли многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457771314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457771318"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ByneCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ByneCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=ByneCAAAQBAJ&pg=PA1&dq=it&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ByneCAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=ByneCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=ByneCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ByneCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ООО «Издательство «Открытые системы» полицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "42qwCgAAQBAJ",
+      "etag": "cDiiUfxVV0I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/42qwCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераТабличные переменные и временные таблицы в SQL Server 2014Функции SQL Server 2016 для бизнес-аналитикиПишем сценарииКонвейер PowerShellВводный курсПять рекомендаций по настройке после обновления до Windows 10ПланированиеВнесение изменений и возможные препятствия при миграции с Server 2003Office systemНовый план E5 для системы Office 365Exchange & OutlookФункция Undo Send от компании Googleи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457896857"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457896854"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=42qwCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=42qwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=42qwCgAAQBAJ&pg=PA1&dq=it&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=42qwCgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=42qwCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=42qwCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=42qwCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE использу- ется ООО «Издательство «Открытые системы» полицен- зионному соглашению с Penton Media&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2Ie6BwAAQBAJ",
+      "etag": "wlslK8qUM94",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2Ie6BwAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераНачинаем изучать моделирование с табличных моделей служб аналитики. Часть 1Этапы модернизации SQL ServerIT и бизнесВозрождение рынка персональных компьютеровБезопсностьПервая десятка «проколов» в информационной безопасности за 2014 годЛабораторияУстановка Windows 10 Technical Preview на HP Stream 7Спроси экспертаНа вопросы читателей отвечает Джон Сэвилли многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457748538"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457748537"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2Ie6BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2Ie6BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=2Ie6BwAAQBAJ&pg=PA1&dq=it&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=2Ie6BwAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=2Ie6BwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=2Ie6BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2Ie6BwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton БЕЗОПАСНОСТь 54 Первая десятка «проколов» в информационной безопасности за 2014 год Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "NqN2BAAAQBAJ",
+      "etag": "pWRBZbdyMpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/NqN2BAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераРазвитие бизнеса: руководство для профессиональных разработчиков программного обеспеченияОт разработчика программного обеспечения до руководителя компанииЧто необходимо знатьApple на предприятииSQL ServerОтсутствующие индексы и стоимость запусков плана выполненияЛабораторияЕдиное решение VMware Horizon 6БезопасностьЗащита iCloudи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457639119"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457639118"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=NqN2BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=NqN2BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=NqN2BAAAQBAJ&pg=PA1&dq=it&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=NqN2BAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=NqN2BAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=NqN2BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=NqN2BAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ЗАО «Издательство «Открытые системы» полицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ncUFAgAAQBAJ",
+      "etag": "LF196dCfU+w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ncUFAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераСпастись от надвигающейся буриНаводим мосты между Active Directory и Office 365Аутентификация на планшетахЧто необходимо знатьПерспективы Windows Server 2012 R2 Essentials и Windows Phone 8ИТ и бизнесУстройства и службы? А как же программное обеспечение?УправлениеОсновы PowerShell: требования к системеЛабораторияSurface 2 и Surface Pro 2и многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457495739"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457495736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ncUFAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ncUFAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=ncUFAgAAQBAJ&pg=PA1&dq=it&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ncUFAgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=ncUFAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=ncUFAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ncUFAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ЗАО «Издательство «Открытые системы» по лицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hROnBQAAQBAJ",
+      "etag": "3h3vcNimAZ4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hROnBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераНовый механизм People View в Outlook Web App для Office 365Публикация на нескольких сайтах в SharePoint 2013IT и бизнесКакова ценность в ИТ-индустрии сертификатов Microsoft?SQL ServerКластеризованные индексы на основе GUIDЛабораторияWindows + Mac: виртуализацияБезопасностьOCR в системах DLPи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457671201"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457671208"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hROnBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hROnBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=hROnBQAAQBAJ&pg=PA1&dq=it&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=hROnBQAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=hROnBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=hROnBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hROnBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ЗАО «Издательство «Открытые системы» полицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "E617BgAAQBAJ",
+      "etag": "8emekc8OlZM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/E617BgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераИспользуем последовательностиПочему следует избегать триггеровIT и бизнесУчимся зановоВводный курсРезервное копирование данных в «облако»ПланированиеРазвертывание корпоративной сетиБезопасностьРешения двухэтапной аутентификациии многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457709171"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457709175"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=E617BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=E617BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=E617BgAAQBAJ&pg=PA1&dq=it&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=E617BgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=E617BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=E617BgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=E617BgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ООО «Издательство «Открытые системы» полицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "41DZBgAAQBAJ",
+      "etag": "CAgT2MMWQIw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/41DZBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераПереводим сеть с Windows Server 2003Многоязычные сайты SharePoint 2013 и Office 365IT и бизнесКорпоративная сеть SharePoint и вовлеченность персоналаВводный курсСоздание установочного носителя на USBЛабораторияНеделя с Microsoft BandПланированиеРазвертывание приложений Windows 8и многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457722965"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457722961"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=41DZBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=41DZBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=41DZBgAAQBAJ&pg=PA1&dq=it&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=41DZBgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=41DZBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=41DZBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=41DZBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro используется Penton Media, Inc. в соответствии с соглашением с владельцем торговой марки. Название Windows <b>IT</b> Pro/RE используется ООО «Издательство «Открытые системы» полицензионному соглашению с Penton Media,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "63v1DwAAQBAJ",
+      "etag": "c7ab7dX5zN8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/63v1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "IT Менеджмент. Что отличает проект за $1000 от проекта за $500,000?",
+        "authors": [
+          "Max Suvorov (Maksym Suvorov, Максим Суворов)"
+        ],
+        "publisher": "Max Suvorov (Максим Суворов)",
+        "publishedDate": "2019-12-01",
+        "description": "В чем разница между проектами за тысячу и за $500 тысяч? Почему одни компании тратят миллионные суммы на разработку ПО, а другие несколько тысяч? В чем реальная разница между мелкими агенствами и крупными компаниями, которые берут миллионы долларов? Эта книга о современных подходах в менеджменте разработки. В этой книге вы из первых рук узнаете о бизнесе IT разработок, получите представление об особенностях разработки сложных корпоративных продуктов, а также изучите последние методы и процессы управления разработкой ПО.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 200,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=63v1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=63v1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=63v1DwAAQBAJ&pg=PA7&dq=it&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=63v1DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=63v1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 225.98,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 225.98,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=63v1DwAAQBAJ&rdid=book-63v1DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 225980000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 225980000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/IT_%D0%9C%D0%B5%D0%BD%D0%B5%D0%B4%D0%B6%D0%BC%D0%B5%D0%BD%D1%82_%D0%A7%D1%82%D0%BE_%D0%BE%D1%82%D0%BB%D0%B8-sample-pdf.acsm?id=63v1DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=63v1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "чем от В этой книге описывается, как работает средний и крупный <b>IT</b>-бизнес. Из нее вы узнаете, что на самом деле происходит при разработке сложного программного обеспечения. Я расскажу вам, как организуется работа <b>IT</b>-компаний,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LbdnAAAAQBAJ",
+      "etag": "K6SvSnc9lUw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LbdnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Проблемы IT-подготовки кадров непрофильных специальностей",
+        "authors": [
+          "К. Жижин"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "В государственных образовательных учреждениях среднего профессионального образования всё активнее внедряются информационные технологии (IT) обучения для медицинских специальностей, реализуемые с помощью персональных ЭВМ.Однако на практике большей частью в лечебно-профилактических учреждениях ЭВМ, как основной элемент IT, используется не более чем усовершенствованная пишущая машинка. И это несмотря на то что с помощью IT можно реализовать широчайшие возможности и для совершенствования процессов диагностики и лечения, и для обработки результатов наблюдений. В 60—70-е годы ХХ столетия использование ЭВМ даже для анализа итогов работы, не говоря уже о разработке прогнозов и планирования, было сопряжено с рядом методических и методологических трудностей для рядового пользователя.В настоящее же время проблема эта снята: для людей далеких от тонкостей технологий программирования создано много готовых для использования программ. В частности наиболее популярными статистическими софтами на рынке IT сегодня являются американские программы SPSS (Statistical Package for Social Science – Статистический пакет для социальных наук) и STATISTICA.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457389496"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457389499"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LbdnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LbdnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=LbdnAAAAQBAJ&pg=PA41&dq=it&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LbdnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LbdnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 124.2,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 111.78,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LbdnAAAAQBAJ&rdid=book-LbdnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 124200000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 111780000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B_IT_%D0%BF%D0%BE%D0%B4%D0%B3%D0%BE%D1%82%D0%BE%D0%B2%D0%BA%D0%B8-sample-pdf.acsm?id=LbdnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LbdnAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Первый шаг к <b>IT</b> и статистическому анализу — это ввод данных в программу. Для управле-ния ими используется редактор данных. Окно редактора представляет собой электронную таблицу, в которой столбцы отражают переменные, а строки — объекты&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4OcVEAAAQBAJ",
+      "etag": "QzEC4znJhh4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4OcVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "ВСетях.com. it-роман",
+        "authors": [
+          "Евгений Ленг"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-11-12",
+        "description": "Евгений Ленг, журналист и предприниматель, автор первой книги об Уанете «Пространство. UA», на короткой ноге с ведущими персоналиями украинской айтишной экосистемы. В его фантастическом романе ВСетях. com действующими лицами становятся лидеры не только украинского, но и мирового веб-пространства. Главный герой, Михаил Берг, успешный предприниматель и первопроходец интернета, отправляется на поиски пропавшей возлюбленной – одного из лучших хакеров современности. Следуя подсказкам, он всё глубже погружается в скрытые стороны всемирной паутины, где познает самые тёмные стороны человеческой натуры и столкнётся с универсальным Искусственным Интеллектом. Ему придётся сделать непростой выбор, который определит судьбу всего человечества... В книге собраны опыт, знания и истории лучших современных специалистов и пионеров it-мира; это увлекательная квинтэссенция документального и художественного материала; это история становления интернета, рассказанная в контексте захватывающего путешествия современного Данте в новый, виртуальный ад, порождённый 21-м веком. Книга будет открытием как для поклонников динамичной, остросюжетной прозы, так и для тех, кто хочет достоверно узнать, как Интернет вошёл в жизни людей и как он изменил их. В книге присутствует ненормативная лексика.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043116116"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043116110"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4OcVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4OcVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=4OcVEAAAQBAJ&pg=PT238&dq=it&hl=&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4OcVEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4OcVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 228.85,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 205.96,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4OcVEAAAQBAJ&rdid=book-4OcVEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 228850000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 205960000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%A1%D0%B5%D1%82%D1%8F%D1%85_com_it_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-sample-epub.acsm?id=4OcVEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%92%D0%A1%D0%B5%D1%82%D1%8F%D1%85_com_it_%D1%80%D0%BE%D0%BC%D0%B0%D0%BD-sample-pdf.acsm?id=4OcVEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4OcVEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "В 2011 году Александр был назван самым влиятельным человеком на российском <b>it</b>-рынке по версии Forbes.ru, а на следующий год номинировался на звание лучшего европейского венчурного капиталиста десятилетия по версии The Investor AllStars&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "e_FKDAAAQBAJ",
+      "etag": "/XAXiZx7Qf0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/e_FKDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераЗащита от потери данных в Exchange Server 2013Знакомимся с группами Office 365Избавляемся от вредных привычек с помощью Delve AnalyticsРазвертывание новых продуктов в «облаке» и на землеSQL ServerИзменчивая статистика использования. Часть 2Вводный курсСоздание образа Windows для устройств Windows 10Office SystemЗнакомство с гибридной средой SharePoint 2016ЛабораторияОпыт использования OneDriveи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040136230"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040136234"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=e_FKDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=e_FKDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=e_FKDAAAQBAJ&pg=PA1&dq=it&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=e_FKDAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=e_FKDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=e_FKDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=e_FKDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro/REиспользуется ООО «Издательство «Открытые системы» полицензионному соглашению сPenton Media, Inc. Windows <b>IT</b> Pro/RE — независимое откорпорации Microsoft издание. Корпорация Microsoft не несетответственности за&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "01LhDAAAQBAJ",
+      "etag": "Ksyp99sJ0AQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/01LhDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераЛогика защиты SharePointПредварительное знакомство с SQL Server 2016 и Cortana IntelligenceВведение в PowerApps5 основных функций нового SharePoint 2016ПланированиеВарианты обновления Windows Vista после прекращения поддержкиSQL ServerИнтеграция Big Data в SQL Server 2016Office SystemОцениваем топологию поиска SharePointExchange & OutlookОсобенности пустой политики хранения по умолчанию в Exchange Onlineи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040207152"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040207158"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=01LhDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=01LhDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=01LhDAAAQBAJ&pg=PA1&dq=it&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=01LhDAAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=01LhDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=01LhDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=01LhDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Название Windows <b>IT</b> Pro/REиспользу- ExchangE &amp; OuTLOOk 54 Особенности пустой политики хранения по умолчанию вExchange ется ООО «Издательство «Открытые системы» полицензионному соглашению сPenton Media, Inc. Windows <b>IT</b> Online Pro/RE&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lWNnAAAAQBAJ",
+      "etag": "7VQNYz2CP7k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lWNnAAAAQBAJ",
+      "volumeInfo": {
+        "title": "Оценка эффективности IT-инвестиций в проектах автоматизации",
+        "authors": [
+          "Н. Ковальчук"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2022-01-27",
+        "description": "В статье рассматриваются методики анализа эффективности инвестиций, требования к данным методикам для корректности их оценки. В проектах по автоматизации организации при проектировании и создании информационных систем необходима точная оценка сроков и затрат на создание ПО. Наиболее подходящими в таких ситуациях будут являться подход, реализующий анализ по функциональным точкам, и метод Cocomo II. Идея использования подобного метода в том, что, зная трудоёмкость задачи в функциональных точках (FP) и возможную производительность вашей команды разработчиков (FP/t), можно оценить (с определённой степенью погрешности) необходимые вам для проекта ресурсы.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457386181"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "545738618X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Mathematics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lWNnAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lWNnAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=lWNnAAAAQBAJ&pg=PA44&dq=it&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lWNnAAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lWNnAAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 193.2,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 173.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lWNnAAAAQBAJ&rdid=book-lWNnAAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 193200000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 173880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9E%D1%86%D0%B5%D0%BD%D0%BA%D0%B0_%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D0%B8-sample-pdf.acsm?id=lWNnAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lWNnAAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>IT</b>-èíâåñòèöèé. â. ïðîåêòàõ. àâòîìàòèçàöèè. Â проектах по автоматизации организаций необходима точная оценка сроков и затрат на создание программного обеспечения. Â статье рассматриваются методики анализа ýффективности инвестиций,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BZvdCgAAQBAJ",
+      "etag": "QHY4o+RjojM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BZvdCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераГруппы обеспечения доступности баз данных: скрытая угроза ESEUTILЗащита почтового ящика Exchange после увольнения сотрудникаОбновленияНовости об активации Windows 10Вводный курсВыключение автоматического обновления драйверов в Windows 10Exchange & OutlookОбновления как основа для запуска Exchange 2016Office systemПлата за импорт данных в Office 365ПланированиеПостроение решений в SharePoint Online и локальнои многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457914995"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457914992"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BZvdCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BZvdCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=BZvdCgAAQBAJ&pg=PA14&dq=it&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=BZvdCgAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=BZvdCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=BZvdCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BZvdCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Disable-ADAccount-Identity&quot;CN=Bad Employee, OU=<b>IT</b>, OU=Users, DC=Contoso, DC=COM&quot; затем поместите почтовый ящик на судебное удержание, чтобы пресечь любую попытку удалить или отредактировать его содержимое."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "I-59CwAAQBAJ",
+      "etag": "iVbkL08Anjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/I-59CwAAQBAJ",
+      "volumeInfo": {
+        "title": "Windows IT Pro/RE",
+        "authors": [
+          "Открытые системы"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-01-12",
+        "description": "Windows IT Pro/RE – профессиональное издание на русском языке, целиком и полностью посвященное вопросам работы с продуктами семейства Windows и технологиям компании Microsoft. Журнал предназначен для системных администраторов и разработчиков.В номере:Тема номераРаботаем с SharePoint: знакомство с PowerShellУправление пользователямиСтолбцы базового узла в SharePointИТ и бизнесЗащита конфиденциальности в Windows 10SQL ServerИстории о данных: случай с фантомным дубликатомПишем сценарииPowerShell: прощай, GotoВводный курсWindows 10: работай эффективнееЧто необходимо знатьSharePoint 2016: шесть устаревших функцийи многое другое",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457972650"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457972658"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Computers"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=I-59CwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=I-59CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=I-59CwAAQBAJ&pg=PA65&dq=it&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=I-59CwAAQBAJ&dq=it&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Windows_IT_Pro_RE.html?hl=&id=I-59CwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Windows_IT_Pro_RE-sample-pdf.acsm?id=I-59CwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=I-59CwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "статье «Сбор данных с сайтов с помощью вебслужбна базе SOAP и REST» (опубликованной в Windows <b>IT</b> Pro/RE No 11 за 2015 год) я рассказывало сбореданныхсвеб-серверов без необходимости анализа экранных данных. Мы знаем, что веб-службы по&nbsp;..."
+      }
+    }
+  ]
+}

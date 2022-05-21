@@ -1,0 +1,3429 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 510,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "veEZEAAAQBAJ",
+      "etag": "ouM2OpHJTeA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/veEZEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Philosophical adventures of kitten Roll",
+        "authors": [
+          "Ариель Абарбанель"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-07-10",
+        "description": "The story of the book is about the kitten Roll and his friend Erica, their world, dreams and fantasies.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043283078"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043283076"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=veEZEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=veEZEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=veEZEAAAQBAJ&pg=PT6&dq=kitten&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=veEZEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=veEZEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 458.85,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 412.96,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=veEZEAAAQBAJ&rdid=book-veEZEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 458850000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 412960000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Philosophical_adventures_of_kitten_Roll-sample-epub.acsm?id=veEZEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Philosophical_adventures_of_kitten_Roll-sample-pdf.acsm?id=veEZEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=veEZEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And since he was still a little <b>kitten</b>, like all little ones, he loved to run, tinker and roll on the floor. The house where he lived was large, and the hostess did not always have time to clean it – dust collected from time to time."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gExPEAAAQBAJ",
+      "etag": "N7ba9GcbYxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gExPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Котёнок Усатик, или Отважное сердце / The Kitten Nobody Wanted",
+        "authors": [
+          "Холли Вебб"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-29",
+        "description": "Мия часто приходит к Эмили поиграть с маленькими котятами. Особенно она подружилась с робким Усатиком. Но совсем скоро его заберут в новый дом. Как же девочке пережить расставание?В этой книге-билингве оригинальный текст и русский перевод расположены на одном развороте, так что даже недавно изучающие английский смогут уверенно следить за сюжетом. Полезная лексика и грамматические конструкции поясняются в постраничных комментариях-сносках.Читайте историю Мии и Усатика теперь не только на русском, но и на английском языке!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785043788894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5043788895"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gExPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gExPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=gExPEAAAQBAJ&pg=PA84&dq=kitten&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gExPEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gExPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 217.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 195.62,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gExPEAAAQBAJ&rdid=book-gExPEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 217350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 195620000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA_%D0%A3%D1%81%D0%B0%D1%82%D0%B8%D0%BA_%D0%B8%D0%BB%D0%B8_%D0%9E%D1%82-sample-pdf.acsm?id=gExPEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gExPEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Especially the white <b>kitten</b>, who seemed so loving. He always nuzzled at her and licked her fingers. One Friday afternoon, a couple of weeks after they were born, Mia went to tea at Emily&#39;s house. She was really looking forward to it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aJmtDwAAQBAJ",
+      "etag": "fTXZY44a7/Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aJmtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Котёнок Одуванчик, или Игра в прятки / Smudge the Stolen Kitten",
+        "authors": [
+          "Холли Вебб"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-29",
+        "description": "Оливия очень давно мечтала о котёнке, и наконец в их доме появился Одуванчик! Девочка сразу полюбила любознательного котёнка и очень заботилась о нём. Но в этот раз Одуванчик куда-то запропастился... Где же он?В этой книге-билингве оригинальный текст и русский перевод расположены на одном развороте, так что даже недавно изучающие английский смогут уверенно следить за сюжетом. Полезная лексика и грамматические конструкции поясняются в постраничных комментариях-сносках.Читайте историю маленькой хозяйки и её пушистого котёнка теперь не только на русском, но и на английском языке!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041881801"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041881804"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aJmtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aJmtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=aJmtDwAAQBAJ&pg=PA26&dq=kitten&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=aJmtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=aJmtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 217.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 195.62,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=aJmtDwAAQBAJ&rdid=book-aJmtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 217350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 195620000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%BE%D1%82%D1%91%D0%BD%D0%BE%D0%BA_%D0%9E%D0%B4%D1%83%D0%B2%D0%B0%D0%BD%D1%87%D0%B8%D0%BA_%D0%B8%D0%BB%D0%B8-sample-pdf.acsm?id=aJmtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aJmtDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Are there really <b>kittens</b> at the Rescue Centre right now?” she asked Debbie shyly. Debbie nodded. ... Olivia&#39;s eyes shone as she imagined sitting on the sofa, just like she was now, but with a tiny grey <b>kitten</b> purring on her lap."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "R63DBTUjzEwC",
+      "etag": "ctsjkCRnt28",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/R63DBTUjzEwC",
+      "volumeInfo": {
+        "title": "I Just Got a Kitten. What Do I Do?",
+        "subtitle": "How to Buy, Train, Understand, and Enjoy Your Kitten",
+        "authors": [
+          "Mordecai Siegal"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2006-02-07",
+        "description": "A kitten-care guide for inexperienced owners covers a wide range of topics, from adopting a compatible feline companion and bonding with a new kitten to providing a good home environment and addressing various medical concerns. Original. 35,000 first printing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743245098"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743245091"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Nature"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=R63DBTUjzEwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=R63DBTUjzEwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=R63DBTUjzEwC&pg=PA20&dq=kitten&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=R63DBTUjzEwC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/I_Just_Got_a_Kitten_What_Do_I_Do.html?hl=&id=R63DBTUjzEwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=R63DBTUjzEwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How to Buy, Train, Understand, and Enjoy Your <b>Kitten</b> Mordecai Siegal. coat means something may be wrong. Bald or bare patches of skin showing through may be indications of ringworm or mange. A healthy coat should be full, possibly plush&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lN3F-xfHXDgC",
+      "etag": "tzxrzTWR4fg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lN3F-xfHXDgC",
+      "volumeInfo": {
+        "title": "Cindy Kitten’s Adventures",
+        "authors": [
+          "Cynthia Rachal-Bennett"
+        ],
+        "publisher": "Xlibris Corporation",
+        "publishedDate": "2011-11-09",
+        "description": "My stories are about many things. My love cats and kittens. I realized there were many stray cats around. Sometimes they just wander, from house to house. They hunted mice, in the hay barn. Cats wander like free spirits. We gave them nick names. Sassy kitten she was gray. They played, on the porch. I named a few like gray boy, snowball and Mama Cat. I would rock, on the porch trying to play with them. Every cat had a bowl. There was one brave kitten. I named her, Cindy kitten. There fore “Cindy kittens’ Adventures” were born. Hope my stories about Cindy kitten and her friends, make you smile. Cindy kitten has more adventures for you. Enjoy reading my stories, until our next adventure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781465305114"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1465305114"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 59,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lN3F-xfHXDgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lN3F-xfHXDgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=lN3F-xfHXDgC&pg=PA13&dq=kitten&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lN3F-xfHXDgC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lN3F-xfHXDgC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 675,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 607.5,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lN3F-xfHXDgC&rdid=book-lN3F-xfHXDgC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 675000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 607500000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Cindy_Kitten_s_Adventures-sample-epub.acsm?id=lN3F-xfHXDgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Cindy_Kitten_s_Adventures-sample-pdf.acsm?id=lN3F-xfHXDgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lN3F-xfHXDgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“You <b>kittens</b> come over and have some snacks.” Rollie <b>kitten</b> twin said. “Can I have a glass of cold lemonade?” He said. “Those <b>kittens</b> can not cook.” Papa William Cat asked. “What are they cooking?” Rollie <b>kitten</b> twin said."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g_WXBgAAQBAJ",
+      "etag": "6ek8UKXiV7A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g_WXBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Care for a Kitten",
+        "authors": [
+          "Stephanie Bearce"
+        ],
+        "publisher": "Mitchell Lane Publishers, Inc.",
+        "publishedDate": "2010-09",
+        "description": "Have you always wanted a cute, cuddly kitten for a pet? Find out how to choose a kitten, how to prepare your home, how to introduce your kitten to your friends, and what to do if someone in your family is allergic to cats. You’ll also read fun kitty facts—like how many muscles they have in their ears—as you gather the information you need to convince your parents you could be a loving cat owner.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781612287249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1612287247"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g_WXBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g_WXBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=g_WXBgAAQBAJ&pg=PA15&dq=kitten&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=g_WXBgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=g_WXBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1959.07,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1763.16,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=g_WXBgAAQBAJ&rdid=book-g_WXBgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1959070000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1763160000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Care_for_a_Kitten-sample-pdf.acsm?id=g_WXBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g_WXBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Look at a picture of the eyes of a <b>kitten</b>. Look at your eyes in a mirror. Can you see the difference? Your eyes have round pupils (the black part of the eye). <b>Kitten&#39;s</b> eyes have a different pupil. It looks like a black line."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RVVMDwAAQBAJ",
+      "etag": "seG68OEeAd8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RVVMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Complete Kitten Care",
+        "authors": [
+          "Amy Shojai"
+        ],
+        "publisher": "Furry Muse Publications",
+        "publishedDate": "2018-02-19",
+        "description": "UPDATED and EXPANDED CONTENT Including 27 New Cute Kitten Pictures! COMPLETE KITTEN CARE is your go-to guide for kittens information on kittens health, new kitten care, and buying a kitten or adopting a stray or shelter kitten for your family. You'll learn all the latest about raising a cat of your dreams, introducing a new kitten to the rest of your family, and enjoy the award winning cute kitten pictures. Nationally known pet authority Amy Shojai has updated her award-winning book with the latest cat behavior information and kitten care research, including new cat vaccinations guidelines, animal behavior advice, cat language tips and more. This veritable \"Kitten101\" is packed with all the must-know facts about cats and kitten facts including: * Choosing a kitten * Best kittens for adoption * Kitten breeds and buying kittens * How to train a kitten * Understand kitten behavior * Fixing and preventing common kitten problems * Toilet training cats and litter training kittens * How to stop kitten biting and cat hissing * Understand cat communication, cat body language and cat purrs * Cat breed guide with care considerations and kitty personality types * introducing a kitten to a cat * introducing a kitten to a dog * Kittens food considerations * Grooming a cat or kitten * Kitten vaccinations * Kitten parasites and cat worms * Kitten spay and neuter * Cat legends, myths, and fun facts Plus a myriad of UPDATED kitten and cat supply resources: the best kitten Websites, cat associations and feline clubs, animal welfare organizations and feline foundations, recommended cat books and kitten magazines, online kitten and cat products sources",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944423919"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1944423915"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": [
+          "Pets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RVVMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RVVMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=RVVMDwAAQBAJ&pg=PT125&dq=kitten&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RVVMDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RVVMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 531.74,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 531.74,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RVVMDwAAQBAJ&rdid=book-RVVMDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 531740000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 531740000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RVVMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Scratching objects and cat trees are vital to the emotional health of your <b>kitten</b>. <b>Kittens</b> —and adult cats—claw. Period. You will never, under any circumstances, stem the urge to claw or to climb. If they don&#39;t have a legal outlet,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UMrDDwAAQBAJ",
+      "etag": "eOOUWPzlay0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UMrDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitten’s Summer",
+        "authors": [
+          "Eugenie Fernandes"
+        ],
+        "publisher": "Kids Can Press Ltd",
+        "publishedDate": "2012-08-01",
+        "description": "Autumn has settled on the farm, but fallen leaves aren’t the only signs of the season. Find out what animals kitten sees preparing themselves for winter.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781554538546"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1554538548"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UMrDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UMrDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UMrDDwAAQBAJ&pg=PT26&dq=kitten&hl=&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UMrDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UMrDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 386.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 348.29,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UMrDDwAAQBAJ&rdid=book-UMrDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 386990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 348290000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Summer-sample-epub.acsm?id=UMrDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Summer-sample-pdf.acsm?id=UMrDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UMrDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "eBooks in this series <b>Kitten&#39;s</b> Autumn <b>Kitten&#39;s</b> Winter <b>Kitten&#39;s</b> Autumn <b>Kitten&#39;s</b> Winter - - * - - ol. o o, o o - o - - Eugenie Fernandes <b>Kitten&#39;s</b> Summer <b>Kitten</b> Eugenie Fernandes Eugenie Fernandes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WMrDDwAAQBAJ",
+      "etag": "MZgnhP+uTYg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WMrDDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitten’s Autumn",
+        "authors": [
+          "Eugenie Fernandes"
+        ],
+        "publisher": "Kids Can Press Ltd",
+        "publishedDate": "2012-08-01",
+        "description": "Animals in the wild and on the farm scramble to avoid the rain. Will the kitten make it home before it is soaked?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781554538560"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1554538564"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WMrDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WMrDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=WMrDDwAAQBAJ&pg=PT26&dq=kitten&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=WMrDDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=WMrDDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 386.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 348.29,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=WMrDDwAAQBAJ&rdid=book-WMrDDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 386990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 348290000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Autumn-sample-epub.acsm?id=WMrDDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Autumn-sample-pdf.acsm?id=WMrDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WMrDDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "eBooks in this series <b>Kitten&#39;s</b> Autumn <b>Kitten&#39;s</b> Winter <b>Kitten&#39;s</b> Autumn <b>Kitten&#39;s</b> Winter - - * - - ol. o o, o o - o - - Eugenie Fernandes <b>Kitten&#39;s</b> Summer <b>Kitten</b> Eugenie Fernandes Eugenie Fernandes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vvOfDwAAQBAJ",
+      "etag": "aHi0qVk1P20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vvOfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Kitten Called Holly",
+        "authors": [
+          "Helen Peters"
+        ],
+        "publisher": "Nosy Crow",
+        "publishedDate": "2017-10-05",
+        "description": "The fourth in a fantastic series of animal stories for younger readers by Waterstones Children's Book Prize-shortlisted author Helen Peters, with beautiful black-and-white illustrations by Ellie Snowdon. When Jasmine and Tom rescue an abandoned kitten, Jasmine is desperate to keep her. But her parents decide to sell Holly - and Jasmine is NOT happy with her new owner! Can Jasmine and Tom give Holly the best ever Christmas present - a good home? Brilliant storytelling that will make you laugh and cry, this is Dick King-Smith for a new generation. Look out for Jasmine's other adventures! A Piglet Called Truffle A Duckling Called Button A Sheepdog Called Sky",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780857639646"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0857639641"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vvOfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vvOfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vvOfDwAAQBAJ&pg=PT28&dq=kitten&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vvOfDwAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Kitten_Called_Holly.html?hl=&id=vvOfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Kitten_Called_Holly-sample-epub.acsm?id=vvOfDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Kitten_Called_Holly-sample-pdf.acsm?id=vvOfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vvOfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It probably needs a special <b>kitten</b> formula. I hope Mum&#39;s got some in the car.” The boot of Mum&#39;s car was always crammed with boxes of equipment and medicines for treating sick animals. As they got back to the kitchen,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LG4EoajVApoC",
+      "etag": "UHwCtWUmg0g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LG4EoajVApoC",
+      "volumeInfo": {
+        "title": "Kitten's Winter",
+        "authors": [
+          "Eugenie Fernandes"
+        ],
+        "publisher": "Kids Can Press Ltd",
+        "publishedDate": "2013-09",
+        "description": "A young kitten explores the woods on a cold winter day as other animals shelter from the weather or engage in their usual seasonal activities.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781554537426"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1554537428"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LG4EoajVApoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LG4EoajVApoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=LG4EoajVApoC&pg=PT23&dq=kitten&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=LG4EoajVApoC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitten_s_Winter.html?hl=&id=LG4EoajVApoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LG4EoajVApoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Snow blows, <b>Kitten</b> hurries. Pond freezes, Fox scurries. One stormy winter&#39;s day on the farm, <b>Kitten</b> struggles to get home. The animals <b>Kitten</b> sees along the way scamper among the snowflakes and weather the cold."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ebdHrhIsoJIC",
+      "etag": "DYn17BMdygs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ebdHrhIsoJIC",
+      "volumeInfo": {
+        "title": "My Life with the Scorpion Kitten",
+        "authors": [
+          "Christopher Thomas Hunt"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2011-10-01",
+        "description": "The title of the book is the briefest summary of what the book is about. Mathias was a kitten born with the feline leukemia virus, a deadly disease among cats. Besides this, he was the runt of the litter and eye infections from the time his eyes opened caused him to need one eye removed, and to be blind in the other. Despite this, he grew to adulthood and lived an extraordinary life before dying at five years old. To watch him interact with his surroundings and other cats, a person would hardly know he was blind. Mathias came into my life at a time of great personal difficulty. I was dealing with the deaths of my father and both grandmothers, and also having many doubts about where my own life was heading. Simply put, he brought hope into my life when I felt life was starting to be hopeless. We formed a special bond together, and this book is about his life and how it changed mine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781456794064"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "145679406X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ebdHrhIsoJIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ebdHrhIsoJIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ebdHrhIsoJIC&pg=PA6&dq=kitten&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ebdHrhIsoJIC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Life_with_the_Scorpion_Kitten.html?hl=&id=ebdHrhIsoJIC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ebdHrhIsoJIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tina had begun taking Jeffy to Hillside Animal Hospital as a <b>kitten</b>, to be neutered and for vaccinations. It was located outside of Batavia, only a few miles from where we lived. The veterinarian there was Doctor Timothy Fouts,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MgI8DwAAQBAJ",
+      "etag": "Zn5M8470cc8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MgI8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitten Rescue",
+        "subtitle": "Book 1",
+        "authors": [
+          "Lucy Daniels"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2018-07-26",
+        "description": "Helping animals, having fun! The bestselling Animal Ark series has been reimagined for a new generation of children. Perfect for animal lovers and fans of Holly Webb and Magic Animal Friends. Animal-mad Amelia is sad about moving house, until she discovers Animal Ark, where vets look after all kinds of animals in need. When they discover some baby kittens, Amelia and her new friend Sam are determined to help. But the kittens need their mum, and she's gone missing! Can Amelia and Sam track her down in time? A brilliant animal series from multi-million selling author Lucy Daniels, loved by parents and children alike! \"I remember reading these books as a child myself. Now buying them for my own daughter. . . Delightful stories!\" \"I love this series of books. They made me realise how special animals are!\"",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781408354155"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1408354152"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MgI8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MgI8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=MgI8DwAAQBAJ&pg=PT43&dq=kitten&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MgI8DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MgI8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MgI8DwAAQBAJ&rdid=book-MgI8DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_Rescue-sample-epub.acsm?id=MgI8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MgI8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It&#39;s time to feed the <b>kittens</b> again! The injured dog brought into Animal Ark had needed an operation, so while Mrs Hope and Simon took care of it, Mum and Gran had come over to fetch Amelia and the <b>kittens</b>. Now the <b>kittens</b> were sleeping&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5-BqDwAAQBAJ",
+      "etag": "mvd3ZH2QIM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5-BqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kitten’S Cooler",
+        "subtitle": "And Other Stories",
+        "authors": [
+          "Judy Richter"
+        ],
+        "publisher": "Xlibris Corporation",
+        "publishedDate": "2018-04-13",
+        "description": "Back in the day, my sisters name, Carol Hofmann Thompson, was a household word in the horse show world here and abroad. I have been blessed with many good memories of her and others who have brightened my life. To call this collection a memoir feels a bit too formal and pretentious, so I prefer to say these are a gathering of good old memories of people and events in my life from the fifties to the present day. There was no better decade than the 1950s to grow up in. The war was over, we won, and Eisenhower was our president. No more noble and able a man existed, except possibly Churchill, but he was British and, even then, old. It was a safe world; we never went to bed wondering if wed wake up to World War III. Our parents never worried about where we were, if they even wondered. They knew wed be home at dark for dinner. How different from today! What is most heartening about recollecting these stories, old and new, is that life does indeed go on, and for us horse people, it is the horses who carry us forward.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781984522214"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1984522213"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 228,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5-BqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5-BqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=5-BqDwAAQBAJ&pg=PT13&dq=kitten&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5-BqDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5-BqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 242.95,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 218.66,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5-BqDwAAQBAJ&rdid=book-5-BqDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 242950000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 218660000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Kitten_S_Cooler-sample-epub.acsm?id=5-BqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5-BqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Surely she remembered throwing it across <b>Kitten&#39;s</b> back, after tin-canning around the countryside on cold winter afternoons. She would have also used it at the horse shows, proudly leading <b>Kitten</b> to and from the ring."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XX9f9J5iTYkC",
+      "etag": "jLwWvJgpNO8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XX9f9J5iTYkC",
+      "volumeInfo": {
+        "title": "The Little Kitten",
+        "authors": [
+          "Judy Dunn"
+        ],
+        "publisher": "Random House Books for Young Readers",
+        "publishedDate": "2011-09-28",
+        "description": "Phoebe Dunn’s beloved photographic picture book all about a curious little kitten! Follow Pickle the kitten on her many fun adventures as she explores the meadow, makes new friends, and cuddles up with her best pal, Jenny. This endearing photographic picture book is a purrfect addition to any animal lover's library.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780375980923"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "037598092X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "3.7.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XX9f9J5iTYkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XX9f9J5iTYkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=XX9f9J5iTYkC&pg=PT12&dq=kitten&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XX9f9J5iTYkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XX9f9J5iTYkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 420.08,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 420.08,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XX9f9J5iTYkC&rdid=book-XX9f9J5iTYkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 420080000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 420080000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Little_Kitten-sample-epub.acsm?id=XX9f9J5iTYkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XX9f9J5iTYkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "]enny&#39;s mother promised that she could keep one of the <b>kittens</b>. They would find new homes for the others. jenny loved every one of the <b>kittens</b>, but she loved the curious <b>kitten</b> most of all. &quot;You&#39;re my favorite!&quot; she said to the <b>kitten</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yx_uDwAAQBAJ",
+      "etag": "1lwcGu2MMe4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yx_uDwAAQBAJ",
+      "volumeInfo": {
+        "title": "My First Kitten",
+        "authors": [
+          "Alyssa Satin Capucilli"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2020-12-08",
+        "description": "Beginning readers will learn all about what it’s like to have a new kitten or cat in this Pre-Level 1 Ready-to-Read with sweet text and photographs of first-time cat owners! What is it like to get your first kitten? Find out in this early reader by Biscuit creator Alyssa Satin Capucilli. You will feed your kitten, pet it, pick up after it, and most of all…love it very much. Young readers will love seeing kids their age take care of a kitten for the first time in this adorable introduction to pet ownership. A special section in the back with more information about having a new kitten or cat makes this book the cat’s meow!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534477551"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1534477551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yx_uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yx_uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=yx_uDwAAQBAJ&pg=PA2&dq=kitten&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yx_uDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yx_uDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 582.09,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 523.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yx_uDwAAQBAJ&rdid=book-yx_uDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 582090000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 523880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/My_First_Kitten-sample-epub.acsm?id=yx_uDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/My_First_Kitten-sample-pdf.acsm?id=yx_uDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yx_uDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Did you know <b>kittens</b> are part of the same family as lions , tigers , and other big cats ? They may not roar like a lion , but they can let us know how they are feeling . A soft purr can mean your <b>kitten</b> is happy !"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "K-kP78HH7BEC",
+      "etag": "Xahg52jlM/s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/K-kP78HH7BEC",
+      "volumeInfo": {
+        "title": "Kitten Smitten",
+        "authors": [
+          "Anna Wilson"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2010-02-05",
+        "description": "Bertie Fletcher is back! She's happier than a cat who's got the custard when she gets Jaffa, her very own beautiful marmalade kitten. Even Dad seems to have come to terms with the whole pet-owning thing. But then the horrendously over-perfect Meerley family arrives on the scene and Jaffa is caught in a tug-of-love between them and Bertie. Who will Jaffa decide she wants to live with? May the best family win! The sequel to KITTEN KABOODLE, this is another funny and heart-warming story about a kitten with lashings of CATtitude!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780330521093"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0330521098"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=K-kP78HH7BEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=K-kP78HH7BEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=K-kP78HH7BEC&pg=PT34&dq=kitten&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=K-kP78HH7BEC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=K-kP78HH7BEC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 519.69,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 467.72,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=K-kP78HH7BEC&rdid=book-K-kP78HH7BEC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 519690000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 467720000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_Smitten-sample-epub.acsm?id=K-kP78HH7BEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=K-kP78HH7BEC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I wasnow ina real vet&#39;s surgery with Jaffa, my ownreal <b>kitten</b>! &#39;Let&#39;s takealook then, shall we?&#39; the vet said, carefully lifting the lid. Not carefully enough, asithappened. &#39;Aiiiiiee!&#39; Dad yelled, as astreak of ginger andwhite shotout&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vQFqJoTQnZcC",
+      "etag": "AoRxIOHjKSo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vQFqJoTQnZcC",
+      "volumeInfo": {
+        "title": "Kitten's Big Adventure",
+        "authors": [
+          "Mie Araki"
+        ],
+        "publisher": "Houghton Mifflin Harcourt",
+        "publishedDate": "2005",
+        "description": "A kitten tries to catch a butterfly but runs back to Mama when the butterfly decides to chase the kitten instead.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0152167382"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780152167387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vQFqJoTQnZcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vQFqJoTQnZcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vQFqJoTQnZcC&pg=PP8&dq=kitten&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vQFqJoTQnZcC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitten_s_Big_Adventure.html?hl=&id=vQFqJoTQnZcC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vQFqJoTQnZcC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Kitten&#39;s</b> big adventure / written and illustrated by Mie Araki . The illustrations were done in Dr. Ph . Martin&#39;s ink on watercolor paper . The display type was hand lettered by Jane Dill . The text type was set in Stone Sans ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YQ9IDwAAQBAJ",
+      "etag": "q21T/hItgSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YQ9IDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Shy Little Kitten's Christmas",
+        "authors": [
+          "Kristen L. Depken"
+        ],
+        "publisher": "Random House Books for Young Readers",
+        "publishedDate": "2018-09-11",
+        "description": "The shy little kitten stars in her first-ever Christmas adventure, and her second Step into Reading book! Fans of the classic 1946 Little Golden Book The Shy Little Kitten (and its Step into Reading adaptation) will be thrilled to see Shy enjoying her first Christmas in this Step 1 Step into Reading book. Freshly illustrated in the style of the Little Golden Book, this sweet story about Shy and her siblings learning the meaning of Christmas is the perfect addition to the Step into Reading line. Step 1 readers feature big type and easy words for children who know the alphabet and are eager to begin reading. Rhythmic text paired with picture clues help children decode the story.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781524768119"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1524768111"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YQ9IDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YQ9IDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=YQ9IDwAAQBAJ&pg=PP3&dq=kitten&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=YQ9IDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=YQ9IDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 525.37,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 525.37,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=YQ9IDwAAQBAJ&rdid=book-YQ9IDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 525370000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 525370000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Shy_Little_Kitten_s_Christmas-sample-epub.acsm?id=YQ9IDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Shy_Little_Kitten_s_Christmas-sample-pdf.acsm?id=YQ9IDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YQ9IDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE SHY LITTLE <b>KITTEN&#39;S</b> CHRISTMAS Six little <b>kittens</b> are ready for Christmas. Black-and-white. One has. Copyright © 2018 by Penguin Random House LLC. All rights reserved. Published in the United States by Random House Children&#39;s Books,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zUOEAwAAQBAJ",
+      "etag": "GnfBSOz3BwY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zUOEAwAAQBAJ",
+      "volumeInfo": {
+        "title": "Solomon's Kitten",
+        "authors": [
+          "Sheila Jeffries"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2014-11-06",
+        "description": "'This is a special kitten. She has come to heal.' Moments after she is born, tiny kitten Tallulah, with her bright eyes and silver and white fur edged with gold, is whisked away from her father Solomon and dumped in the hedge like rubbish. After a tough start to life, neglected and abandoned, Tallulah eventually finds a new home with the Lee family and forms a special bond with their daughter Tammy. But Tammy has a terrible secret and Tallulah must do all in her power to keep the family safe. Moving, uplifting and inspiring, Solomon's Kittenis the story of a cat who heals a family, and explores the true gift an animal can bring to our lives.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781471137617"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1471137619"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zUOEAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zUOEAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=zUOEAwAAQBAJ&pg=PT16&dq=kitten&hl=&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=zUOEAwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=zUOEAwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 635.75,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 572.18,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=zUOEAwAAQBAJ&rdid=book-zUOEAwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 635750000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 572180000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Solomon_s_Kitten-sample-epub.acsm?id=zUOEAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zUOEAwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "We&#39;ve got more to worry about than a bunch of <b>kittens</b>.&#39; He took us outside, and that was the first time I saw the sky and smelled the lawn. A bird was singing high up in one of the trees, and women and children were walking past with&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Q-UeEAAAQBAJ",
+      "etag": "VU8pMf2G+Uc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Q-UeEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Forever Yours, Kitten",
+        "authors": [
+          "Emilia Rose"
+        ],
+        "publisher": "Emilia Rose",
+        "publishedDate": "2021-02-22",
+        "description": "ARES Between Mars’s disappearance and the nightmares plaguing his nights, Ares falls into a pit of despair. All his life, he has depended on Mars to form intimate relationships and become the man Aurora and his pack need him to be, but when he’s suddenly alone, he fears that not only will he be a bad father to their pup, but that he won’t be able to protect his family from the destructive Hounds. AURORA With the complete Malavite Stone in her possession, Aurora experiences harrowing memories of the past while figuring out how she can fight the Hounds and the Underworld Gods with a pup in her stomach. She’ll have to choose between her pup’s future and the future of the werewolf species. When worse comes to worst, their only hope is to descend into the Underworld and stop the Hounds for good. But will they finally succeed this time or will their enemies trap them in the Underworld for good? Find out when you download Forever Yours Kitten, a steamy paranormal romance that fans of Suzanne Wright and K.F. Breene will devour! Start reading today!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781954597068"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1954597061"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Q-UeEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Q-UeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Q-UeEAAAQBAJ&pg=PT215&dq=kitten&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Q-UeEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q-UeEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 377.24,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 377.24,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Q-UeEAAAQBAJ&rdid=book-Q-UeEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 377240000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 377240000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Forever_Yours_Kitten-sample-epub.acsm?id=Q-UeEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Forever_Yours_Kitten-sample-pdf.acsm?id=Q-UeEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Q-UeEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Forever yours, <b>Kitten</b>.” “Meow,” Ruffles added, as if she wanted to be forever ours too. Again, I giggled and glanced back at her lying in the center of her <b>kittens</b>. She closed her eyes in utter bliss and purred loudly, setting off her&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "iRSKDwAAQBAJ",
+      "etag": "l66O9bk4N9o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/iRSKDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitten Lady's Big Book of Little Kittens",
+        "authors": [
+          "Hannah Shaw"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2019-10-08",
+        "description": "From kitten rescuer and New York Times bestselling author Hannah Shaw, also known as Kitten Lady on YouTube and Instagram, comes an inspiring picture book that takes readers on the adorable journey of foster kittens from their first days after birth all the way to adoption! Did you know that kittens are born with their eyes closed, and they are so small that they can fit in the palm of your hand? Or that being groomed with a toothbrush reminds orphan kittens of their mothers’ tongues, and helps them feel comfy and safe? Learn these facts and more in Kitten Lady’s first picture book! Hannah uses her engaging, fun voice to show how she helps orphan kittens grow up, get adopted, and become healthy, happy cats. Featuring irresistible photographs and playful doodles, Kitten Lady’s Big Book of Little Kittens shows what you can do to help the tiniest felines in our big, big world.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534438958"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1534438955"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=iRSKDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=iRSKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=iRSKDwAAQBAJ&pg=PT54&dq=kitten&hl=&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=iRSKDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=iRSKDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1281.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1153.79,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=iRSKDwAAQBAJ&rdid=book-iRSKDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1281990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1153790000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_Lady_s_Big_Book_of_Little_Kittens-sample-epub.acsm?id=iRSKDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_Lady_s_Big_Book_of_Little_Kittens-sample-pdf.acsm?id=iRSKDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=iRSKDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Children are naturally compassionate and curious about animals, and I hope that this book opens their eges to the wonderful world of <b>kitten</b> advocacy. If you&#39;re interested in saving little <b>kittens</b> too, don&#39;t be afraid to look into&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JAjrAgAAQBAJ",
+      "etag": "IJRnTeJICVM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JAjrAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Pet Friends Forever: The Great Kitten Challenge",
+        "authors": [
+          "Diana G Gallagher"
+        ],
+        "publisher": "Capstone",
+        "publishedDate": "2013-10-01",
+        "description": "Kyle and Mia have to find homes for three orphaned kittens.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781479555758"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1479555754"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JAjrAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JAjrAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=JAjrAgAAQBAJ&pg=PA31&dq=kitten&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=JAjrAgAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Friends_Forever_The_Great_Kitten_Cha.html?hl=&id=JAjrAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Pet_Friends_Forever_The_Great_Kitten_Cha-sample-epub.acsm?id=JAjrAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Pet_Friends_Forever_The_Great_Kitten_Cha-sample-pdf.acsm?id=JAjrAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JAjrAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Yes, they can drink water and eat <b>kitten</b> chow,” Dr. Blake replied. She was quiet for a moment as she listened to the <b>kitten&#39;s</b> heart and checked its ears. When she was done, Dr. Blake picked up the second yellow tabby and examined it."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ifrmHJF2iwgC",
+      "etag": "L7rTMVPVanw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ifrmHJF2iwgC",
+      "volumeInfo": {
+        "title": "Pet Fairies #1: Katie the Kitten Fairy",
+        "authors": [
+          "Daisy Meadows"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2013-01-01",
+        "description": "Jack Frost has stolen the Pet Fairies' magical pets! Can Rachel and Kirsty help find them? Or will the pets be lost forever? The Pet Fairies have one of the most important jobs in Fairyland! They work with their special pets to make sure that all animals find safe homes. But now Jack Frost has stolen the magical pets! Could they be lost forever? Katie the Kitten Fairy's kitten, Shimmer, is missing. Can Rachel and Kirsty get Shimmer back to Fairyland in purr-fect condition? Find the magical pet in each book and help keep all the animals safe!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780545295345"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0545295343"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 80,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.11.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ifrmHJF2iwgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ifrmHJF2iwgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ifrmHJF2iwgC&pg=PT17&dq=kitten&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ifrmHJF2iwgC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pet_Fairies_1_Katie_the_Kitten_Fairy.html?hl=&id=ifrmHJF2iwgC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Pet_Fairies_1_Katie_the_Kitten_Fairy-sample-epub.acsm?id=ifrmHJF2iwgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Pet_Fairies_1_Katie_the_Kitten_Fairy-sample-pdf.acsm?id=ifrmHJF2iwgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ifrmHJF2iwgC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Just then, the <b>kitten</b> twitched its whiskers and bounded toward a fast food cart. As the girls got closer, they saw it run up to a man who was standing by the vendor. “Fish sticks and fries, please,” the girls heard him say."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UP4ZYVE350MC",
+      "etag": "4B/oyPN3dec",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UP4ZYVE350MC",
+      "volumeInfo": {
+        "title": "Kitten's Adventure",
+        "authors": [
+          "Michele Coxon"
+        ],
+        "publisher": "Star Bright Books",
+        "publishedDate": "1998",
+        "description": "A lively kitten explores the sights and sounds of the farmyard and discovers many animals along his way.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1887734384"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781887734387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UP4ZYVE350MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UP4ZYVE350MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UP4ZYVE350MC&pg=PP7&dq=kitten&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=UP4ZYVE350MC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitten_s_Adventure.html?hl=&id=UP4ZYVE350MC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UP4ZYVE350MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Michele Coxon. <b>Kitten&#39;s</b> Adventure Michele Coxon Star Bright Books New York BO."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0NfMcrS3HiUC",
+      "etag": "yBn15Ie1Fhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0NfMcrS3HiUC",
+      "volumeInfo": {
+        "title": "Taylor Bell, the Traveling Kitten",
+        "authors": [
+          "Anna Sanclement Ingrid Sanclement"
+        ],
+        "publisher": "Trafford Publishing",
+        "publishedDate": "2010-02",
+        "description": "Taylor Bell, the Traveling Kitten is the first of five books in the A Journey through the Stars series. The kittens in the series are a symbol of unity. Taylor Bell, the Traveling Kitten feels united with his folks. He knows that he is part of a big family, and he wants to visit them all across the United States. His journey begins as he travels around from one state to the other. Volume One follows Taylor through the first ten states from Alabama to Georgia. The traveling kitten captures the beauty and peculiarities of each state that he visits on his journey. The captivating illustrations will make you think of home, happiness, tenderness, and contentment. They are very appealing for children of all ages, bursting color splashes, unconventional, distinctive, original artwork.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781426925672"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1426925670"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0NfMcrS3HiUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0NfMcrS3HiUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=0NfMcrS3HiUC&pg=PT25&dq=kitten&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=0NfMcrS3HiUC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Taylor_Bell_the_Traveling_Kitten.html?hl=&id=0NfMcrS3HiUC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0NfMcrS3HiUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Kitten</b>. is the first of five books in the A Journey through the Stars series. The <b>kittens</b> in the series are a symbol of unity. Taylor Bell, the Traveling <b>Kitten</b> feels united with his folks. He knows that he is part of a big family,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C2O9DgAAQBAJ",
+      "etag": "69OUrx6T7RA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C2O9DgAAQBAJ",
+      "volumeInfo": {
+        "title": "Anna, Banana, and the Little Lost Kitten",
+        "authors": [
+          "Anica Mrose Rissi"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2017-05-02",
+        "description": "Includes an excerpt from Anna, Banana, and the recipe for disaster.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781481486699"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1481486691"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 144,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C2O9DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C2O9DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=C2O9DgAAQBAJ&pg=PA116&dq=kitten&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=C2O9DgAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anna_Banana_and_the_Little_Lost_Kitten.html?hl=&id=C2O9DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C2O9DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The <b>kitten</b> didn&#39;t move. Isabel pulled back the lid on the can of tuna. “Are you hungry?” she asked. “I brought you something tasty.” The <b>kitten&#39;s</b> ears twitched, but he stayed put. “Maybe you should hold out a taste of it,” Sadie said."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OUZKCAAAQBAJ",
+      "etag": "ZR6rQvkK6Xs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OUZKCAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Kitten in the Basket",
+        "authors": [
+          "Neelofar Yunus"
+        ],
+        "publisher": "Lulu Press, Inc",
+        "publishedDate": "2013-06-22",
+        "description": "The Kitten in the Basket is a story about two children who learn the importance of responsibility when they find a basket at their door when they come home from school one day.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781304162373"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1304162370"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OUZKCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OUZKCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OUZKCAAAQBAJ&pg=PT22&dq=kitten&hl=&cd=28&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OUZKCAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OUZKCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OUZKCAAAQBAJ&rdid=book-OUZKCAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Kitten_in_the_Basket-sample-epub.acsm?id=OUZKCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Kitten_in_the_Basket-sample-pdf.acsm?id=OUZKCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OUZKCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I am very happy with my new family and I promise I will be a good <b>kitten</b>. I won&#39;t even jump on your books and papers although I still don&#39;t understand why you both have to do all of that work instead of play with me."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uHRZncODPUMC",
+      "etag": "LqywwJqEBjA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uHRZncODPUMC",
+      "volumeInfo": {
+        "title": "The Kitten Caper",
+        "authors": [
+          "Carolyn Keene",
+          "Jan Naimo Jones",
+          "Michael Frost"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2005-12-01",
+        "description": "When Nancy and her friends interview Terry Smith, a neighbor with the hobby of finding stray cats a home, they fall in love with the cats and are devastated when the cats turn up missing.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781416908302"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1416908307"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uHRZncODPUMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uHRZncODPUMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=uHRZncODPUMC&pg=PA77&dq=kitten&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=uHRZncODPUMC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Kitten_Caper.html?hl=&id=uHRZncODPUMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uHRZncODPUMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "WHO WOULD STEAL THE WORLD&#39;S CUTEST <b>KITTENS</b>? or a class project Nancy and her friends must interview a neighbor with an interesting hobby. So they pick Terry Smith, who takes stray cats and <b>kittens</b> into her barn and finds them new homes."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dfOaDwAAQBAJ",
+      "etag": "ehLhYY8vdzk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dfOaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Buttons the Kitten",
+        "authors": [
+          "Debbi Michiko Florence"
+        ],
+        "publisher": "Picture Window Books",
+        "publishedDate": "2019-08",
+        "description": "will appeal to all kids who love animals; similar to fan-favorite chapter-book series ADVENTURES AT HOUND HOTEL; focuses on character-building activities of caregiving, resilience, and sacrifice; main character is a young Japanese-American girl, filling the urgent need for more-inclusive chapter books in the market and allowing more readers to see themselves in the stories",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781515844785"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1515844781"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 72,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Nonfiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dfOaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dfOaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=dfOaDwAAQBAJ&pg=PA17&dq=kitten&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=dfOaDwAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Buttons_the_Kitten.html?hl=&id=dfOaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dfOaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "It would be fun to name the <b>kittens</b>. “What happened to the mama?” I asked. “The owners of the mother cat don&#39;t have room for the <b>kittens</b>,” Joss said. “So thank you for taking care of them. <b>Kittens</b> usually get adopted quickly."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-DiQj4xIeOIC",
+      "etag": "InqNwDGn0Gc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-DiQj4xIeOIC",
+      "volumeInfo": {
+        "title": "How to Understand and Take Care of Your Ragdoll Kitten & Cat",
+        "authors": [
+          "Vince Stead"
+        ],
+        "publisher": "vince stead",
+        "publishedDate": "2012-01-28",
+        "description": "You can learn how to have fun with your kitten and cat, and learn how to make sure they have the best life you can give them! You might learn something new that will make living with your cat much better! 1. The Characteristics of a Ragdoll Cat 2. How to Potty Train your Cat 3. Items You Should Never Let your Cat Eat 4. How to Trim your Cats Nails 5. Some Fun Ways to Entertain your Cat 6. How to Clean your Cats Ears Correctly 7. What You Should Know about Cat Teeth 8. How to Make Sure your Cat is Eating a Healthy Amount of Food 9. The Different Kinds of Worms Cats can Get 10. How to Deworm your Cat 11. What to Expect When your Cat is Pregnant 12. Tricks you Can Teach your Cat 13. Why Cats Like to Climb Up Things 14. How to Make Home Made Cat Food 15. Homemade Cat Toys you Can Make Yourself 16. When Should You Spay Or Neuter Your Cat? 17. What you Should Know about Fleas and Ticks 18. What the Benefits of Micro chipping Your Dog Are to You 19. How Invisible Fencing Typically Works to Train and Protect Your Cat",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781469931708"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1469931702"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Pets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-DiQj4xIeOIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-DiQj4xIeOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=-DiQj4xIeOIC&pg=PA16&dq=kitten&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-DiQj4xIeOIC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-DiQj4xIeOIC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4.99,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 4.99,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-DiQj4xIeOIC&rdid=book--DiQj4xIeOIC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 4990000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-DiQj4xIeOIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An empty toilet roll gives <b>kittens</b> especially good exercise if you can roll it until the cat or <b>kitten</b> grabs and rolls around with it. Cats though, are very insecure about their dignity and it is no surprise to find, if you burst out&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d9dZUJ2Uij8C",
+      "etag": "d9TT48i55tk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d9dZUJ2Uij8C",
+      "volumeInfo": {
+        "title": "Life Through a Kitten's Eyes",
+        "authors": [
+          "Nancy Rearick"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2010-06",
+        "description": "Based on the true story of how the son of the author's friend happened to get his kitten and the sometimes wild antics that followed, this book is a combination of laughter and compassion. Even when Avery gets into more mischief than Michael thinks possible, Michael always responds with kindness toward his kitten.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781452028415"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1452028419"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 24,
+        "printType": "BOOK",
+        "categories": [
+          "Cat owners"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d9dZUJ2Uij8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d9dZUJ2Uij8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=d9dZUJ2Uij8C&pg=PA2&dq=kitten&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=d9dZUJ2Uij8C&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Life_Through_a_Kitten_s_Eyes.html?hl=&id=d9dZUJ2Uij8C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Life_Through_a_Kitten_s_Eyes-sample-epub.acsm?id=d9dZUJ2Uij8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d9dZUJ2Uij8C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "One year ago I was a little grey <b>kitten</b> searching for a house to live in and a special person to feed and care for me. I wandered around a quiet neighborhood and spied a nice looking man who looked like just the person I needed."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bA656fzeEMsC",
+      "etag": "uja1i2/CtV8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bA656fzeEMsC",
+      "volumeInfo": {
+        "title": "Little Bill the Bengal Kitten: The Black Smoke Kitten",
+        "authors": [
+          "Karen Frisbie Lemaster"
+        ],
+        "publisher": "AuthorHouse",
+        "publishedDate": "2013-01",
+        "description": "In most families with natural born children (in this case kittens), everybody looks pretty much alike. But sometimes things just do not turn out that way, and some of us look very different than our brothers and sisters. Little Bill is shocked to discover that discover that he looks very different from his parents and brothers and sisters. Finally with encouragement from his mother, he learns appearance is not the most important thing in life. The book is about acceptance, diversity and kindness.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781477299814"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1477299815"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bA656fzeEMsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bA656fzeEMsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=bA656fzeEMsC&pg=PT15&dq=kitten&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=bA656fzeEMsC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Little_Bill_the_Bengal_Kitten_The_Black.html?hl=&id=bA656fzeEMsC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bA656fzeEMsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Black Smoke <b>Kitten</b> Karen Frisbie Lemaster. One day Grandma decided to put some new toys and a mirror in the room for the <b>kittens</b>. The <b>kittens</b> were all very interested in their new toys; especially the mirror."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RsaADwAAQBAJ",
+      "etag": "pJStqRK12o0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RsaADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tabby Takes the Crown (Kitten Kingdom #4)",
+        "authors": [
+          "Mia Bell"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2019-10-01",
+        "description": "For fans of Puppy Princess, this new chapter book series brings together two consistent favorites, cats and royalty, in a fun action-packed adventure!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338361827"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338361821"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RsaADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RsaADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=RsaADwAAQBAJ&pg=PT35&dq=kitten&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=RsaADwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=RsaADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 309.45,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 278.5,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=RsaADwAAQBAJ&rdid=book-RsaADwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 309450000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 278500000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_Takes_the_Crown_Kitten_Kingdom_4-sample-epub.acsm?id=RsaADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_Takes_the_Crown_Kitten_Kingdom_4-sample-pdf.acsm?id=RsaADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RsaADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The royal <b>kittens</b> thought for a moment. “I bet he&#39;s in the treasure chamber,” said Tabby. “He&#39;s always trying to steal our treasures, isn&#39;t he?” “Of course!” said Felix. “He&#39;ll probably make it his throne room so he can be close to the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9r9rDwAAQBAJ",
+      "etag": "MxNfmIMki9U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9r9rDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tabby's First Quest (Kitten Kingdom #1)",
+        "authors": [
+          "Mia Bell"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2019-05-28",
+        "description": "For fans of Puppy Princess, this new chapter book series brings together two consistent favorites, cats and royalty, in a fun action-packed adventure!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338361773"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338361775"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9r9rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9r9rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=9r9rDwAAQBAJ&pg=PT26&dq=kitten&hl=&cd=35&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9r9rDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9r9rDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 309.45,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 278.5,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9r9rDwAAQBAJ&rdid=book-9r9rDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 309450000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 278500000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_s_First_Quest_Kitten_Kingdom_1-sample-epub.acsm?id=9r9rDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_s_First_Quest_Kitten_Kingdom_1-sample-pdf.acsm?id=9r9rDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9r9rDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tabby could just make out little <b>kittens</b> racing around it, playing a game of furball. Leo flicked his tail happily. “I can&#39;t believe it. We&#39;re out of the palace! No guards, no royal staff, no one to tell us what to do ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QMBrDwAAQBAJ",
+      "etag": "QzhyHFAUB+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QMBrDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tabby and the Catfish (Kitten Kingdom #3)",
+        "authors": [
+          "Mia Bell"
+        ],
+        "publisher": "Scholastic Inc.",
+        "publishedDate": "2019-07-30",
+        "description": "For fans of Puppy Princess, this new chapter book series brings together two consistent favorites, cats and royalty, in a fun action-packed adventure!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781338361810"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1338361813"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 128,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QMBrDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QMBrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=QMBrDwAAQBAJ&pg=PT43&dq=kitten&hl=&cd=36&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=QMBrDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=QMBrDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 309.45,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 278.5,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=QMBrDwAAQBAJ&rdid=book-QMBrDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 309450000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 278500000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_and_the_Catfish_Kitten_Kingdom_3-sample-epub.acsm?id=QMBrDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tabby_and_the_Catfish_Kitten_Kingdom_3-sample-pdf.acsm?id=QMBrDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QMBrDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The royal <b>kittens</b> stopped. “What was that?” asked Leo. Whoosh! The creature swam past again, closer this time. Tabby saw a big silver eye and shiny teeth. Then it disappeared into the shadows. “It&#39;s an eel!” yelled Felix."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OTpfBAAAQBAJ",
+      "etag": "XM4N6AuAInA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OTpfBAAAQBAJ",
+      "volumeInfo": {
+        "title": "Kitten's Day Out: For tablet devices",
+        "subtitle": "For tablet devices",
+        "authors": [
+          "Heather Amery"
+        ],
+        "publisher": "Usborne Publishing Ltd",
+        "publishedDate": "2013-05-15",
+        "description": "Fluff the kitten is missing from Apple Tree Farm. New readers will love finding out where she's been in this charming short story specially written, with the help of language experts, for young children just beginning to read. Exclusive ebook material includes a map of Apple Tree Farm, showing all of the places mentioned in the story. Don't forget to spot the Little Yellow Duck on every double page. This is a highly illustrated ebook that can only be read on the Kindle Fire or other tablet. \"Usborne farmyard tales are delightful short stories superbly illustrated and in easy language, just right for the children who are just beginning to read... if you have a child in the age group of two to five, you can be sure that they are going to love these books.\" - A Spoonful of Ideas",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781409567011"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "140956701X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 16,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OTpfBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OTpfBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OTpfBAAAQBAJ&pg=PT1&dq=kitten&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=OTpfBAAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kitten_s_Day_Out_For_tablet_devices.html?hl=&id=OTpfBAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Day_Out_For_tablet_devices-sample-epub.acsm?id=OTpfBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Kitten_s_Day_Out_For_tablet_devices-sample-pdf.acsm?id=OTpfBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OTpfBAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... Poppy&#39;spony The sheep field Farm Woolly Signal box Old mill This is where Woolly the sheep stopped the train. Wood yard The field where AppleTree Show is held. Ulsborne Farmyard Tales <b>Kitten&#39;s</b> Day Out Heather Ameru Illustrated bu."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "BEdsDwAAQBAJ",
+      "etag": "LW9OxT2kN84",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/BEdsDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tales of an 8-Bit Kitten: Lost in the Nether",
+        "subtitle": "An Unofficial Minecraft Adventure",
+        "authors": [
+          "Cube Kid"
+        ],
+        "publisher": "Andrews McMeel Publishing",
+        "publishedDate": "2018-09-18",
+        "description": "Eeebs isn't a very disciplined kitten. His mom warned him not to play in the forest, but he didn't listen. That's how he found himself in the Nether, a bizarre world inhabited by scary creatures. In the company of a ghast, almost cheerful witch, Eeebs develops supernatural powers. Will this be enough to fight against Endernova's army, the Enderman, who want to rule over the Overworld? In order to save his friends, Eeebs must become the champion of the Nether, as the prophecy of The Chosen One tells . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781449499778"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1449499775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=BEdsDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=BEdsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=BEdsDwAAQBAJ&pg=PT26&dq=kitten&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=BEdsDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BEdsDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 763.08,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 763.08,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=BEdsDwAAQBAJ&rdid=book-BEdsDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 763080000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 763080000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tales_of_an_8_Bit_Kitten_Lost_in_the_Net-sample-pdf.acsm?id=BEdsDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=BEdsDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The <b>kitten&#39;s</b> ears perked up. Wow. This is way better than playing hide-and-seek, he thought. An army of monsters! An enderman who got kicked out of his own world! What next? “Can we get closer?” Clyde paused. “I&#39;m not so sure that would&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hAKC_7YFwTwC",
+      "etag": "gFc7RxshGiU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hAKC_7YFwTwC",
+      "volumeInfo": {
+        "title": "Anubis: A Kitten's Diary",
+        "publisher": "Lulu.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780615168579"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0615168574"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hAKC_7YFwTwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hAKC_7YFwTwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=hAKC_7YFwTwC&pg=PA31&dq=kitten&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=hAKC_7YFwTwC&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anubis_A_Kitten_s_Diary.html?hl=&id=hAKC_7YFwTwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Anubis_A_Kitten_s_Diary-sample-epub.acsm?id=hAKC_7YFwTwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hAKC_7YFwTwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xSLaCQAAQBAJ",
+      "etag": "uwuSk68H/co",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xSLaCQAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Understand and Take Care of Your Persian Kitten & Cat",
+        "authors": [
+          "Vince Stead"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2015-06-01",
+        "description": "If you want to take really good care of your Persian kitten and cat, some of these helpful tips will make your life much easier with your darling little Persian cat. 1. The Characteristics of a Persian Cat 2. Items You Should Never Let your Cat Eat 3. How to Trim your Cats Nails 4. Some Fun Ways to Entertain your Cat 5. How to Clean your Cats Ears Correctly 6. What You Should Know about Cat Teeth 7. How to Make Sure your Cat is Eating a Healthy Amount of Food 8. The Different Kinds of Worms Cats can Get 9. How to Deworm your Cat 10. What to Expect When your Cat is Pregnant 11. Tricks you Can Teach your Cat 12. Why Cats Like to Climb Up Things 13. How to Make Home Made Cat Food 14. Homemade Cat Toys you Can Make Yourself 15. When Should You Spay Or Neuter Your Cat? 16. What you Should Know about Fleas and Ticks 17. What the Benefits of Micro chipping Your Dog Are to You",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781329182615"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1329182618"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "categories": [
+          "Pets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.0.0.preview.1",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xSLaCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xSLaCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=xSLaCQAAQBAJ&pg=PA21&dq=kitten&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=xSLaCQAAQBAJ&dq=kitten&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/How_to_Understand_and_Take_Care_of_Your.html?hl=&id=xSLaCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xSLaCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Kittens</b> get ascarids mainly through mother&#39;s milk. Symptoms are almost similar as that of tapeworms. <b>Kittens</b> are normally seen to possess higher levels of threats in cases of roundworm infestations. As the ascarid worms are slightly&nbsp;..."
+      }
+    }
+  ]
+}

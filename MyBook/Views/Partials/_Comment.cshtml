@@ -1,0 +1,40 @@
+﻿@model MyBook.Entities.Rating
+
+<div class="row d-flex justify-content-center">
+    <div class="col-md-12 col-lg-10 col-xl-8">
+        <div class="review">
+            <div class="card-body">
+                <div class="d-flex flex-start align-items-center">
+                    <div>
+                        <h6 class="fw-bold text-primary mb-1">@Model.User.LastName @Model.User.FirstName</h6>
+                    </div>
+                </div>
+                <div class="rating-result">
+                    Оценил книгу
+                    @for (int i = 0; i < Model.Points; i++)
+                    {
+                        <span class="active"></span>
+                    }
+                    @for (int i = 0; i < 5 - Model.Points; i++)
+                    {
+                        <span></span>
+                    }
+                </div>
+                <div class="delimiter">
+                    <div type="horizontal" class="horizontal"></div>
+                </div>
+                <div class="review_box">
+                    <input type="checkbox"
+                           id="expanded">
+                    <p class="mt-3 mb-4 pb-2">
+                        @Model.ReviewText
+                    </p>
+                    <label for="expanded" role="button">&#709; Показать полностью</label>
+                </div>
+                <div class="delimiter">
+                    <div type="horizontal" class="horizontal"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

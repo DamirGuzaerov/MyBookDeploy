@@ -1,0 +1,59 @@
+﻿@model MyBook.Models.Admin.EditCenterViewModel
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["AddBookCenter"] - MyBook</title>
+</head>
+<body class="lock">
+    <section class="modal_wrapper">
+        <div class="main_content_page">
+            aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal_admin">
+                    <div class="modal-header">
+                        <h2 class="modal-title" id="exampleModalLongTitle">Добавить магазин</h2>
+                        <button class="close_modal">
+                            <a class="nav-link" asp-controller="AdminProfile" asp-action="ShowCurrent" asp-route-page="BookCenter">
+                                <img src="/assets/img/close.svg">
+                            </a>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <form method="post" asp-action="AddBookCenter" asp-controller="AdminProfile">
+                            <input type="hidden" asp-for=BookCenterId id="bookCenterId">
+                            <div class="form-group">
+                                <label asp-for=Name for="nameInput">Название магазина</label>
+                                <input asp-for=Name type="text" class="form-control" id="nameInput" placeholder="Название магазина">
+                                <span class="alerts" asp-validation-for="Name"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for=Address for="nameInput">Адрес</label>
+                                <input asp-for=Address type="text" class="form-control" id="addressInput" placeholder="Адрес">
+                                <span class="alerts" asp-validation-for="Address"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for=Phone for="nameInput">Телефоны</label>
+                                <input asp-for=Phone type="text" class="form-control" id="phoneInput" placeholder="Телефон">
+                                <span class="alerts" asp-validation-for="Phone"></span>
+                            </div>
+                            <div class="form-group">
+                                <label asp-for=Description for="descInput">Описание</label>
+                                <textarea asp-for=Description type="text" class="form-control" id="descInput" placeholder="Описание"></textarea>
+                                <span class="alerts" asp-validation-for="Description"></span>
+                            </div>
+                            <div class="form-button">
+                                <button type="submit" class="btn btn-warning">Сохранить</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
+@section Scripts {
+<partial name="_ValidationScriptsPartial" />
+    }

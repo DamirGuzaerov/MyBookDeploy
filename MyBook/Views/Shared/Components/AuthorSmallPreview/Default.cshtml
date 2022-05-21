@@ -1,0 +1,21 @@
+﻿@model MyBook.Entities.Author
+
+<link rel="stylesheet" href="~/css/newProducts.css">
+<link rel="stylesheet" href="~/css/BookPreview.css">
+<link rel="stylesheet" href="~/css/booksCarousel.css">
+<div id="carouselExampleIndicators" class="carousel carousel-dark slide container" data-bs-ride="carousel">
+    <div class="card customBookCard">
+        <a asp-controller="Author" asp-action="Author" asp-route-authorId="@Model.AuthorId" class="customBookCard_img_link">
+            <img class="customBookCard_img" alt="" src="~/assets/img/king.jpg">
+        </a>
+        <div class="card-body">
+            <a asp-controller="Author" asp-action="Author" asp-route-authorId="@Model.AuthorId">
+                <h4 class="card-title oneLineDisplayText">@Model.Name</h4>
+            </a>
+            <p class="card-text oneLineDisplayText text-secondary">
+                @Model.AuthorBooks.Count
+                Книг
+            </p>
+        </div>
+    </div>
+</div>

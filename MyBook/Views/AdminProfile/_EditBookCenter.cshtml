@@ -1,0 +1,52 @@
+﻿@model MyBook.Models.Admin.AdminViewModel
+<section class="admin_functional container">
+    <h2>Изменить информацию о магазине</h2>
+    <div class="center_information">
+        <div class="sub_table_content_admin container">
+            <table class="row col-lg-12">
+                <tr class="upper_table_row">
+                    <td>Название</td>
+                    <td>Адрес</td>
+                    <td>Телефоны</td>
+                    <td>Описание</td>
+                    <td>Действия</td>
+                </tr>
+                @foreach (var bookCenter in Model.Centers)
+                {
+                    <tr>
+                        <td>@bookCenter.Name</td>
+                        <td>@bookCenter.Address</td>
+                        <td>
+                            <p>@bookCenter.Phone</p>
+                        </td>
+                        <td>@bookCenter.Description</td>
+                        <td>
+                            <div class="flex_but">
+                                @{
+                                    var model = new MyBook.Models.Admin.EditCenterViewModel
+                {
+                    BookCenterId = bookCenter.BookCenterId,
+                    Name = bookCenter.Name,
+                    Address = bookCenter.Address,
+                    Phone = bookCenter.Phone,
+                    Description = bookCenter.Description
+                };
+                                }
+                                <button class="spec_but" type="button" onclick="location.href='@Url.Action("EditBookCenterModal", "AdminProfile",model)'">
+                                    Редактировать
+                                </button>
+                                <button class="spec_but" type="button" onclick="location.href='@Url.Action("DeleteBookCenter", "AdminProfile",bookCenter)'">Удалить</button>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </table>
+        </div>
+    </div>
+
+    <div class="form-button">
+        <button class="btn-warning btn_spec" type="button" onclick="location.href='@Url.Action("AddBookCenterModal", "AdminProfile")'">
+            Добавить магазин
+        </button>
+    </div>
+</section>

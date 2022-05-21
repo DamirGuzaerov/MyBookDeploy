@@ -1,0 +1,3071 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1038,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "GWrJDwAAQBAJ",
+      "etag": "ozkJ4FWRWGc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GWrJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Crazy Detective. Grappige detective",
+        "authors": [
+          "СтаВл Зосимов Премудрословски"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2020-01-10",
+        "description": "Yn Ingelân is d’r in detective, Sherlock Holmes en Dr. Watson; Yn Jeropa – Hercule Poirot en Hastings; yn ’e FS, Niro Wolfe en Archie Goodwin.En hjir, de Russen, dit is de distrikt-generaal Klop en syn ferfelende assistint, korporaal, Incifalapat.Tegearre sille se elkoar net sjen, mar dit hindert har net om strafsaken te ûndersykjen...Dizze roman waard leuk troch Putin.# Alle rjochten foarbehâlden.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785042248221"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5042248226"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GWrJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GWrJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=GWrJDwAAQBAJ&pg=PT67&dq=detective&hl=&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=GWrJDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=GWrJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 230,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 207,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=GWrJDwAAQBAJ&rdid=book-GWrJDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 230000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 207000000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Crazy_Detective_Grappige_detective-sample-epub.acsm?id=GWrJDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Crazy_Detective_Grappige_detective-sample-pdf.acsm?id=GWrJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GWrJDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "wol konstatearje dat alle <b>detectives</b> in hobby hawwe dy&#39;t har liedt om te tinken: Holmes hat in fioele, Poirot fertrout syn grize sellen sûnder ynterferinsje, Agent Kay hat in taart, en Klop hat nagels rjochte. En doe&#39;t se klear wiene,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lacbAQAAMAAJ",
+      "etag": "oRyew8w3cAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lacbAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Be Your Own Detective",
+        "authors": [
+          "Greg Fallis",
+          "Ruth Greenberg"
+        ],
+        "publishedDate": "1989",
+        "description": "How to tail and eavsdrop...stake-out suspects...do background checks...interview witnesses and find out almost anything about anybody.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000018123333"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Detectives"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lacbAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lacbAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=lacbAQAAMAAJ&q=detective&dq=detective&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=lacbAQAAMAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Be_Your_Own_Detective.html?hl=&id=lacbAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lacbAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "venience store in a bad neighborhood, being a <b>detective</b> is almost safe. On the other hand, it ain&#39;t no walk in the park. Only a fool would tell you there&#39;s no need to be cautious. It&#39;s an intrusive occupation. The entire purpose of the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "H_wOAQAAMAAJ",
+      "etag": "7Q1xNp+pZhQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/H_wOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Armchair Detective",
+        "publishedDate": "1980",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000060078698"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Detective and mystery stories"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=H_wOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=H_wOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=H_wOAQAAMAAJ&q=detective&dq=detective&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=H_wOAQAAMAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Armchair_Detective.html?hl=&id=H_wOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=H_wOAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Specialty of This House is mystery, crime, suspense, espionage and <b>detective</b> fiction. Fine hardcover editions of new books by the most distinguished authors in the world. We are especially proud to announce the monumental volume of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dRrkV_owhkQC",
+      "etag": "FlAZECnirp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dRrkV_owhkQC",
+      "volumeInfo": {
+        "title": "Art Fraud Detective",
+        "subtitle": "Spot the Difference, Solve the Crime!",
+        "authors": [
+          "Anna Nilsen"
+        ],
+        "publisher": "Kingfisher",
+        "publishedDate": "2000-09-15",
+        "description": "The Museum of Art has a big problem. Some of the museum's priceless masterpieces have been stolen and replaced by cunning forgeries! Are your eyes sharp enough to spot the differences between the fake and the real Rousseau? Hone your detective skills and find the tell-tale clues that will help the police track down the master forgers, and bring back the missing masterpieces. This one-of-a-kind book combines a mystery story, fun spot-the-difference puzzles, and a fantastic introduction to some of the world's greatest art. Guaranteed to enthrall children of all ages, Art Fraud Detective includes historical information on each painting, tips on the techniques of the Old Masters, and a glossary of art terms. Features art by: Rembrandt; Constable; Monet; Picasso; Raphael; Van Gogh; and more!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780753453087"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0753453088"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 48,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dRrkV_owhkQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dRrkV_owhkQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=dRrkV_owhkQC&dq=detective&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=dRrkV_owhkQC&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Art_Fraud_Detective.html?hl=&id=dRrkV_owhkQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dRrkV_owhkQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hone your detective skills and find the tell-tale clues that will help the police track down the master forgers, and bring back the missing masterpieces."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s6y9uaTPiBoC",
+      "etag": "tY1ljMxK4k0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s6y9uaTPiBoC",
+      "volumeInfo": {
+        "title": "Detective Fiction and the Rise of Forensic Science",
+        "authors": [
+          "Ronald R. Thomas"
+        ],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2003",
+        "description": "The relationship between the development of forensic science and the new literary genre of detective fiction in Britain and America.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0521527627"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780521527620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 341,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s6y9uaTPiBoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s6y9uaTPiBoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=s6y9uaTPiBoC&printsec=frontcover&dq=detective&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=s6y9uaTPiBoC&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Detective_Fiction_and_the_Rise_of_Forens.html?hl=&id=s6y9uaTPiBoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s6y9uaTPiBoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The relationship between the development of forensic science and the new literary genre of detective fiction in Britain and America."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wnpwCQAAQBAJ",
+      "etag": "Bib5KQABQjQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wnpwCQAAQBAJ",
+      "volumeInfo": {
+        "title": "Медовый месяц в улье",
+        "authors": [
+          "Дороти Сэйерс"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2016-03-21",
+        "description": "Роман “Медовый месяц в улье” и новелла “Толбойз” завершают серию “Не только Скотленд-Ярд: частный сыск и частная жизнь”.Согласившись выйти замуж за лорда Питера, Гарриет получает от него в подарок к свадьбе Толбойз – дом в деревне в тех местах, где она выросла. Именно туда молодожены сбегают от назойливых газетчиков, чтобы провести медовый месяц в тишине и покое. С осторожностью делают они свои первые шаги в супружеской жизни: не ошиблись ли? Не ждет ли за поворотом разочарование? Смогут ли дать друг другу счастье? Но сюрприз настигает их с неожиданной стороны: вовсе не разочарование ждет за поворотом, а новое совместное расследование. Романтическое путешествие начинается с трупа и продолжается столь привычной супругам детективной работой. Годы спустя, когда разросшееся семейство Уимзи приезжает на лето в Толбойз, в деревне вновь совершается преступление – бескровное, но примечательное тем, что в главные подозреваемые попадает юный Бредон, старший сын Питера и Гарриет.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785457778733"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5457778738"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wnpwCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wnpwCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=wnpwCQAAQBAJ&pg=PP1&dq=detective&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=wnpwCQAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%81%D1%8F%D1%86_%D0%B2_%D1%83%D0%BB%D1%8C%D0%B5.html?hl=&id=wnpwCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%81%D1%8F%D1%86_%D0%B2_%D1%83%D0%BB%D1%8C%D0%B5-sample-epub.acsm?id=wnpwCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9C%D0%B5%D0%B4%D0%BE%D0%B2%D1%8B%D0%B9_%D0%BC%D0%B5%D1%81%D1%8F%D1%86_%D0%B2_%D1%83%D0%BB%D1%8C%D0%B5-sample-pdf.acsm?id=wnpwCQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wnpwCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Роман “Медовый месяц в улье” и новелла “Толбойз” завершают серию “Не только Скотленд-Ярд: частный сыск и частная жизнь” ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OKVztmdWF8EC",
+      "etag": "hTPUlSzpiGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OKVztmdWF8EC",
+      "volumeInfo": {
+        "title": "Hide (Detective D.D. Warren 2)",
+        "subtitle": "The heart-stopping thriller from the bestselling author of BEFORE SHE DISAPPEARED",
+        "authors": [
+          "Lisa Gardner"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2012-07-05",
+        "description": "You can run. You can hide. But can you ever escape your past? 'Lisa Gardner always delivers heart-stopping suspense' HARLAN COBEN 'Stories that grip from the first page' KARIN SLAUGHTER 'The absolute master of the psychological suspense novel' SHARON BOLTON '...a brilliant book, not to be missed under any circumstances' THE INDEPENDENT ON SUNDAY FROM THE GLOBAL BESTSELLING AUTHOR comes an enthralling thriller, where getting closer to the truth forces the detectives to confront the uncomfortable truths in their pasts. ____________________ Annabelle Granger was seven years old when it first happened. She arrived home to find the suitcases packed and her parents desperate to flee their home. Then followed years spent running, from what, or who, she doesn't know, just an endless blur of new faces and new towns. Now, aged 30, Annabelle has finally settled in Boston and is happy with her life. Until the bodies of six girls are found in the grounds of an abandoned mental institute and a newspaper declares her one of the victims. Detectives D. D. Warren and Bobby Dodge are determined to unravel the decades-old riddle and they fear that the discovery signals the return of a notorious serial killer, Mr Bosu - Bobby's worst nightmare. As they get closer to the truth they will all be forced to confront the uncomfortable truths in their pasts; because ultimately, there is no hiding place... ____________________ Praise for Lisa Gardner thrillers: 'Unpredictable, suspenseful from beginning to end... I loved it' ***** Reader Review 'I was totally enthralled with this novel, it kept me held in a tight grip from beginning to end...' ***** Reader Review 'I read lots of psychological thrillers but this was amongst the best... If you like a fast moving, suspense filled, sometimes gruesome, 3D character read, then this is it' ***** Reader Review 'This book had me hooked from the start. I love how it kept me guessing all the way to the end and I still didn't figure it out. Great characters and storyline' ***** Reader Review ' ...the most thrilling and enjoyable I have read and I intend to read every one of her books as, so far, they have all been excellent' ***** Reader Review 'This is an excellent novel and I highly recommend this to other readers' ***** Reader Review 'It starts well and finishes even better!' ***** Reader Review 'There was barely time to pause for breath reading this!' ***** Reader Review 'This author is unrivalled in the genre in my opinion' ***** Reader Review",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780755396368"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0755396367"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 313,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OKVztmdWF8EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OKVztmdWF8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OKVztmdWF8EC&pg=PT38&dq=detective&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OKVztmdWF8EC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OKVztmdWF8EC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1005.84,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1005.84,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OKVztmdWF8EC&rdid=book-OKVztmdWF8EC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1005840000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1005840000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Hide_Detective_D_D_Warren_2-sample-epub.acsm?id=OKVztmdWF8EC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OKVztmdWF8EC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Being the only state <b>detective</b> on a city team was awkward at best, filled with daily shots of resentment at worst. But such arrangements had precedent. D.D. declared him a source of “local knowledge” and, voilà, hijacked him for her&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qTbyDwAAQBAJ",
+      "etag": "R2PYAJglkdg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qTbyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "A Detective's Odyssey",
+        "authors": [
+          "Gilbert McLeod"
+        ],
+        "publisher": "Page Publishing, Inc",
+        "publishedDate": "2020-11-13",
+        "description": "A Detective’s Odyssey is a story of Warren Carey, a police detective, that begins, from a simple police report, a search for a brother from whom he was separated and believed died in childhood may be alive. His search uncovers corruption, and a Dark Brotherhood with tentacles that reach around the world. He also finds love and a mystical elixir that bestows health and longevity but burdens him with a necessity to conceal it from all but a select few.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781643348889"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1643348884"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 190,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qTbyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qTbyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=qTbyDwAAQBAJ&pg=PT55&dq=detective&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qTbyDwAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/A_Detective_s_Odyssey.html?hl=&id=qTbyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Detective_s_Odyssey-sample-epub.acsm?id=qTbyDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Detective_s_Odyssey-sample-pdf.acsm?id=qTbyDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qTbyDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I Evidence was suppressed by a <b>detective</b> who worked this area. Give me more time, and I know I can clear this crime from our due diligence file.” Mueller looked down at the floor. When he raised his head, his eyes locked on Warren&#39;s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lmZCEAAAQBAJ",
+      "etag": "2tT7DGyArso",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lmZCEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Detective Club",
+        "subtitle": "Mysteries for Young Thinkers (Grades 2-4)",
+        "authors": [
+          "Judy Leimbach",
+          "Sharon Eckert"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2021-09-09",
+        "description": "Looking for a fast, easy way to turn your students into advanced problem solvers? Young students become members of the Detective Club by solving a series of short introductory puzzles. Primary students love working along with the young detectives in the book to solve six different mysteries. While solving the mysteries, students will gather information through decoding the message, sorting information, solving logic puzzles, and using inferential thinking. In order to reach conclusions, students will practice the following skills: organizing clues, combining and analyzing the information presented, using deductive reasoning, and using the process of elimination. Each of the six mysteries includes a teacher's guide with complete instructions for the teacher and answers to the puzzles. All mysteries are presented on attractive reproducible worksheets that include entertaining dialogue and clues needed to solve the mystery. This is a motivating format for teaching thinking while working on reading comprehension. Have your students solve even more mysteries with Mystery Disease, Mystery Science, Crime Scene Detective, and The Great Chocolate Caper. Grades 2-4",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000491579"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000491579"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 66,
+        "printType": "BOOK",
+        "categories": [
+          "Education"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lmZCEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lmZCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=lmZCEAAAQBAJ&pg=PT42&dq=detective&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=lmZCEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=lmZCEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1248.44,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1123.6,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=lmZCEAAAQBAJ&rdid=book-lmZCEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1248440000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1123600000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detective_Club-sample-epub.acsm?id=lmZCEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detective_Club-sample-pdf.acsm?id=lmZCEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lmZCEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Brian and Jessica came running in one day waving a ba  pa   and shouting, &quot;<b>Detectives</b>, we need your help!&quot; &quot;Calm down,&quot; I said, &quot;and tell us what the problem is.&quot; &quot;Well,&quot; started Brian, &quot;someone le   this ba  pa   at soccer practice&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1lNDAQAAMAAJ",
+      "etag": "glsG0YGbdjs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1lNDAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Ace High, the 'Frisco Detective",
+        "subtitle": "Or, The Girl Sport's Double Game. A Story of the Sierra & the Golden Gate City",
+        "authors": [
+          "C. E. Tripp"
+        ],
+        "publishedDate": "1948",
+        "description": "\"Ace High, the \"Gambler Detective,\" is teamed with Flash, the \"Girl Sport,\" against a desperate, blood-thirsty gang of outlaws called the \"Hounds of 'Frisco.\" A tall tale of colorful characters, high-stakes gambling, disguises, revenge, and murder in San Francisco in the 1860s.\" -- goldengatemysteries.pbworks.com (viewed July 10, 2020)",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:C2833841"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 56,
+        "printType": "BOOK",
+        "categories": [
+          "San Francisco (Calif.)"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1lNDAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1lNDAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=1lNDAQAAMAAJ&pg=PT74&dq=detective&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=1lNDAQAAMAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ace_High_the_Frisco_Detective.html?hl=&id=1lNDAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1lNDAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-XVODwAAQBAJ",
+      "etag": "KEVM9yTan7Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-XVODwAAQBAJ",
+      "volumeInfo": {
+        "title": "ROBERT BARR Ultimate Collection: 20 Novels & 65+ Detective Stories",
+        "subtitle": "Revenge, The Face and the Mask, The Sword Maker, From Whose Bourne, Jennie Baxter, Lord Stranleigh Abroad, Lady Eleanor, The Herald's of Fame, A Chicago Princess...",
+        "authors": [
+          "Robert Barr"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2017-05-29",
+        "description": "This Robert Barr collection is formatted to the highest digital standards. The edition incorporates an interactive table of contents, footnotes and other information relevant to the content which makes the reading experience meticulously organized and enjoyable. Detective Stories The Triumph of Eugéne Valmont Jennie Baxter, Journalist Parody of Sherlock Holmes The Adventures of Sherlaw Kombs The Adventure of the Second Swag Stories of Revenge! An Alpine Divorce Which Was The Murderer? A Dynamite Explosion An Electrical Slip The Vengeance of the Dead Over The Stelvio Pass The Hour and the Man \"And the Rigour of the Game\" . . . Face and the Mask The Woman of Stone The Chemistry of Anarchy The Fear of It The Metamorphoses of Johnson The Reclamation of Joe Hollends The Type-Written Letter A New Explosive The Great Pegram Mystery Playing With Marked Cards . . . Other Short Stories The Count's Apology Converted An Invitation The Long Ladder \"Gentlemen: The King!\" The Hour-Glass In a Steamer Chair Mrs. Tremain A Society for the Reformation of Poker Players The Terrible Experience of Plodkins A Case of Fever How the Captain Got His Steamer Out Miss McMillan \"How Finley McGillis Held the Pier\" How to Write a Short Story . . . Novels Tekla In the Midst of Alarms From Whose Bourne One Day's Courtship The Herald's of Fame The Strong Arm A Woman Intervenes A Prince of Good Fellows The O'Ruddy, A Romance (with Stephen Crane) A Rock in the Baltic The Measure of the Rule The Sword Maker Young Lord Stranleigh Lord Stranleigh Abroad Lady Eleanor: Lawbreaker Cardillac A Chicago Princess Over the Border The Victors Literary Article \"Canadian literature\" Robert Barr (1849–1912) was a Scottish-Canadian short story writer and novelist, born in Glasgow, Scotland. His famous detective character Eugéne Valmont, fashioned after Sherlock Holmes, is said to be the inspiration behind Agatha Christie's Hercule Poirot.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788075832894"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8075832892"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 4781,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-XVODwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-XVODwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=-XVODwAAQBAJ&pg=PT389&dq=detective&hl=&cd=11&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-XVODwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-XVODwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.24,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 42.24,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-XVODwAAQBAJ&rdid=book--XVODwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42240000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 42240000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/ROBERT_BARR_Ultimate_Collection_20_Novel-sample-epub.acsm?id=-XVODwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/ROBERT_BARR_Ultimate_Collection_20_Novel-sample-pdf.acsm?id=-XVODwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-XVODwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Oh, you will find it of great interest,&quot; the <b>detective</b> assured her with much eagerness. &quot;It relates to the sudden and hitherto unexplained disappearance of a woman. That of itself is absorbing, for I may tell you, as one having a large&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "N5QJ3ijR-vkC",
+      "etag": "yDQXj3Q2Wwo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/N5QJ3ijR-vkC",
+      "volumeInfo": {
+        "title": "The Littlest Detective",
+        "authors": [
+          "Kathy Marks"
+        ],
+        "publisher": "Harlequin",
+        "publishedDate": "2011-07-15",
+        "description": "Guns and Nappies P.I. Georgie Poulopoulos was desperately trying to solve her first case. Unfortunately, the only man who could help her, the tall dark and incredibly dangerous Murdock, wasn't interested—at least not in the case! The last thing Murdock wanted was a partner. But gorgeous, whimsical Georgie got under his skin, bringing out his protective instincts. The woman was a menace to herself—and his libido! But just when things started to heat up—both on the job and under the covers—there was an unexpected development. Their duo was about to become a threesome!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781459278349"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1459278348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.5.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=N5QJ3ijR-vkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=N5QJ3ijR-vkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=N5QJ3ijR-vkC&pg=PT35&dq=detective&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=N5QJ3ijR-vkC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=N5QJ3ijR-vkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 290.37,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 290.37,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=N5QJ3ijR-vkC&rdid=book-N5QJ3ijR-vkC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 290370000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 290370000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Littlest_Detective-sample-epub.acsm?id=N5QJ3ijR-vkC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=N5QJ3ijR-vkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Private <b>detectives</b>! I never heard such nonsense. Sure, if your brother was anything but a <b>detective</b>, none of this would have happened. You have a responsibility, you do, Cosmo Poulopoulos. She&#39;ll be wasting away before my eyes until you&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VSc3AQAAMAAJ",
+      "etag": "6VIgrAtgQfs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VSc3AQAAMAAJ",
+      "volumeInfo": {
+        "title": "Autobiography of a French Detective, from 1818 to 1858",
+        "subtitle": "Comprising the Most Curious Revelations of the French Detective Police System",
+        "authors": [
+          "Louis Canler"
+        ],
+        "publishedDate": "1862",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015081760806"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Crime"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.5.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VSc3AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VSc3AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=VSc3AQAAMAAJ&pg=PA42&dq=detective&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=VSc3AQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VSc3AQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=VSc3AQAAMAAJ&rdid=book-VSc3AQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/Autobiography_of_a_French_Detective_from.epub?id=VSc3AQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VSc3AQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Comprising the Most Curious Revelations of the French <b>Detective</b> Police System Louis Canler. iss name . moment that an informer made a fruitless attempt to discover the assassin . A man of the name of Avril , who was imprisoned in La&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Fpi2DwAAQBAJ",
+      "etag": "lhR2gMzBL4w",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Fpi2DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Detective's Angel",
+        "authors": [
+          "J.B. Buell"
+        ],
+        "publisher": "JMS Books LLC",
+        "publishedDate": "2019-10-23",
+        "description": "Brian Callahan has been a NYPD detective for a long time, and he's been inside a strip club before to interview persons of interest. No big deal. Then a new case sends him to a different club to interview a male stripper. Brian knows he's a goner the moment he lays eyes on Angel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781646561407"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1646561406"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Fpi2DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Fpi2DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Fpi2DwAAQBAJ&pg=PT39&dq=detective&hl=&cd=14&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Fpi2DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Fpi2DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 231.88,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 231.88,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Fpi2DwAAQBAJ&rdid=book-Fpi2DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 231880000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 231880000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Fpi2DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“Have a good day, <b>Detective</b>.” “You, too,” Brian said, then ended the call and tried to look at Raymond with a neutral expression, so as not to give away what an exhilarating phone call he&#39;d just had. “Here.” Raymond thrust the oatmeal&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M4oeWRWi-n4C",
+      "etag": "FKwINOy0StQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M4oeWRWi-n4C",
+      "volumeInfo": {
+        "title": "The Health Detective's 456 Most Powerful Healing Secrets",
+        "subtitle": "Easyread Super Large 20pt Edition",
+        "authors": [
+          "Nan Kathryn Fuchs, Ph.D."
+        ],
+        "publisher": "ReadHowYouWant.com",
+        "publishedDate": "2009-06-16",
+        "description": "The Health Detective's 456 Most Powerful Healing Secrets There's a tug-of-war going on, and your health is at risk. Business interests are pulling on one end and science is tugging at the other. Veteran nutritionist and health writer Nan Kathryn Fuchs knows how confusing and frustrating this is. She knows that it takes time to sift through current information and separate hype from the real deal. Aware that very few people actually have the time to read technical scientific studies and to question researchers and doctors to better understand the validity of their conclusions, this ''health detective'' has done it for you. There are truly miraculous substances and diagnostic tools out there that can help improve how you look, how you feel, and even how long and how well you live. Dr. Fuchs has uncovered hundreds of these health secrets over nearly a dozen years of writing for Women's Health Letter. In The Health Detective's 456 Most Powerful Healing Secrets, Dr. Fuchs has gathered the most relevant healing secrets she's come across in her years of detective work. From fighting diseases, reversing chronic illness, and ending stomach problems to losing weight, looking younger, relieving fatigue, controlling pain, and much more, Dr. Fuchs reveals the natural and safe ways to go about it. This book makes these healing secrets easy to use and accessible to any woman in search of better, or continued, health.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442975538"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442975539"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 408,
+        "printType": "BOOK",
+        "categories": [
+          "Health & Fitness"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M4oeWRWi-n4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M4oeWRWi-n4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=M4oeWRWi-n4C&pg=PP1&dq=detective&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=M4oeWRWi-n4C&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Health_Detective_s_456_Most_Powerful.html?hl=&id=M4oeWRWi-n4C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M4oeWRWi-n4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Easyread Super Large 20pt Edition Nan Kathryn Fuchs, Ph.D. The Health <b>Detective&#39;s</b> HOST POWERFUL Healing Secrets Nan tarns Fiiciis, Ph.D. The Health <b>Detective&#39;s</b> 456 Most Powerful Healing Secrets By Nan. Front Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4p86CgAAQBAJ",
+      "etag": "bFJEboPhKWY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4p86CgAAQBAJ",
+      "volumeInfo": {
+        "title": "Detective Marsh Mysteries - Triple # 2",
+        "authors": [
+          "Mark Connolly"
+        ],
+        "publisher": "Lulu Press, Inc",
+        "publishedDate": "2016-06-24",
+        "description": "My Life is Over Even The Score Every Body Loses Marsh and Grew search streets and back alleys faced with the horrors of human trafficking. A thirty year old case tugs at Marsh's heart. \"Evil men doing their evil deeds no woman is ever safe. Fiction with dark truths.\" DLF Review Detectives Marsh and Grew are under pressure to find out who and why military personnel are being assassinated on the streets of Chicago and why certain church members are protesting at their funerals. \"Shakes the core of what you believe about military service. It should make you angry and embarrassed.\" DLF Review Marsh is sick of children roaming the streets with guns In contrast, he gets a case of murder among the super rich. \"Haunting story of frustration, fear and ignorance. Everyone has an excuse but never an answer.\" DLF Review",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781329342958"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "132934295X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4p86CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4p86CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=4p86CgAAQBAJ&pg=PT95&dq=detective&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=4p86CgAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Detective_Marsh_Mysteries_Triple_2.html?hl=&id=4p86CgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detective_Marsh_Mysteries_Triple_2-sample-epub.acsm?id=4p86CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detective_Marsh_Mysteries_Triple_2-sample-pdf.acsm?id=4p86CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4p86CgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Well let&#39;s see you and your amigos attacked and almost murdered one of my <b>detectives</b>, I don&#39;t like that very much.&quot; &quot;So you&#39;ll pin anything on me to get even.&quot; &quot;Did I say that? Did you hear me say that Grew?&quot; &quot;Grew."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lRlxAgAAQBAJ",
+      "etag": "UeXapyywMvI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lRlxAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Tranquility: an Optimist's Detective Novel",
+        "authors": [
+          "Buford O'Sullivan"
+        ],
+        "publisher": "Lulu.com",
+        "publishedDate": "2006-03",
+        "description": "Stacey Moran is a distressed veteran with a deeply-hidden secret. In his new job as detective, Moran comes face to face with something evil that he thought had been conquered after the war. He follows the trail, confronting worlds that he has never experienced before. Among them are the Travelers, an enlightened subculture living on the outside of normal society's boundaries; and the Orbitals, pioneers and rebels who have made their homes off the Earth with a whole different set of rules. A strange substance called Honey threatens to derail the Unified World and Moran has to get to the bottom of it. He takes a journey through dark layers of corruption and mystery, from the highest pinnacle of New York City, through the forgotten ruins underneath to the reclusive and defiant provinces of space. His secret pulls him into a life-changing search for personal redemption.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781411686328"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1411686322"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 265,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lRlxAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lRlxAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=lRlxAgAAQBAJ&pg=PA50&dq=detective&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=lRlxAgAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Tranquility_an_Optimist_s_Detective_Nove.html?hl=&id=lRlxAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lRlxAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "“<b>Detectives</b>,” he said, high pitched voice plainly expressing his astonishment, “We work here! We are constantly in contact with, supervised by, and under the strongest scrutiny from any number of offices around the world!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oMXvAgAAQBAJ",
+      "etag": "OypLkgFYugM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oMXvAgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Detective's Dilemma",
+        "authors": [
+          "Arlene James"
+        ],
+        "publisher": "HarperCollins UK",
+        "publishedDate": "2014-02-28",
+        "description": "Beth Maitland, the most unconventional member of the Maitland clan, is always up for an adventure. But getting framed for a murder she didn't commit isn't exactly her idea of fun....",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781472088314"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "147208831X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.5.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oMXvAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oMXvAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=oMXvAgAAQBAJ&pg=PT13&dq=detective&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=oMXvAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oMXvAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 279.98,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 251.98,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=oMXvAgAAQBAJ&rdid=book-oMXvAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 279980000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 251980000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Detective_s_Dilemma-sample-epub.acsm?id=oMXvAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oMXvAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "She looked attheserious mienof the tall, dark <b>detective</b> lounging on the corner of the table at which she sat and felt the sudden urge to laugh. It was all so utterly preposterous. Murder. How could anyone suspect her, Beth Maitland,of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gwjiCAAAQBAJ",
+      "etag": "c9T+IQJtzQg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gwjiCAAAQBAJ",
+      "volumeInfo": {
+        "title": "Franklin's Youngest Detective and The Search for the Town's Mayor",
+        "authors": [
+          "Michael Gilbert"
+        ],
+        "publisher": "Page Publishing Inc",
+        "publishedDate": "2020-11-05",
+        "description": "Lucy is Franklin's youngest detective and like all good detectives she is always ready for any big mystery to come her way. Including the town's missing mayor. Whereas some towns people say he just packed up and left others speak of only his ghost but for our young detective Lucy no search is too big and no adventure too small. Now hold on for the ride as America's new favorite girl detective brings her daring discoveries straight to your own home.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781634179928"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1634179927"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 44,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gwjiCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gwjiCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=gwjiCAAAQBAJ&pg=PT20&dq=detective&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=gwjiCAAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Franklin_s_Youngest_Detective_and_The_Se.html?hl=&id=gwjiCAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Franklin_s_Youngest_Detective_and_The_Se-sample-epub.acsm?id=gwjiCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Franklin_s_Youngest_Detective_and_The_Se-sample-pdf.acsm?id=gwjiCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gwjiCAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ith the Fourth of July coming and going summer vacation was in full steam now as the eventful day of our young <b>detectives</b> big discovery quickly arrived. It was a typical hot and humid July day only the bright summer sun gave way to the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "fEzGwAEACAAJ",
+      "etag": "swqtNgD6Eqw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/fEzGwAEACAAJ",
+      "volumeInfo": {
+        "title": "Classic Tales for Children",
+        "subtitle": "Detective Stories",
+        "authors": [
+          "Terry O'Brien"
+        ],
+        "publisher": "Rupa Publications India",
+        "publishedDate": "2014-11",
+        "description": "Sherlock Holmes examines the violent murder of a colonel, apparently by his wife. In eighteenth-century Italy, a nobleman plots deadly revenge against his former friend. Father Brown investigates the case of a man brutally beheaded in a garden. A policeman rents a bungalow where a young man had mysteriously disappeared. A selection of stories by some of the greatest writers of detective fi ction, Classic Tales for Children: Detective Stories is for those who love to get to the bottom of things.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8129124475"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788129124470"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 162,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=fEzGwAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=fEzGwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=fEzGwAEACAAJ&dq=detective&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=fEzGwAEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Classic_Tales_for_Children.html?hl=&id=fEzGwAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=fEzGwAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In eighteenth-century Italy, a nobleman plots deadly revenge against his former friend. Father Brown investigates the case of a man brutally beheaded in a garden. A policeman rents a bungalow where a young man had mysteriously disappeared."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EJXJFXh0EMUC",
+      "etag": "Qdkzmovs8zE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EJXJFXh0EMUC",
+      "volumeInfo": {
+        "title": "Comprehension detective",
+        "authors": [
+          "Gunter Schymkiw"
+        ],
+        "publisher": "R.I.C. Publications",
+        "publishedDate": "2003",
+        "description": "A variety of high interest mystery stories. Promotes logical and creative thinking. Encourages data collection skills and the drawing of conclusions.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1863118624"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781863118620"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Creative thinking"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "3.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EJXJFXh0EMUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EJXJFXh0EMUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=EJXJFXh0EMUC&dq=detective&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=EJXJFXh0EMUC&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Comprehension_detective.html?hl=&id=EJXJFXh0EMUC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EJXJFXh0EMUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A variety of high interest mystery stories. Promotes logical and creative thinking. Encourages data collection skills and the drawing of conclusions."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Imt8BgAAQBAJ",
+      "etag": "B/XhN2WnhIY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Imt8BgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Case of the Time-Capsule Bandit",
+        "authors": [
+          "Octavia Spencer"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-02-10",
+        "description": "Twelve-year-old Randi, unhappy about moving from Brooklyn to Deer Creek, Tennessee, after her mother's death, soon finds new friends and a case to solve surrounding a stolen time capsule and rumors of a centuries-old treasure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781442476820"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1442476826"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 240,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Imt8BgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Imt8BgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Imt8BgAAQBAJ&printsec=frontcover&dq=detective&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Imt8BgAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Case_of_the_Time_Capsule_Bandit.html?hl=&id=Imt8BgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Imt8BgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The first in a new series by Oscar]-winning actress Spencer (&quot;The Help&quot;). Illustrations."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "f2qePwAACAAJ",
+      "etag": "qrwU5QiYPr4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/f2qePwAACAAJ",
+      "volumeInfo": {
+        "title": "No. 1 Ladies' Detective Agency 5-Book Boxed Set",
+        "authors": [
+          "Alexander McCall Smith"
+        ],
+        "publisher": "Anchor Books",
+        "publishedDate": "2005",
+        "description": "This beautifully packed box set will be an attractive gift for fans and those wishing to spread the McCall Smith gospel. There is no end to the pleasure that may be extracted from these [five] books.--The New York Times Book Review.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0307261581"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780307261588"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=f2qePwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=f2qePwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=f2qePwAACAAJ&dq=detective&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=f2qePwAACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/No_1_Ladies_Detective_Agency_5_Book_Boxe.html?hl=&id=f2qePwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=f2qePwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In this charming series, Mma Ramotswe--with help from her loyal associate, Grace Makutsi--navigates her cases and her personal life with wisdom, good humor, and the occasional cup of tea."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZyFTjwEACAAJ",
+      "etag": "15rmULPjx74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZyFTjwEACAAJ",
+      "volumeInfo": {
+        "title": "Detective Conan",
+        "authors": [
+          "Gosho Aoyama"
+        ],
+        "publishedDate": "2012",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8869207099"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788869207099"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 192,
+        "printType": "BOOK",
+        "categories": [
+          "Comics & Graphic Novels"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "comicsContent": true,
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZyFTjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZyFTjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "it",
+        "previewLink": "http://books.google.ru/books?id=ZyFTjwEACAAJ&dq=detective&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ZyFTjwEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Detective_Conan.html?hl=&id=ZyFTjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZyFTjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "IGtRAQAAMAAJ",
+      "etag": "4IYPRpg18f4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/IGtRAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Model Town and the Detectives",
+        "subtitle": "Bryon as a Detective ; [The Hard Life of the Detective]",
+        "authors": [
+          "Allan Pinkerton"
+        ],
+        "publishedDate": "1876",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCR:31210015279944"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Criminal investigation"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.3.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=IGtRAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=IGtRAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=IGtRAQAAMAAJ&pg=PA1&dq=detective&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=IGtRAQAAMAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=IGtRAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=IGtRAQAAMAAJ&rdid=book-IGtRAQAAMAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/The_Model_Town_and_the_Detectives.epub?id=IGtRAQAAMAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=IGtRAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Bryon as a <b>Detective</b> ; [The Hard Life of the <b>Detective</b>] Allan Pinkerton. ALLAN PINKERTON&#39;S GREAT <b>DETECTIVE</b> STORIES . 1. - THE MOLLIE MAGUIRES AND <b>DETECTIVES</b> . 2. - STRIKERS , COMMUNISTS , AND <b>DETECTIVES</b> . 3."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mQ2LrgEACAAJ",
+      "etag": "YxpDt3E4udQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mQ2LrgEACAAJ",
+      "volumeInfo": {
+        "title": "Batman: Detective Comics Vol. 6: Icarus (the New 52)",
+        "authors": [
+          "Francis Manapul",
+          "Brian Buccellato"
+        ],
+        "publishedDate": "2016-01-12",
+        "description": "A bold new direction for DETECTIVE COMICS as THE FLASH creative team of Francis Manapul and Brian Buccellato take over the creative reins! Batman finds himself knee-deep in a new mystery involving a deadly new narcotic that has hit the streets of Gotham City. Can the Dark Knight stop the threat before the entire town finds itself embroiled in a deadly gang war that could burn everything--and everyone--down to the ground? Collects issues #30-34 and DETECTIVE COMICS ANNUAL #3.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1401258026"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781401258023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mQ2LrgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mQ2LrgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=mQ2LrgEACAAJ&dq=detective&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=mQ2LrgEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Batman_Detective_Comics_Vol_6_Icarus_the.html?hl=&id=mQ2LrgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mQ2LrgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot;Batman finds himself knee-deep in a new mystery involving a deadly new narcotic that has hit the streets of Gotham City."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dGEvzgEACAAJ",
+      "etag": "Pb6B+YfS2Kc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dGEvzgEACAAJ",
+      "volumeInfo": {
+        "title": "Anisha, Accidental Detective: Granny Trouble",
+        "authors": [
+          "Serena Patel"
+        ],
+        "publishedDate": "2021-07",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1474959547"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781474959544"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dGEvzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dGEvzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=dGEvzgEACAAJ&dq=detective&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=dGEvzgEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Anisha_Accidental_Detective_Granny_Troub.html?hl=&id=dGEvzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dGEvzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "But guess what? The diamond has been STOLEN! And the police think MY GRANNY did it so she&#39;s in serious TROUBLE. Someone needs to prove Granny Jas is innocent, so it looks like Milo and I might need to go UNDERCOVER."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "53iOjwEACAAJ",
+      "etag": "p+gWsJ9CAPk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/53iOjwEACAAJ",
+      "volumeInfo": {
+        "title": "Archie Nolan",
+        "subtitle": "Family Detective",
+        "authors": [
+          "Beverley Ward"
+        ],
+        "publishedDate": "2019-07-11",
+        "description": "A funny, fictional adventure story aimed at tweens and young teens about a donor conceived twin whose class is studying the topic of 'family'. Explores themes of difference, friendship, connections and family.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1910222224"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781910222225"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=53iOjwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=53iOjwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=53iOjwEACAAJ&dq=detective&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=53iOjwEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Archie_Nolan.html?hl=&id=53iOjwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=53iOjwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A funny, fictional adventure story aimed at tweens and young teens about a donor conceived twin whose class is studying the topic of &#39;family&#39;. Explores themes of difference, friendship, connections and family."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "GwQzAQAAIAAJ",
+      "etag": "T03fpDYiSzY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/GwQzAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Final Report of the Goldstone Commission",
+        "authors": [
+          "South Africa. Commission of Inquiry Regarding the Prevention of Public Violence and Intimidation"
+        ],
+        "publishedDate": "1994",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105070222760"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Children"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=GwQzAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=GwQzAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=GwQzAQAAIAAJ&q=detective&dq=detective&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=GwQzAQAAIAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Final_Report_of_the_Goldstone_Commission.html?hl=&id=GwQzAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=GwQzAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "( 5 ] - <b>Detective</b> Serceant JM Motloli <b>Detective</b> Sergeant 3 . J Mpokotho <b>Detective</b> Sergeant C3 xumalo <b>Detective</b> Sergeant s Lj Rebelo <b>Detective</b> Sergeant As Shezi <b>Detective</b> Sergeant Z Sibisi <b>Detective</b> Sergeant ? M van der Merise <b>Detective</b>&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oN0gzgEACAAJ",
+      "etag": "Z1ElWYY9ELg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oN0gzgEACAAJ",
+      "volumeInfo": {
+        "title": "Batman detective comics #1000",
+        "authors": [
+          "Scott Snyder",
+          "Geoff Johns",
+          "Tom King",
+          "Brian Michael Bendis",
+          "Kevin Smith",
+          "Peter J. Tomasi",
+          "Bob Kane",
+          "Bill Finger",
+          "Jim Lee"
+        ],
+        "publishedDate": "2020",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "8328198967"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9788328198968"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.ru/books?id=oN0gzgEACAAJ&dq=detective&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=oN0gzgEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Batman_detective_comics_1000.html?hl=&id=oN0gzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oN0gzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "FpFdAAAAMAAJ",
+      "etag": "ZESws+sFrM4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/FpFdAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Antiheroes",
+        "subtitle": "Mexico and Its Detective Novel",
+        "authors": [
+          "Ilan Stavans",
+          "Lewis-Sebring Professor in Latin American and Latino Culture Ilan Stavans, PhD"
+        ],
+        "publisher": "Fairleigh Dickinson Univ Press",
+        "publishedDate": "1997",
+        "description": "Presentation of the author's psychoanalytic beliefs and experiences inchild psychoanalytic therapy.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015041294839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 177,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=FpFdAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=FpFdAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=FpFdAAAAMAAJ&q=detective&dq=detective&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=FpFdAAAAMAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Antiheroes.html?hl=&id=FpFdAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=FpFdAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Presentation of the author&#39;s psychoanalytic beliefs and experiences inchild psychoanalytic therapy."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HIsLAQAAMAAJ",
+      "etag": "8TZ0sToAtwM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HIsLAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Comic Art Collection Catalog",
+        "subtitle": "An Author, Artist, Title, and Subject Catalog of the Comic Art Collection, Special Collections Division, Michigan State University Libraries",
+        "authors": [
+          "Michigan State University. Libraries. Special Collections Division"
+        ],
+        "publisher": "Greenwood",
+        "publishedDate": "1993",
+        "description": "This is the most comprehensive dictionary available on comic art. The catalog provides detailed information about more than 60,000 cataloged books, magazines, scrapbooks, fanzines, comic books, and other materials in the Michigan State University Libraries, America's premiere library comics collection. Each book or serial is listed by title, with entries as appropriate under author, subject, and series. Besides the traditional books and magazines, significant collections of microfilm, sound recordings, vertical files, and realia (mainly T-shirts) are included. Comics and related materials are grouped by nationality and by genre.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015054273027"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 1435,
+        "printType": "BOOK",
+        "categories": [
+          "Social Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HIsLAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HIsLAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=HIsLAQAAMAAJ&q=detective&dq=detective&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=HIsLAQAAMAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Comic_Art_Collection_Catalog.html?hl=&id=HIsLAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HIsLAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>DETECTIVE</b> AND HYSTERY COMIC BOOKS, STRIPS. ETC. 3 Famous Mysteries. — New York : Gilberton, 1949. -- 48 p. : col. 111. ; 26 cm. -- (Classics Illustrated ; no. 21) — Contents: Sherlock Holmes, the Sign of the 4 / A.C. Doyle."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "nnN3oAEACAAJ",
+      "etag": "ZZXEUXR1x68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/nnN3oAEACAAJ",
+      "volumeInfo": {
+        "title": "Snake Detective. Footprint Reading Library. 2600 Headwords. Level C1. Con DVD-ROM",
+        "authors": [
+          "Rob Waring"
+        ],
+        "publisher": "Cengage Learning",
+        "publishedDate": "2009",
+        "description": "A snake park in the Sultanate of Oman has a serious problem: all but one of their snakes have died. The owner of the park has hired a 'snake detective' to uncover the mystery of the dying snakes. Why did the snakes die? Will the snake detective be able to save the new snakes?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1424022185"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781424022182"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Pets"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=nnN3oAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=nnN3oAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=nnN3oAEACAAJ&dq=detective&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=nnN3oAEACAAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Snake_Detective_Footprint_Reading_Librar.html?hl=&id=nnN3oAEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=nnN3oAEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A snake park in the Sultanate of Oman has a serious problem: all but one of their snakes have died."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0-m7AAAAIAAJ",
+      "etag": "bWH7tuKqxm4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0-m7AAAAIAAJ",
+      "volumeInfo": {
+        "title": "The Publishers Weekly",
+        "publishedDate": "1886",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:B4171003"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "American literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.9.7.0.full.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0-m7AAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0-m7AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=0-m7AAAAIAAJ&pg=PA292&dq=detective&hl=&cd=34&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0-m7AAAAIAAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0-m7AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FREE",
+        "isEbook": true,
+        "buyLink": "https://play.google.com/store/books/details?id=0-m7AAAAIAAJ&rdid=book-0-m7AAAAIAAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "ALL_PAGES",
+        "embeddable": true,
+        "publicDomain": true,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false,
+          "downloadLink": "http://books.google.ru/books/download/The_Publishers_Weekly.epub?id=0-m7AAAAIAAJ&hl=&output=epub&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "downloadLink": "http://books.google.ru/books/download/The_Publishers_Weekly.pdf?id=0-m7AAAAIAAJ&hl=&output=pdf&sig=ACfU3U3CdQSThcH-5rF2wNMPIiofzxaEmg&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0-m7AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "FULL_PUBLIC_DOMAIN",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Hugh Conway&#39;s Works . Grand <b>Detective</b> Stories , 25 Cents . A Cardinal Sin . Paper .... Each 160 pages , in handsome colored paper covers , Cloth . Called Back , Paper . 25 Harry Pinkerton , the King of <b>Detectives</b> . Cloth ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qxZ-AgAAQBAJ",
+      "etag": "2AOmCccvhXg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qxZ-AgAAQBAJ",
+      "volumeInfo": {
+        "title": "DON'T",
+        "authors": [
+          "R.T.SALAS"
+        ],
+        "publisher": "Trafford Publishing",
+        "publishedDate": "2013-12",
+        "description": "Jim is a part time archeologist and finds emblems on an old mausoleum in an old part of a cemetery, sees some kind of inscriptions cannot make out the what it is, so he removes one. Jim inadvertly breaks a seal containing an untold evil, and starts to see horrific figures following him, eager to find out what the inscription means Jim does research, and when he does find out its too late.The inscriptions translate \"He who breaks the seal is doomed.\" Jim tries to put back the emblem but to no avail, he is doomed and is taken by the evil tnto the mausoleum never to return. At the same time a young man Jason walking the cemetery reading tombstones sees the door of the mausoleum open, and looks in and sees something not meant to be seen by man, now his life is in danger. Until the ones that put the evil in the mausoleum finds out, now its a battle to save him and other mortals from this evil.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781490722535"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "149072253X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 122,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qxZ-AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qxZ-AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=qxZ-AgAAQBAJ&pg=PA15&dq=detective&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qxZ-AgAAQBAJ&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/DON_T.html?hl=&id=qxZ-AgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/DON_T-sample-pdf.acsm?id=qxZ-AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qxZ-AgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When he got up he waked up he met the <b>detective</b> “Hello, my name is <b>Detective</b> James Smith” they both shook hands. The <b>detective</b> is a man of recognition, and stature, he is a former military officer retired who was special ops,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vwsDHg28ES0C",
+      "etag": "636+kYekb9Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vwsDHg28ES0C",
+      "volumeInfo": {
+        "title": "Detective Stories",
+        "authors": [
+          "Philip Pullman"
+        ],
+        "publishedDate": "1998",
+        "description": "Offers a collection of fifteen classic detective stories by such noted mystery writers as Arthur Conan Doyle, Dorothy L. Sayers, Agatha Christie, and Ellery Queen",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0753451573"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780753451571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 244,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vwsDHg28ES0C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vwsDHg28ES0C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vwsDHg28ES0C&q=detective&dq=detective&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vwsDHg28ES0C&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Detective_Stories.html?hl=&id=vwsDHg28ES0C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vwsDHg28ES0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Offers a collection of fifteen classic detective stories by such noted mystery writers as Arthur Conan Doyle, Dorothy L. Sayers, Agatha Christie, and Ellery Queen"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "zNWLprcPKa0C",
+      "etag": "BmvpnQ5/WYM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/zNWLprcPKa0C",
+      "volumeInfo": {
+        "title": "Detecting Texts",
+        "subtitle": "The Metaphysical Detective Story from Poe to Postmodernism",
+        "authors": [
+          "Patricia Merivale",
+          "Susan Elizabeth Sweeney"
+        ],
+        "publisher": "University of Pennsylvania Press",
+        "publishedDate": "2011-06-07",
+        "description": "Although readers of detective fiction ordinarily expect to learn the mystery's solution at the end, there is another kind of detective story—the history of which encompasses writers as diverse as Poe, Borges, Robbe-Grillet, Auster, and Stephen King—that ends with a question rather than an answer. The detective not only fails to solve the crime, but also confronts insoluble mysteries of interpretation and identity. As the contributors to Detecting Texts contend, such stories belong to a distinct genre, the \"metaphysical detective story,\" in which the detective hero's inability to interpret the mystery inevitably casts doubt on the reader's similar attempt to make sense of the text and the world. Detecting Texts includes an introduction by the editors that defines the metaphysical detective story and traces its history from Poe's classic tales to today's postmodernist experiments. In addition to the editors, contributors include Stephen Bernstein, Joel Black, John T. Irwin, Jeffrey T. Nealon, and others.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780812205459"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0812205456"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=zNWLprcPKa0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=zNWLprcPKa0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=zNWLprcPKa0C&printsec=frontcover&dq=detective&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=zNWLprcPKa0C&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Detecting_Texts.html?hl=&id=zNWLprcPKa0C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detecting_Texts-sample-epub.acsm?id=zNWLprcPKa0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Detecting_Texts-sample-pdf.acsm?id=zNWLprcPKa0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=zNWLprcPKa0C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As the contributors to Detecting Texts contend, such stories belong to a distinct genre, the &quot;metaphysical detective story,&quot; in which the detective hero&#39;s inability to interpret the mystery inevitably casts doubt on the reader&#39;s similar ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_07jDAAAQBAJ",
+      "etag": "OemMEegqUBc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_07jDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Dirk Gently's Holistic Detective Agency Box Set",
+        "subtitle": "Dirk Gently's Holistic Detective Agency and The Long Dark Tea-Time of the Soul",
+        "authors": [
+          "Douglas Adams"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2016-10-04",
+        "description": "Discover the hilarious and beloved Dirk Gently novels from legendary science fiction author Douglas Adams—now the basis for the all-new TV series on BBC America! Dirk Gently’s Holistic Detective Agency Douglas Adams, the “master of wacky words and even wackier tales” (Entertainment Weekly), once again boggles the mind with a completely unbelievable story of ghosts, time travel, eccentric computer geniuses, Samuel Taylor Coleridge, the end of the world, and—of course—missing cats. The Long Dark Tea-Time of the Soul When a check-in desk at London’s Heathrow Airport disappears in a ball of orange flame, the event is said to be an act of God. But which god, wonders holistic detective Dirk Gently. And how is this connected to Dirk’s battle with his cleaning lady over his filthy refrigerator…or to the murder of his latest client? Or are these events just another stretch of coincidences in the life of the world’s most off-kilter private investigator?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501164125"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501164120"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 640,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.11.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_07jDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_07jDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=_07jDAAAQBAJ&printsec=frontcover&dq=detective&hl=&cd=38&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_07jDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=_07jDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1865.25,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1678.72,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_07jDAAAQBAJ&rdid=book-_07jDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1865250000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1678720000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Dirk_Gently_s_Holistic_Detective_Agency-sample-epub.acsm?id=_07jDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_07jDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Dirk Gently’s Holistic Detective Agency Douglas Adams, the “master of wacky words and even wackier tales” (Entertainment Weekly), once again boggles the mind with a completely unbelievable story of ghosts, time travel, eccentric ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QXPU9wYppn4C",
+      "etag": "dZpaPYk/OSw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QXPU9wYppn4C",
+      "volumeInfo": {
+        "title": "The Dime Novel Detective",
+        "authors": [
+          "Gary Hoppenstand"
+        ],
+        "publisher": "Popular Press",
+        "publishedDate": "1982",
+        "description": "This volume offers a combination of representative dime novel detective fiction, presented in order of the respective series' first publication dates, and bibliographic material, which can assist the future scholar of the dime novels. Stories are reprinted from The New York Detective Library, Old Cap Collier, Old Sleuth Library, Bob Brooks Library, and Secret Service.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0879722134"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780879722135"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 254,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QXPU9wYppn4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QXPU9wYppn4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=QXPU9wYppn4C&printsec=frontcover&dq=detective&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=QXPU9wYppn4C&dq=detective&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Dime_Novel_Detective.html?hl=&id=QXPU9wYppn4C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QXPU9wYppn4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This volume offers a combination of representative dime novel detective fiction, presented in order of the respective series&#39; first publication dates, and bibliographic material, which can assist the future scholar of the dime novels."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3O_8CAAAQBAJ",
+      "etag": "6ZN5BM60Ky4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3O_8CAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Sea Detective",
+        "authors": [
+          "Mark Douglas-Home"
+        ],
+        "publisher": "Penguin UK",
+        "publishedDate": "2015-11-05",
+        "description": "The first mystery in a truly unique crime series. 'There comes a time when a novel raises the bar for a particular genre, and The Sea Detective does just that for Scottish crime fiction' (Scotsman) Cal McGill is an Edinburgh-based oceanographer, environmentalist and one-of-a-kind investigator. Using his knowledge of the waves - ocean currents, prevailing winds, shipping records - McGill can track where objects have come from, or where they've gone. It's a unique skill that can help solve all sorts of mysteries. Such as when two severed feet wash up miles apart on two different islands off the coast of Scotland. Most strangely, forensic tests reveal that the feet belong to the same body. As Cal McGill investigates, he unravels a web of corruption, exploitation and violence, which threatens many lives across the globe - very soon including his own... Praise for The Sea Detective: 'Raises the bar for Scottish crime fiction ... elegantly written and compelling' The Scotsman 'Excellent' The Literary Review - top five crime books of the year 'Promises to be a fine series of detective novels' Sunday Times Crime Book of the Month 'An unusual, interesting and enthralling read' Shotsmag 'A compelling protagonist' The Times Literary Supplement",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781405923576"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1405923571"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 5,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3O_8CAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3O_8CAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=3O_8CAAAQBAJ&printsec=frontcover&dq=detective&hl=&cd=40&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=3O_8CAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=3O_8CAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 935.58,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 842.02,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=3O_8CAAAQBAJ&rdid=book-3O_8CAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 935580000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 842020000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Sea_Detective-sample-epub.acsm?id=3O_8CAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3O_8CAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Including his own . . . ______ &#39;Raises the bar for Scottish crime fiction . . . elegantly written and compelling&#39; The Scotsman &#39;Excellent&#39; The Literary Review, &#39;Top Five Crime Books of the Year&#39; &#39;Promises to be a fine series of detective ..."
+      }
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿@model List<MyBook.Entities.User>
+
+<div>
+    <ul id="list">
+        @foreach (var user in Model)
+        {
+            @await Component.InvokeAsync("EditUser",user)
+        }
+    </ul>
+</div>

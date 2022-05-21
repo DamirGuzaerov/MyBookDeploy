@@ -1,0 +1,19 @@
+﻿@model MyBook.Entities.Book
+
+<div class="card customBookCard">
+    <a asp-controller="Book" asp-action="Book" asp-route-bookId="@Model.BookId" class="customBookCard_img_link">
+        <img class="customBookCard_img" alt="" src="@(Model.ImgLinks.FirstOrDefault(link => link.Resolution == "thumbnail")?.Url)">
+    </a>
+    <div class="card-body">
+        <h4 class="card-title oneLineDisplayText">@Model.Name</h4>
+        @await Component.InvokeAsync("StarsRateResult", 5)
+        <p class="card-text oneLineDisplayText">
+            @foreach (var author in Model.AuthorBooks)
+            {
+                <a asp-controller="Author" asp-action="Author" asp-route-authorId="@author.Author.AuthorId">
+                    @author.Author.Name
+                </a>
+            }
+        </p>
+    </div>
+</div>

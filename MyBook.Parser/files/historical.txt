@@ -1,0 +1,694 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 193,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "mWI7EAAAQBAJ",
+      "etag": "Rf3lT1TjMzA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mWI7EAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Rise and Fall of Osama Bin Laden",
+        "authors": [
+          "Peter L. Bergen"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2021-08-03",
+        "description": "The world’s leading expert on Osama bin Laden delivers for the first time the definitive biography of a man who set the course of American foreign policy for the 21st century, and whose ideological heirs we continue to battle today. In The Rise and Fall of Osama bin Laden, Peter Bergen provides the first reevaluation of the man responsible for precipitating America’s long wars with al-Qaeda and its descendants, capturing bin Laden in all the dimensions of his life: as a family man, as a zealot, as a battlefield commander, as a terrorist leader, and as a fugitive. The book sheds light on his many contradictions: he was the son of a billionaire, yet insisted his family live like paupers. He adored his wives and children, depending on two of his wives, both of whom had PhDs, to make important strategic decisions. Yet he also brought ruin to his family. He was fanatically religious, yet willing to kill thousands of civilians in the name of Islam. He inspired deep loyalty yet, in the end, his bodyguards turned against him. And while he inflicted the most lethal act of mass murder in United States history, he failed to achieve any of his strategic goals. The lasting image we have of bin Laden in his final years is of an aging man with a graying beard watching old footage of himself, just another dad flipping through the channels with his remote. In the end, bin Laden died in a squalid suburban compound, far from the front lines of his holy war. And yet despite that unheroic denouement, his ideology lives on. Thanks to exclusive interviews with family members and associates, and documents unearthed only recently, Bergen’s portrait of Osama will reveal for the first time who he really was and why he continues to inspire a new generation of jihadists.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982170523"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982170522"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mWI7EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mWI7EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=mWI7EAAAQBAJ&printsec=frontcover&dq=subject:historical&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=mWI7EAAAQBAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Rise_and_Fall_of_Osama_Bin_Laden.html?hl=&id=mWI7EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mWI7EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OT2jQgAACAAJ",
+      "etag": "g/9HoKnLgTc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OT2jQgAACAAJ",
+      "volumeInfo": {
+        "title": "Playing Beatie Bow",
+        "authors": [
+          "Ruth Park"
+        ],
+        "publisher": "Puffin",
+        "publishedDate": "1982-01",
+        "description": "A thrilling adventure story for children and young adults by Park Ruth, Playing Beatie Bow follows Abigail as she suddenly finds herself in the Sydney of a hundred years ago as the result of a scary game.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140314601"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140314601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Australia"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OT2jQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OT2jQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OT2jQgAACAAJ&dq=subject:historical&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=OT2jQgAACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Playing_Beatie_Bow.html?hl=&id=OT2jQgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OT2jQgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VKlnGgAACAAJ",
+      "etag": "/m+D4x6KHuI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VKlnGgAACAAJ",
+      "volumeInfo": {
+        "title": "Playing Beatie Bow",
+        "authors": [
+          "Ruth Park"
+        ],
+        "publisher": "Melbourne, Vic. : Nelson",
+        "publishedDate": "1980",
+        "description": "A lonely Australian girl from a divided family is transported back to the 1880's and an immigrant family from the Orkney Islands.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0170058794"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780170058797"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "Australia"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 8,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=VKlnGgAACAAJ&dq=subject:historical&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=VKlnGgAACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Playing_Beatie_Bow.html?hl=&id=VKlnGgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VKlnGgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6mBqzgEACAAJ",
+      "etag": "QkcFxJWi8gY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6mBqzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Betrayal of Anne Frank",
+        "subtitle": "A Cold Case Investigation",
+        "authors": [
+          "Rosemary Sullivan"
+        ],
+        "publishedDate": "2022-01-18",
+        "description": "Less a mystery unsolved than a secret well kept... Using new technology, recently discovered documents and sophisticated investigative techniques, an international team--led by an obsessed retired FBI agent--has finally solved the mystery that has haunted generations since World War II: Who betrayed Anne Frank and her family? And why? Over thirty million people have read The Diary of a Young Girl, the journal teen-aged Anne Frank kept while living in an attic with her family and four other people in Amsterdam during World War II, until the Nazis arrested them and sent them to a concentration camp. But despite the many works--journalism, books, plays and novels--devoted to Anne's story, none has ever conclusively explained how these eight people managed to live in hiding undetected for over two years--and who or what finally brought the Nazis to their door. With painstaking care, retired FBI agent Vincent Pankoke and a team of indefatigable investigators pored over tens of thousands of pages of documents--some never before seen--and interviewed scores of descendants of people familiar with the Franks. Utilizing methods developed by the FBI, the Cold Case Team painstakingly pieced together the months leading to the infamous arrest--and came to a shocking conclusion. The Betrayal of Anne Frank: A Cold Case Investigation is the riveting story of their mission. Rosemary Sullivan introduces us to the investigators, explains the behavior of both the captives and their captors and profiles a group of suspects. All the while, she vividly brings to life wartime Amsterdam: a place where no matter how wealthy, educated, or careful you were, you never knew whom you could trust.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1443463043"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781443463041"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Cloth or Hardcover"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6mBqzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6mBqzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=6mBqzgEACAAJ&dq=subject:historical&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=6mBqzgEACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Betrayal_of_Anne_Frank.html?hl=&id=6mBqzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6mBqzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Xrz6AorNQMMC",
+      "etag": "mWOS++7GbHA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Xrz6AorNQMMC",
+      "volumeInfo": {
+        "title": "Something Red",
+        "subtitle": "A Novel",
+        "authors": [
+          "Douglas Nicholas"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2012-09-18",
+        "description": "Leading a troupe of companions across the mountains of 13th-century northwest England to find shelter from the coldest winter in memory, middle-aged Irishwoman Molly gradually realizes that they are being followed by a mysterious evil force that must be faced and defeated if they are to survive. A first novel by the author of Iron Rose.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781451660074"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1451660073"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 12,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Xrz6AorNQMMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Xrz6AorNQMMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Xrz6AorNQMMC&printsec=frontcover&dq=subject:historical&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Xrz6AorNQMMC&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Something_Red.html?hl=&id=Xrz6AorNQMMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Xrz6AorNQMMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VrQTEAAAQBAJ",
+      "etag": "bxuMlIfIUMg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VrQTEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bugsy Siegel",
+        "subtitle": "The Dark Side of the American Dream",
+        "authors": [
+          "Michael Shnayerson"
+        ],
+        "publisher": "Yale University Press",
+        "publishedDate": "2021-02-09",
+        "description": "The story of the notorious Jewish gangster who ascended from impoverished beginnings to the glittering Las Vegas strip \"[A] brisk-reading chronicle of Siegel’s life and crimes.\"—Tom Nolan, Wall Street Journal \"Fast-paced and absorbing. . . . With a keen eye for the amusing, and humanizing detail, [Shnayerson] enlivens the traditional rise-and-fall narrative.\"—Jenna Weissman Joselit, New York Times Book Review In a brief life that led to a violent end, Benjamin “Bugsy” Siegel (1906–1947) rose from desperate poverty to ill‑gotten riches, from an early‑twentieth‑century family of Ukrainian Jewish immigrants on the Lower East Side to a kingdom of his own making in Las Vegas. In this captivating portrait, author Michael Shnayerson sets out not to absolve Bugsy Siegel but rather to understand him in all his complexity. Through the 1920s, 1930s, and most of the 1940s, Bugsy Siegel and his longtime partner in crime Meyer Lansky engaged in innumerable acts of violence. As World War II came to an end, Siegel saw the potential for a huge, elegant casino resort in the sands of Las Vegas. Jewish gangsters built nearly all of the Vegas casinos that followed. Then, one by one, they disappeared. Siegel’s story laces through a larger, generational story of eastern European Jewish immigrants in the early‑ to mid‑twentieth century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780300226195"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0300226195"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 248,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VrQTEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VrQTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=VrQTEAAAQBAJ&printsec=frontcover&dq=subject:historical&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=VrQTEAAAQBAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Bugsy_Siegel.html?hl=&id=VrQTEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VrQTEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UzrBzQEACAAJ",
+      "etag": "wi39pi/nO+Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UzrBzQEACAAJ",
+      "volumeInfo": {
+        "title": "The Betrayals",
+        "authors": [
+          "Bridget Collins"
+        ],
+        "publisher": "William Morrow",
+        "publishedDate": "2021-05-18",
+        "description": "\"Dizzyingly wonderful . . . a perfectly constructed work of fiction, with audacious twists . . . Collins plays her own game here with perfect skill.\" -- The Times (UK) An intricate and utterly spellbinding literary epic brimming with enchantment, mystery, and dark secrets from the highly acclaimed author of the #1 international bestseller The Binding. If your life was based on a lie, would you risk it all to tell the truth? At Montverre, an ancient and elite academy hidden high in the mountains, society's best and brightest are trained for excellence in the grand jeu--the great game--an arcane and mysterious competition that combines music, art, math, poetry, and philosophy. Léo Martin once excelled at Montverre but lost his passion for scholarly pursuits after a violent tragedy. He turned to politics instead and became a rising star in the ruling party, until a small act of conscience cost him his career. Now he has been exiled back to Montverre, his fate uncertain. But this rarified world of learning Léo once loved is not the same place he remembers. Once the exclusive bastion of men, Montverre's most prestigious post is now held by a woman: Claire Dryden, also known as the Magister Ludi, the head of the great game. At first, Léo feels an odd attraction to the magister--a mysterious, eerily familiar connection--though he's sure they've never met before. As the legendary Midsummer Game approaches--the climax of the academy's year--long-buried secrets rise to the surface and centuries-old traditions are shockingly overturned. A highly imaginative and intricately crafted literary epic, The Betrayals confirms Bridget Collins as one of the most inventive and exquisite new voices in speculative fiction.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0062838121"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780062838124"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UzrBzQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UzrBzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UzrBzQEACAAJ&dq=subject:historical&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=UzrBzQEACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Betrayals.html?hl=&id=UzrBzQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UzrBzQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TfiVAAAACAAJ",
+      "etag": "wa+i5lRizuc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TfiVAAAACAAJ",
+      "volumeInfo": {
+        "title": "Masqueraders",
+        "authors": [
+          "Georgette Heyer"
+        ],
+        "publishedDate": "2005",
+        "description": "In an age of slippery politics, Robin and Prudence Tremaine, the children of the notorious and brilliant Viscount of Barham, find themselves on the wrong side of the Jacobite rebellion. The Viscount sends his offspring on the road to London, each masquerading as the opposite sex.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0753174162"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780753174166"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 378,
+        "printType": "BOOK",
+        "categories": [
+          "England"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 26,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=TfiVAAAACAAJ&dq=subject:historical&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=TfiVAAAACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Masqueraders.html?hl=&id=TfiVAAAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TfiVAAAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "WLZ8AAAAIAAJ",
+      "etag": "S1k7vK3Wl74",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/WLZ8AAAAIAAJ",
+      "volumeInfo": {
+        "title": "Eyewitnessing",
+        "subtitle": "The Uses of Images as Historical Evidence",
+        "authors": [
+          "Peter Burke"
+        ],
+        "publishedDate": "2001",
+        "description": "This text evaluates the place of images among other kinds of historical evidence. By reviewing the many varieties of images by region, period and medium, and looking at the pragmatic uses of images (e.g. the Bayeux Tapestry, an engraving of a printing press, a reconstruction of a building), the author sheds light on our assumption that these practical uses are reflections of specific historical meanings and influences. He also shows how this assumption can be problematic.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105025261160"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Event"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.10.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=WLZ8AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=WLZ8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=WLZ8AAAAIAAJ&dq=subject:historical&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=WLZ8AAAAIAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Eyewitnessing.html?hl=&id=WLZ8AAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=WLZ8AAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "jlcCzgEACAAJ",
+      "etag": "w+MqASdI0qU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/jlcCzgEACAAJ",
+      "volumeInfo": {
+        "title": "The Warsaw Orphan",
+        "subtitle": "A Novel",
+        "authors": [
+          "Kelly Rimmer"
+        ],
+        "publisher": "Graydon House Books",
+        "publishedDate": "2021-06",
+        "description": "\"Kelly Rimmer's heart-stopping rendering of the war in Nazi-occupied Poland will captivate readers page by page.\"--Lisa Wingate, #1 New York Times bestselling author of Before We Were Yours \"A surefire hit [and] a heartbreaking and hopeful story of family, duty, love, salvation, and resistance. The Warsaw Orphan [is] a thoughtful, beautiful novel.\" -- Kristin Harmel, New York Times bestselling author of The Book of Lost Names Inspired by the real-life heroine who saved thousands of Jewish children during WWII, The Warsaw Orphan is Kelly Rimmer's most anticipated novel since her bestselling sensation, The Things We Cannot Say. In the spring of 1942, young Elzbieta Rabinek is aware of the swiftly growing discord just beyond the courtyard of her comfortable Warsaw home. She has no fondness for the Germans who patrol her streets and impose their curfews, but has never given much thought to what goes on behind the walls that contain her Jewish neighbors. She knows all too well about German brutality--and that it's the reason she must conceal her true identity. But in befriending Sara, a nurse who shares her apartment floor, Elzbieta makes a discovery that propels her into a dangerous world of deception and heroism. Using Sara's credentials to smuggle children out of the ghetto brings Elzbieta face-to-face with the reality of the war behind its walls, and to the plight of the Gorka family, who must make the impossible decision to give up their newborn daughter or watch her starve. For Roman Gorka, this final injustice stirs him to rebellion with a zeal not even his newfound love for Elzbieta can suppress. But his recklessness brings unwanted attention to Sara's cause, unwittingly putting Elzbieta and her family in harm's way until one violent act threatens to destroy their chance at freedom forever. From Nazi occupation to the threat of a communist regime, The Warsaw Orphan is the unforgettable story of Elzbieta and Roman's perilous attempt to reclaim the love and life they once knew. \"Intensely moving...Bravo, Kelly Rimmer! I'm going to be recommending this book to everyone I know.\" --Karen Robards, New York Times bestselling author of The Black Swan of Paris",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1525811533"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781525811531"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 416,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=jlcCzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=jlcCzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=jlcCzgEACAAJ&dq=subject:historical&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=jlcCzgEACAAJ&dq=subject:historical&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Warsaw_Orphan.html?hl=&id=jlcCzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=jlcCzgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

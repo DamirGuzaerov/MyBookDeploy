@@ -1,0 +1,3364 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1015,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "3rRkAAAAMAAJ",
+      "etag": "9jYPfcGSIqc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3rRkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "This is a Thriller",
+        "subtitle": "An Episode Guide, History, and Analysis of the Classic 1960s Television Series",
+        "authors": [
+          "Alan Warren"
+        ],
+        "publisher": "McFarland Publishing",
+        "publishedDate": "1996",
+        "description": "The late 1950s and early 1960s were the golden years of horror television. Anthology series such as Way Out and Great Ghost Tales, along with certain episodes of Twilight Zone and The Alfred Hitchcock Hour, were among the shows that consistently frightened a generation of television viewers. And perhaps the best of them all was Thriller, hosted by Boris Karloff.In Thriller the horror was gothic, with a darker, bleaker vision of life than its contemporaries. The show's origins and troubled history is first discussed here, followed by biographies of such key figures as producer William Frye, executive producer Hubbell Robinson, writers Robert Bloch and Donald S. Sanford, and Karloff. The episode guide covers all 67 installments, providing airdate, production credits, cast, plot synopses and critical evaluations.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015040636717"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 207,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3rRkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3rRkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=3rRkAAAAMAAJ&q=thriller&dq=thriller&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=3rRkAAAAMAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/This_is_a_Thriller.html?hl=&id=3rRkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3rRkAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Thriller</b> was a complete change of pace in a career which had concentrated almost entirely on the private eye, metro police station and cowboy-western genre, totaling some 150-plus episodes on more than three dozen series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KCf6DwAAQBAJ",
+      "etag": "T4bsN1JPgco",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KCf6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Primary Duty: The Forging of Luke Stone—Book #6 (an Action Thriller)",
+        "authors": [
+          "Jack Mars"
+        ],
+        "publisher": "Jack Mars",
+        "publishedDate": "2021-09-30",
+        "description": "“One of the best thrillers I have read this year.” --Books and Movie Reviews (re Any Means Necessary) In PRIMARY DUTY (The Forging of Luke Stone—Book #6), a ground-breaking action thriller by #1 bestseller Jack Mars, a Supreme Court Justice is taken hostage by a terrorist organization. With a consequential decision before the court, the death of this swing Justice could change the political landscape for decades. Getting him back, against the backdrop of a massive marvel of engineering, would be mission impossible—a mission that only elite Delta Force veteran Luke Stone, 29, and the FBI’s Special Response Team, may be crazy enough to take on. In this action-packed military thriller, filled with shocking twists and turns, the stakes as high as can be, Luke and his team may be up for their most challenging mission yet. PRIMARY DUTY is a standalone, un-putdownable military thriller, a wild action ride that will leave you turning pages late into the night. The precursor to the #1 bestselling LUKE STONE THRILLER SERIES, this series takes us back to how it all began, a riveting series by bestseller Jack Mars, dubbed “one of the best thriller authors” out there. “Thriller writing at its best.” --Midwest Book Review (re Any Means Necessary) Also available is Jack Mars’ #1 bestselling LUKE STONE THRILLER series (7 books), which begins with Any Means Necessary (Book #1), a free download with over 800 five star reviews!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094372129"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1094372129"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KCf6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KCf6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=KCf6DwAAQBAJ&pg=PT363&dq=thriller&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=KCf6DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=KCf6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 463.82,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 463.82,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=KCf6DwAAQBAJ&rdid=book-KCf6DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 463820000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 463820000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KCf6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ROGUE FORCE (A Troy Stark <b>Thriller</b>—Book #1) “<b>Thriller</b> writing at its best. <b>Thriller</b> enthusiasts who relish the precise execution of an international <b>thriller</b>, but who seek the psychological depth and believability of a protagonist who&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "gH-nDAAAQBAJ",
+      "etag": "NZsnSPmgLf4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/gH-nDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Luke Stone Thriller Bundle: Oath of Office (#2) and Situation Room (#3)",
+        "authors": [
+          "Jack Mars"
+        ],
+        "publisher": "Jack Mars",
+        "publishedDate": "2016-06-30",
+        "description": "A bundle of books #2 (OATH OF OFFICE) and #3 (SITUATION ROOM) in Jack Mars’s Luke Stone Thriller series—a bestseller with over 150 five star reviews! This bundle offers books one and two in one convenient file, with over 150,000 words of reading. In OATH OF OFFICE, a biological agent is stolen from a biocontainment lab. Weaponized, it could kill millions, and a desperate national hunt ensues to catch the terrorists before it is too late. Luke Stone, head of an elite FBI department, with his own family still in jeopardy, has vowed to walk away—but when the new President, barely sworn in, calls him, he can’t turn his back on her. In SITUATION ROOM A cyberattack on an obscure U.S. dam leaves thousands dead and the government wondering who attacked it, and why. When they realize it is just the tip of the iceberg—and that the safety of all of America is at stake—the President has no choice but to call in Luke Stone. Head of an elite, disbanded FBI team, Luke does not want the job. But with new enemies—foreign and domestic—closing in on her from all sides, the President can only trust him. What follows is an action-packed international roller-coaster, as Luke learns that the terrorists are more sophisticated than anyone realizes, that the target is more extensive than anyone could image—and that there is very little time left to save America. Political thrillers with non-stop action, dramatic international settings, unexpected twists and heart-pounding suspense, the Luke Stone series is an explosive new series that will leave you turning pages late into the night. Book #4 in the series will be available soon.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781632917249"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1632917246"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 600,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=gH-nDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=gH-nDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=gH-nDAAAQBAJ&pg=PT496&dq=thriller&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=gH-nDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=gH-nDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 696.12,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 696.12,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=gH-nDAAAQBAJ&rdid=book-gH-nDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 696120000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 696120000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=gH-nDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "OPPOSE ANY FOE (A Luke Stone <b>Thriller</b>—Book 4) OR “One of the best <b>thrillers</b> I have read this year. The plot is intelligent and will keep you hooked from the beginning. The author did a superb job creating a set of characters who are&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Qzs4Qp4I_YIC",
+      "etag": "Q72h4npCfWQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Qzs4Qp4I_YIC",
+      "volumeInfo": {
+        "title": "Thriller 2: Stories You Just Can't Put Down",
+        "subtitle": "Through a Veil Darkly\\Ghost Writer\\A Calculated Risk\\Remaking\\The Weapon\\Can You Help Me Out Here?",
+        "authors": [
+          "Kathleen Antrim",
+          "Gary Braver",
+          "Sean Chercover",
+          "Blake Crouch",
+          "Jeffery Deaver",
+          "Robert Ferrigno"
+        ],
+        "publisher": "MIRA",
+        "publishedDate": "2009-06-01",
+        "description": "When some of the top thriller writers in the world came together in Thriller: Stories To Keep You Up All Night, they became a part of one of the most successful short-story anthologies ever published. The highly anticipated Thriller 2: Stories You Just Can't Put Down is even bigger. From Jeffery Deaver's tale of international terrorism to Lisa Jackson's dysfunctional family in the California wine country to Ridley Pearson's horrifying serial killer, this collection has something for everyone. Twenty-three bestselling and hot new authors in the genre have submitted original stories to make up this unforgettable blockbuster. Turn off your phone. Shut down your computer. Say goodbye to your friends and family. Be prepared to read for days.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781426833908"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1426833903"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Qzs4Qp4I_YIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Qzs4Qp4I_YIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Qzs4Qp4I_YIC&pg=PA499&dq=thriller&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Qzs4Qp4I_YIC&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thriller_2_Stories_You_Just_Can_t_Put_Do.html?hl=&id=Qzs4Qp4I_YIC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Thriller_2_Stories_You_Just_Can_t_Put_Do-sample-epub.acsm?id=Qzs4Qp4I_YIC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Qzs4Qp4I_YIC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Kathleen Antrim is a columnist for the San Francisco Examiner newspaper, author of the political <b>thriller</b> Capital Offense, a correspondent for NewsMax magazine, and a political commentator appearing on radioand television."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bHu2AwAAQBAJ",
+      "etag": "BCcreRXMSQE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bHu2AwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fatal Demand: A Jess Kimball Thriller",
+        "authors": [
+          "Diane Capri"
+        ],
+        "publisher": "AugustBooks",
+        "publishedDate": "2016-01-15",
+        "description": "The sexy Italian seems too good to be true. Because he is. When her Taboo Magazine assignment uncovers a modern Italian crime family operating scams and killing their victims inside the US, Jess Kimball joins forces with FBI Special Agent Henry Morris to stop the ruthless killers. This job may be her last. Jess rushes against time from Dallas to New Orleans to Florida and New York to find and stop Luigi Ficarra and save the elderly parents of the man he holds hostage. In a chase down to the wire, Jess risks her own life to stop Luigi. But will his last demand be fatal? Investigative Reporter Jess Kimball’s impossible mission to find her kidnapped son and get justice for crime victims returns in this new novel from New York Times and USA Today Bestselling Author Diane Capri.** ** (Fatal Demand is Expanded and Revised from the novella formerly titled Flight 12: A Jess Kimball Thriller) For fans of Greg Iles, Lisa Gardner, Karin Slaughter, Lee Child, Jack Reacher, John Grisham and the Women's Murder Club “Full of thrills and tension – but smart and human too.” — Lee Child, #1 World Wide Bestselling Author of Jack Reacher Thrillers “Expertise shines on every page.” -- Margaret Maron, Edgar, Anthony, Agatha and Macavity Award Winning MWA Past President \"Relentlessly determined to bring justice to an unjust world, Jess Kimball is like a female Jack Reacher, only nicer!\" -- Martha Powers, award winning author of Conspiracy of Silence and Death Angel Readers Love Jess Kimball and Clamor for More! “Smart, fast-paced, personal and, dare I say, thrilling. It's the kind of \"this could happen to me\" thrill that really chills me to the bone if I think about it too much. I could not put this book down until I found out if everything was going to turn out okay. Does it? Well you'll have to read it and see!” “Highly recommend-- kept me on the edge of my seat and I had a hard time putting it down-- Great characters and storyline-- can only hope Diane Capri will make a series out of Jess and Helen-- I do want more!” “This thought-provoking novel is populated with strong women and likeable men. Ms. Capri fully develops these characters while maintaining a tension-filled pace that will keep you turning pages well into the wee hours of the morning.” Start reading the Jess Kimball Thrillers and you'll be glued to the page. But lock the doors first. These books are nail biters!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781940768052"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1940768055"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.10.11.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bHu2AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bHu2AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=bHu2AwAAQBAJ&pg=PT6&dq=thriller&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=bHu2AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=bHu2AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=bHu2AwAAQBAJ&rdid=book-bHu2AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bHu2AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I&#39;m very excited to share this new Jess Kimball <b>Thriller</b> with you. Readers say Jess Kimball <b>Thrillers</b> are filled with “fast-paced, believable characters, taut action, and surprises all the way to the finish.” In all of these ways,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "haeSDwAAQBAJ",
+      "etag": "stiW9Q4IkU0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/haeSDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tom Ossington's Ghost (Horror Thriller)",
+        "authors": [
+          "Richard Marsh"
+        ],
+        "publisher": "e-artnow",
+        "publishedDate": "2018-12-21",
+        "description": "This eBook has been formatted to the highest digital standards and adjusted for readability on all devices. Madge and Ella are two young ladies who have taken up residence at Clover Cottage, the former home of Tom Ossington, a house that has long stood empty with a bad reputation for being haunted. Not believing in such things, Madge and Ella rented it and lived there for about six weeks, when a strange woman showed up claiming that the house belongs to her, and that her husband, the landlord, is a ghost.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788027248698"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8027248698"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 136,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=haeSDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=haeSDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=haeSDwAAQBAJ&pg=PT71&dq=thriller&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=haeSDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=haeSDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 42.24,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 42.24,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=haeSDwAAQBAJ&rdid=book-haeSDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 42240000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 42240000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tom_Ossington_s_Ghost_Horror_Thriller-sample-epub.acsm?id=haeSDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Tom_Ossington_s_Ghost_Horror_Thriller-sample-pdf.acsm?id=haeSDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=haeSDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Madge handed a sheet of paper to the gentleman addressed. As he looked at it Jack, too impatient to wait his turn, leaned over his elbow to look at it too. “My stars! &#39;Tom Ossington&#39;s Ghost!&#39; Large as life! Here&#39;s <b>thrillers</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dBezDwAAQBAJ",
+      "etag": "TY/rwGnOzAI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dBezDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Thriller Collection",
+        "subtitle": "An Anthology of Flash Fiction",
+        "authors": [
+          "Suzanne Maddox",
+          "Dawson Morley",
+          "Myra Rojas"
+        ],
+        "publisher": "Creative Brand Ventures, LLC",
+        "publishedDate": "2019-10-04",
+        "description": "An innocent scene hides a sinister history, good intentions turn to deadly consequences, reality is questioned where death is concerned, and the mind plays tricks in the throes of grief... If you crave a good thrill, a heart-pumping scare, or an oddity to pique your curiosity, you’ll find it within the pages of this anthology of flash fiction - in 1,000 words or less. As satisfying as a full-length thriller and packed within just a few minutes’ read, these stories will shift your paradigm, play tricks on your assumptions, and surprise you with some of the most bone-chilling twists you’ve ever read. At the same time, these carefully written stories will bring up some penetrating questions about life, love, and even revenge, and they will do so like a shot straight to the heart. Designed to deliver on impact in a very short amount of time, you will be surprised at how much intrigue, emotion, wisdom, and sentiment can be crafted into such short pieces of fiction. But don’t take our word for it. Open up this anthology and take a few minutes to experience one of these pieces for yourself, and soon you will not be able to stop until you’ve finally uncovered the mystery of an invisible bunny named Mergatroid. Exclusive stories include The Field, A Woman’s Instinct, The Diaries, Short Sell, and Mergatroid.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781950687107"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1950687104"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 74,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.7.8.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dBezDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dBezDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=dBezDwAAQBAJ&pg=PT34&dq=thriller&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=dBezDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=dBezDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 74.89,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 74.89,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=dBezDwAAQBAJ&rdid=book-dBezDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 74890000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 74890000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Thriller_Collection-sample-epub.acsm?id=dBezDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Thriller_Collection-sample-pdf.acsm?id=dBezDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dBezDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He had an image of a bookcase in the study filled with military <b>thrillers</b>. “I might try some Clancy.” “Whatever you&#39;re going to enjoy.” Sheila picked up the shopping bags and headed for the door. It took Ben a few minutes to put the&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "AXuwSgAACAAJ",
+      "etag": "fUqcOUlnwUQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AXuwSgAACAAJ",
+      "volumeInfo": {
+        "title": "Thriller",
+        "authors": [
+          "Michael Jackson"
+        ],
+        "publisher": "Alfred Publishing Company",
+        "publishedDate": "2006-08-01",
+        "description": "Alfred is pleased to expand the Classic Album Edition series to include Michael Jackson's Thriller. Released in 1982, Michael Jackson's Thriller is the best-selling album of all time (Billboard.com, August 2006). Seven of the album's nine tracks placed on the Billboard Top 10, including the huge hit songs \"Billie Jean,\" \"Beat It,\" and \"Thriller.\" This book provides the lyrics along with piano and chord arrangements for all of the songs on the record. Titles: Baby Be Mine * Beat It * Billie Jean * The Girl Is Mine * Human Nature * The Lady in My Life * P.Y.T. (Pretty Young Thing) * Thriller * Wanna Be Startin' Somethin'.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0739042572"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780739042571"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 52,
+        "printType": "BOOK",
+        "categories": [
+          "Music"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AXuwSgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AXuwSgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=AXuwSgAACAAJ&dq=thriller&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=AXuwSgAACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Thriller.html?hl=&id=AXuwSgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AXuwSgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "&quot; This book provides the lyrics along with piano and chord arrangements for all of the songs on the record."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W27TngEACAAJ",
+      "etag": "XVxPxReLpkI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W27TngEACAAJ",
+      "volumeInfo": {
+        "title": "Noah",
+        "authors": [
+          "Sebastian Fitzek"
+        ],
+        "publishedDate": "2013-12-20",
+        "description": "Er weiss nicht, wie er heisst. Er hat keine Ahnung, wo er herkommt. Er kann sich nicht erinnern, wie er nach Berlin kam, und seit wann er hier auf der Strasse lebt. Die Obdachlosen, mit denen er umherzieht, nennen ihn Noah, weil dieser Name tätowiert auf der Innenseite seiner Handfläche steht. Die Suche nach seiner Identität wird zu einem Alptraum, für Noah und die gesamte Menschheit. Ist er das wesentliche Element in einer Verschwörung, die das Leben aller Menschen auf dem Planeten gefährdet und schon zehntausende Opfer gefunden hat? Der grosse, kontroverse und apokalyptische Thriller von Bestsellerautor Sebastian Fitzek, inklusive Interview mit dem Autor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3785724829"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783785724828"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "Amnesiacs"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W27TngEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W27TngEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.ru/books?id=W27TngEACAAJ&dq=thriller&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=W27TngEACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Noah.html?hl=&id=W27TngEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W27TngEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Die Obdachlosen, mit denen er umherzieht, nennen ihn Noah: Dieser Name ist in seinen rechten Handballen tätowiert. Für Noah wird die Suche nach seiner Identität zu einem Alptraum."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8__MDQAAQBAJ",
+      "etag": "lgC5YCEdjYU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8__MDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Searching for Faith (A Carissa Jones Crime Thriller) A psychological thriller",
+        "authors": [
+          "K.L. Middleton",
+          "Kristen Middleton",
+          "Cassie Alexandra"
+        ],
+        "publisher": "Kristen Middleton",
+        "publishedDate": "2018-03-28",
+        "description": "SALE - SPECIAL PRICING WON'T LAST! A spine-tingling, edge-of-your-seat thriller by NY Times Bestselling Author, Kristen Middleton. Readers: \"What would you do if your mind was broken? Carissa is psychic and is seeing visions of a child in danger. She goes above and beyond what many people would do. Great book! I finished it in one day because I couldn't put it down.\" - Amazon reviewer \"I love mystery's and this was a great nail bitter . When children are involved it's hard to put down . There were twists and turns that I didn't see coming ! Great characters and good blot ! I'll be looking for more by Kristen Middleton!\" - Amazon reviewer A missing child. A gifted psychic. A serial killer who preys on the innocent. When a seven-year-old girl goes missing near Two Harbors, Minnesota, psychic Carissa Jones offers to help locate her. Desperate to find the child, and with no real leads, the local authorities agree to pull her into the case. This is book one in The Missing series. Each story will focus on Carissa Jones and her involvement in each case. keywords: crime thriller, psychological thriller, serial killer,child abduction cases, psychic sleuth, paranormal mystery, crime series, serial killer series, detective novels, abduction crime thriller, adventure, who-done-it mystery, Keywords: crime mystery, police procedural, female detective mystery, mysteries, thrillers, suspense thriller, cozy mysteries, Ponzi scheme, New York Times bestselling mystery series, Jennifer McMahon, Marc Cameron, Brad Thor, dementia, alzheimers, heist, kidnapping, blood diamonds, money laundering, forensic accountant, forensic accounting, fraud, white collar crime, crime, female sleuth, private investigators, cartels, wall street, financial thriller, international mystery thriller, suspense thriller, legal thriller, hard-boiled, suspense, new world order thriller, bilderberg, melissa f. miller, patricia mclinn, denise grover swank, veronica mars, rob thomas, conspiracy, mystery, cozy mysteries, the girl on the train, gone girl, cozy mystery books, cozy murder mysteries, cozies, private detective, women sleuths, boots, ebooks, vigilante justice, revenge, accounting, finance, gone girl, robert brynzda, jenny blackhurst, ann rule, daniel silva, iris johansen, david rosenfeldt, roger stelljes, dennis lehane, tanya anne crosby, Gillian Flynn, Colleen, Cross, Greg Iles, James Patterson, bookshots, tess gerritsen, joy fielding, sandra brown, girl on the train, paula hawkins, suspense, women's murder club, Michael Connelly, John Grisham, Karin Slaughter, Diane Capri, Lisa Jackson, David Baldacci, J A Jance, cj box, david baldacci, john sandford, stuart woods, jeffrey deaver, estelle ryan, michael palmer, joanne fluke, iris johansen, stig larson, stig larsson, jo nesbo, john lescroart, jessica knoll, brad thor, vince flynn, scott turow, louise penny, charlaine harris, patrica cornwell, Tess Gerritsen, Lisa Scottoline, Kathy Reichs, Lee Child, Harlan Coben, Aaron Patterson, Lisa Jackson, Heather Graham, Ryan Casey, Sean Black, sue grafton, kendra elliot, melinda leigh, nelson demille, michael wallace, john sandford, j d robb, nora roberts, david morell, mary higgins clark, lee child, charlaine harris, louise penny, scott turow, bestsellers, best sellers, finance, mystery books, auditing, money, legal thriller, crime thrillers, forensics, whistleblower, due diligence, hard-boiled, police procedural, suspense, traditional british, women sleuths, true crime, romantic suspense, cozy mystery, strong female leads, technological thriller, medical thriller, cj lyons, elizabeth george, mystery thriller, series, noir, hard-boiled, mysteries, action adventure, suspense books, crime books, thriller books, noir, traditional british, mysteries, thrillers, action, adventure, mysteries, thriller stories to keep you up all night, best mystery books, best mystery novels, mystery author, mystery series, mystery books, mystery novels, mystery novels 2014, sweet cozy mysteries, sweet cozy mystery, murder mystery, murder mysteries, best crime novels, crime fiction, crime thrillers, krimi, bestselling mystery books, fraud audit, whistle blower, whodunit, mystery, action adventure, avalanche, bestselling mysteries, bestselling thrillers, vancouver, british columbia, sunshine coast, cosy, cosies, best sellers, the lake house, 007, detective stories Keywords: mystery, mysteries, thrillers, cozy mysteries, Ponzi scheme, dementia, alzheimers, heist, kidnapping, blood diamonds, money laundering, forensic accountant, forensic accounting, fraud, white collar crime, crime, female sleuth, private investigators, cartels, wall street, financial thriller, international mystery thriller, new world order thriller, bilderberg, conspiracy, mystery, cozy mysteries, cozy mystery books, cozy murder mysteries, cozies, private detective, women sleuths, boots, ebooks, vigilante justice, revenge, accounting, finance, gone girl, Gillian Flynn, Colleen, cross, Greg Iles, James Patterson, joy fielding, sandra brown, girl on the train, paula hawkins, women's murder club, Michael Connelly, John Grisham, Karin Slaughter, Diane Capri, Lisa Jackson, David Baldacci, J A Jance, cj box, david baldacci, john sandford, stuart woods, jeffrey deaver, estelle ryan, michael palmer, joanne fluke, iris johansen, stig larson, stig larsson, jo nesbo, john lescroart, jessica knoll, brad thor, vince flynn, scott turow, louise penny, charlaine harris, patrica cornwell, Tess Gerritsen, Lisa Scottoline, Kathy Reichs, Lee Child, Harlan Coben, Aaron Patterson, Lisa Jackson, Heather Graham, Ryan Casey, Sean Black, sue grafton, kendra elliot, melinda leigh, nelson demille, michael wallace, john sandford, j d robb, nora roberts, david morell, mary higgins clark, lee child, charlaine harris, louise penny, scott turow, bestsellers, best sellers, finance, mystery books, auditing, money, legal thriller, crime thrillers, forensics, whistleblower, due diligence, hard-boiled, police procedural, suspense, traditional british, women sleuths, true crime, romantic suspense, cozy mystery, strong female leads, technological thriller, medical thriller, cj lyons, elizabeth george, mystery thriller, series, noir, hard-boiled, mysteries, action adventure, suspense books, crime books, thriller books, noir, traditional british, mysteries, thrillers, action, adventure, mysteries, thriller stories to keep you up all night, best mystery books, best mystery novels, mystery author, mystery series, mystery books, mystery novels, mystery novels 2014, sweet cozy mysteries, sweet cozy mystery, murder mystery, murder mysteries, best crime novels, crime fiction, crime thrillers, krimi, bestselling mystery books, fraud audit, whistle blower, whodunit, mystery, action adventure, avalanche, bestselling mysteries, bestselling thrillers, vancouver, british columbia, sunshine coast, cosy, cosies, best sellers, the lake house, 007, detective stories, legal thriller, ebook, kindle, online books, suspense novels, novel, crime books, crime thriller books, fiction books, courtroom drama authors, jenny blackhurst, ann rule crime thriller, new thrillers, 2017 thrillers, crime and thriller books, crime thriller novels, english readers, romantic thriller books, lawyer romance books, latest thrillers, audio books thrillers, thriller ebooks, kindle classic, classic thrillers, recent thrillers, british thriller books, books crime thrillers, financial thrillers, lawyer romance novels, legal romance novels, thriller books pdf, christian thrillers, latest crime thrillers, ebooks in french, pulp thriller, crime thriller, crime books, crime thriller books, crime mystery books, suspense novels, thriller stories, mysterious novels, top crime books, new crime thriller books, new thrillers, 2017 thrillers, murder mystery writers, latest crime thriller books, crime and thriller books, good crime thriller books, crime writers, crime thriller novels, crime thriller books best sellers, top crime thriller books, suspense thriller novels, thriller story books, mystery crime books, crime books fiction, fiction crime books, latest thrillers, crime drama books, thriller story books in english, good thriller books for young adults, good crime mystery books, mystery and crime books, new thrillers, crime thriller authors, british thriller books, mystery authors best sellers, detective story books, good mystery book series, best selling crime thriller books, good books mystery suspense, crime detective books, romantic thriller books, good mystery authors, crime thriller writers, detective thriller movies, new mystery fiction, thriller crime books, crime novelists, crime mystery novels, books crime thrillers, suspense books to read, new suspense novels, detective mystery novels, fiction mystery authors, thriller ebooks, good suspense novels, crime thriller book series, thriller crime, best selling suspense novels, books crime, most popular detective novels, good mystery crime books, great mystery authors, detective thriller, mystery detective novels, crime mystery thriller books, thriller bestsellers, most popular crime books, top crime mystery books, mystery fiction authors, great detective books, bestsellers thrillers, top crime authors, new crime thrillers, mystery crime stories, suspense fiction books, crime mystery authors, crime detective novels, mystery fiction stories, crime authors, crime mystery, classic thrillers, best detective thrillers, british crime thrillers, john grisham, john grisham new book release date, new john grisham book release date, ebook john grisham, john grisham pdf, john grisham ebooks, john grisham books pdf, john grisham epub, john grisham books download, john grisham books, free, freebie, bestseller, bestselling",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 206,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.14.13.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8__MDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8__MDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=8__MDQAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=8__MDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=8__MDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=8__MDQAAQBAJ&rdid=book-8__MDQAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8__MDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Desperate to find the child, and with no real leads, the local authorities agree to pull her into the case. This is book one in The Missing series."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "acZlAAAAMAAJ",
+      "etag": "Ci/efRal/Hk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/acZlAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Triumph of the Thriller",
+        "subtitle": "How Cops, Crooks, and Cannibals Captured Popular Fiction",
+        "authors": [
+          "Patrick Anderson"
+        ],
+        "publisher": "Random House Incorporated",
+        "publishedDate": "2007",
+        "description": "Examines how and why the action thriller has come to dominate the world's best-seller lists, tracing the history of the genre from Edgar Allan Poe to Ed McBain and Patricia Cornwell, and profiling the literary category's major authors.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015067667835"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 272,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=acZlAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=acZlAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=acZlAAAAMAAJ&q=thriller&dq=thriller&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=acZlAAAAMAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Triumph_of_the_Thriller.html?hl=&id=acZlAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=acZlAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Today , those blockbuster novelists have been replaced on the bestseller lists by the crime - related fiction we loosely call <b>thrillers</b> , which includes hard - core noir , in the Hammett - Chandler private - eye tradition , as well as a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "r7LaCgAAQBAJ",
+      "etag": "JUMvI1QndnQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/r7LaCgAAQBAJ",
+      "volumeInfo": {
+        "title": "Blowout : A totally gripping thriller full of shocking twists",
+        "subtitle": "A Katerina Carter Investigations Thriller",
+        "authors": [
+          "Colleen Cross"
+        ],
+        "publisher": "Slice Publishing Mystery and Thriller Books",
+        "publishedDate": "2021-12-24",
+        "description": "From #1 Bestseller Colleen Cross comes a twisty masterpiece of psychological suspense WHO CAN SHE TRUST? An ancient cult, deadly secrets, and no time to stop the killer. A crime thriller that will leave you breathless as you unlock the secrets and suspense. A Sinister Crime Lies Deep Underwater On private investigator Katerina Carters trip to a remote island aboard a luxurious yacht, she suspects the boats slick and charming owner is hiding a dark secret. With her cunning instinct for sniffing out malevolent cons, Kat tries to warn her friends that something is very wrong with their host and that his moneymaking scheme smells fishy. And why is she only one who thinks hes not being completely honest? While exploring the island, Kat and her friends research the rumors of a sinister cult, the Aquarian Foundation, and search for buried treasure. The cult swindled people out of their money and now the same situation is starting to eerily echo their present circumstances. That is if Kat can prove to the others that if something sounds too good to be true, it usually is. . . When Kats warnings fall on deaf ears, she uncovers a horrifying truth that will place those closest to her in mortal danger. Now its a race against the clock for Kat to expose a killer before he strikes again. \"Heart-pounding suspense!\" - Bestseller Express \"Fantastic blend of crime fiction and romantic suspense...\" - Suspense Review \"Like Origin and the Da Vinci Code? If Dan Brown wrote a sea adventure tautly plotted with arcane mystery and secret cults, this would be it!\" Thriller Bestsellers Blowout is an action-packed legal thriller and sea action adventure novel in the vein of Michael Connelly and John Grisham, teeming with greed, corruption, and conspiracy in the dark waters off the west coast. This stunning crime thriller suspense novel from crime author Colleen Cross will captivate you with psychological suspense, international intrigue and surprising plot twists in the great psychological thriller tradition of Paula Hawkins, Ruth Ware, Greg Iles, Lisa Scottoline and Rachel Caine. A cool female sleuth and private investigator who gets the job done at any cost. Fans of Dan Brown, J. D. Robb, and Heather Graham will love these mysteries. Also by Colleen Cross: Katerina Carter Psychological Legal Thriller Series (Crime and Legal Thrillers) Exit Strategy Game Theory Blowout Greenwash Red Handed Blue Moon Westwick Witches Cozy Mysteries series Witch You Well Rags to Witches Witch and Famous Christmas Witch List Nonfiction (Business and Investing) Anatomy of a Ponzi Scheme: Scams Past and Present These Keywords: legal thriller, ebook, kindle, online books, suspense novels, novel, crime books, crime thriller books, fiction books, courtroom drama authors, crime thriller, new thrillers, 2017 thrillers, crime and thriller books, crime thriller novels, english readers, romantic thriller books, lawyer romance books, latest thrillers, audio books thrillers, thriller ebooks, kindle classic, classic thrillers, recent thrillers, british thriller books, books crime thrillers, financial thrillers, lawyer romance novels, legal romance novels, thriller books pdf, christian thrillers, latest crime thrillers, ebooks in french, pulp thriller, crime thriller, crime books, crime thriller books, crime mystery books, suspense novels, thriller stories, mysterious novels, top crime books, new crime thriller books, new thrillers, 2017 thrillers, murder mystery writers, latest crime thriller books, crime and thriller books, good crime thriller books, crime writers, crime thriller novels, crime thriller books best sellers, top crime thriller books, suspense thriller novels, thriller story books, mystery crime books, crime books fiction, fiction crime books, latest thrillers, crime drama books, thriller story books in english, good thriller books for young adults, good crime mystery books, mystery and crime books, new thrillers, crime thriller authors, british thriller books, mystery authors best sellers, detective story books, good mystery book series, best selling crime thriller books, good books mystery suspense, crime detective books, romantic thriller books, good mystery authors, crime thriller writers, detective thriller movies, new mystery fiction, thriller crime books, crime novelists, crime mystery novels, books crime thrillers, suspense books to read, new suspense novels, detective mystery novels, fiction mystery authors, thriller ebooks, good suspense novels, crime thriller book series, thriller crime, best selling suspense novels, books crime, most popular detective novels, good mystery crime books, reat mystery authors, detective thriller, mystery detective novels, crime mystery thriller books, thriller bestsellers, most popular crime books, top crime mystery books, mystery fiction authors, great detective books, bestsellers thrillers, top crime authors, new crime thrillers, mystery crime stories, suspense fiction books, crime mystery authors, crime detective novels, mystery fiction stories, crime authors, crime mystery, classic thrillers, best detective thrillers, british crime thrillers, john grisham, john grisham new book release date, new john grisham book release date, ebook john grisham, john grisham pdf, john grisham ebooks, john grisham books pdf, john grisham epub, john grisham books download, john grisham books, mystery, mysteries, thriller, thrillers, suspense thriller, heist, kidnapping, blood diamonds, money laundering, forensic accounting, forensic accountant, fraud, white collar crime, crime, female sleuth, private investigators, cartels, wall street, financial thriller, legal thriller, suspense thriller, international mystery thriller, cozy mysteries, cozy murder mystery, cozy mystery books, cozy mystery, cozies, private detective, women sleuths, books, ebooks, vigilante justice, revenge, accounting, finance, auditing, money, legal thriller, crime thriller, forensics, gone girl, girl on the train, paula hawkins, women's murder club, James Patterson, John Grisham, joy fielding, sandra brown, girl on the train, Gillian Flynn, Michael Connelly, Karin Slaughter, Diane Capri, Liane Moriarty, Tess Gerritsen, Greg Iles, Lisa Scottoline, Kathy Reichs, Lee Child, Harlan Coben, Aaron Patterson, Lisa Jackson, Heather Graham, Ryan Casey, Sean Black, patricia cornwell, j a jance, robert brynza, daniel silva, iris johansen, david rosenfeldt, roger stelljes, dennis lehane, tanya anne crosby, john sandford, cj box, david baldacci, sue grafton, kendra elliot, melinda leigh, nelson demille, michael wallace, john sandford, stuart woods, jeffrey deaver, estelle ryan, michael palmer, joanne fluke, iris johansen, stig larson, stig larsson, jo nesbo, john lescroart, jessica knoll, brad thor, vince flynn, scott turow, louise penny, charlaine harris, best sellers, mystery thrillers, colleen, whistleblower, due diligence, hard-boiled, police procedural, suspense, traditional british, women sleuths, true crime, cozy mystery, romantic suspense, technological thriller, suspense, mystery thriller, series, noir, hard-boiled, thriller stories to keep you up all night, thrillers free books, mystery books, mystery and thriller ebooks, detective stories, murder mystery,sweet cozy mysteries, sweet cozy mystery, crime cartel, mysteries, action adventure, crime thriller, thriller books, noir, crime books, suspense books, mysteries, thrillers, best mystery books, best mystery novels, mystery author, mystery series, Canada, Canadian authors, Vancouver, Pacific Northwest, mystery books, mystery novels, mystery novels 2014, murder mystery, murder mysteries, best crime novels, crime fiction, cj lyons, crime thrillers, krimi, fraud investigation, fraud audit, whistleblower, conflict diamonds, whodunit, psychological thriller, adventure thriller, political thriller, psychological thriller, adventure thriller, political thriller, medical thriller, action adventure, mob, cartel, espionage, spy thriller, mafia, blood justice diamonds, bestselling mysteries, bestselling thrillers, buenos aires, vancouver, saskia noort, esther verhoef, cosy, cosies, best sellers, detective stories, 007 , historical mystery, catherine shepherd, steig larsson,best selling books, best sellers books, best seller Keywords: mystery, mysteries, thriller, thrillers, heist, kidnapping, blood diamonds, money laundering, forensic accounting, forensic accountant, fraud, white collar crime, crime, female sleuth, private investigators, cartels, wall street, financial thriller, international mystery thriller, cozy mysteries, cozy murder mystery, cozy mystery books, cozy mystery, cozies, private detective, women sleuths, books, ebooks, vigilante justice, revenge, accounting, finance, auditing, money, legal thriller, crime thriller, forensics, gone girl, girl on a train, paula hawkins, women's murder club, James Patterson, John Grisham, joy fielding, sandra brown, girl on the train, Gillian Flynn, Michael Connelly, Karin Slaughter, Diane Capri, Liane Moriarty, Tess Gerritsen, Greg Iles, Lisa Scottoline, Kathy Reichs, Lee Child, Harlan Coben, Aaron Patterson, Lisa Jackson, Heather Graham, Ryan Casey, Sean Black, patricia cornwell, j a jance, john sandford, cj box, david baldacci, sue grafton, kendra elliot, melinda leigh, nelson demille, michael wallace, john sandford, stuart woods, jeffrey deaver, estelle ryan, michael palmer, joanne fluke, iris johansen, stig larson, stig larsson, jo nesbo, john lescroart, jessica knoll, brad thor, vince flynn, scott turow, louise penny, charlaine harris, best sellers, mystery thrillers, colleen, whistleblower, due diligence, hard-boiled, police procedural, suspense, traditional british, women sleuths, true crime, cozy mystery, romantic suspense, technological thriller, mystery thriller, series, noir, hard-boiled, thriller stories to keep you up all night, thrillers free books, mystery books, mystery and thriller ebooks, detective stories, murder mystery,sweet cozy mysteries, sweet cozy mystery, crime cartel, mysteries, action adventure, crime thriller, thriller books, noir, crime books, suspense books, mysteries, thrillers, best mystery books, best mystery novels, mystery author, mystery series, Canada, Canadian authors, Vancouver, Pacific Northwest, mystery books, mystery novels, mystery novels 2014, murder mystery, murder mysteries, best crime novels, crime fiction, cj lyons, crime thrillers, krimi, fraud investigation, fraud audit, whistleblower, conflict diamonds, whodunit, psychological thriller, adventure thriller, political thriller, psychological thriller, adventure thriller, political thriller, medical thriller, action adventure, mob, cartel, espionage, spy thriller, mafia, blood justice diamonds, bestselling mysteries, bestselling thrillers, buenos aires, vancouver, saskia noort, esther verhoef, cosy, cosies, best sellers, detective stories, 007 , historical mystery, catherine shepherd, steig larsson,best selling books, best sellers books, best seller",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780994846235"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0994846231"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 250,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.8.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=r7LaCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=r7LaCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=r7LaCgAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=r7LaCgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=r7LaCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 760.59,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 760.59,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=r7LaCgAAQBAJ&rdid=book-r7LaCgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 760590000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 760590000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Blowout_A_totally_gripping_thriller_full-sample-epub.acsm?id=r7LaCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=r7LaCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Also by Colleen Cross: Katerina Carter Psychological Legal Thriller Series (Crime and Legal Thrillers) Exit Strategy Game Theory Blowout Greenwash Red Handed Blue Moon Westwick Witches Cozy Mysteries series Witch You Well Rags to Witches ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "h5SXxo2ijgwC",
+      "etag": "U57RfoqCVD8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/h5SXxo2ijgwC",
+      "volumeInfo": {
+        "title": "Avenger",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Frederick Forsyth"
+        ],
+        "publisher": "Macmillan",
+        "publishedDate": "2010-07-01",
+        "description": "Frederick Forsyth is back with Avenger! A heart-stopping thriller of murder, intrigue, deception, and revenge Attorney Calvin Dexter hangs his shingle in a quiet New Jersey town, has a reasonably successful practice, and takes the hills strong while triathlon training. But Dexter is no ordinary lawyer. On Sundays, he reads the paper and shuffles around his dark, empty house, trying to forget about a life he has lost forever. Until, of course, Dexter reads something in the papers that sends him the necessary signal. Until one of the handful who know of Dexter's other life tries to contact him. For in a world that has forgotten right and wrong, few can settle a score like Cal Dexter can. But the game is changing, and this time CIA agent Kevin McBride must find a way to stop Dexter before his quest for vengeance throws the world into chaos.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1429974001"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781429974004"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.5.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=h5SXxo2ijgwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=h5SXxo2ijgwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=h5SXxo2ijgwC&printsec=frontcover&dq=thriller&hl=&cd=13&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=h5SXxo2ijgwC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=h5SXxo2ijgwC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 790.3,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 711.27,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=h5SXxo2ijgwC&rdid=book-h5SXxo2ijgwC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 790300000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 711270000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Avenger-sample-epub.acsm?id=h5SXxo2ijgwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=h5SXxo2ijgwC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Frederick Forsyth is back with Avenger!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DuRWDAAAQBAJ",
+      "etag": "nFRSVbz7rqk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DuRWDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Winger",
+        "subtitle": "Thriller",
+        "authors": [
+          "Peter Schmidt"
+        ],
+        "publisher": "neobooks",
+        "publishedDate": "2013-09-30",
+        "description": "... und plötzlich sind sie einem Komplott auf der Spur, das die Republik in ihren Grundfesten erschüttern könnte! Winger – bekannt aus einem gleichnamigen WDR-Hörspiel und dem Thriller \"Trojanische Pferde\" – ist keiner von den heroischen Helden, wie etwa bei Raymond Chandler – wenn auch im Kern gar nicht so übel. Aber jemand, der auch mal seine Cleverness und Gerissenheit zum eigenen Vorteil einsetzt. Er bezieht Prügel und teilt selber welche aus. ––– PRESSESTIMMEN: http://autor-peter-schmidt-pressestimmen.blogspot.de/ ––– „Schicht für Schicht legt der mehrfache Krimipreisträger Schmidt die Grabestiefen politischer Un-Kultur frei. Mit Charme und raffinierter Vernetzung präsentiert er ein beängstigendes Tableau aktueller Zeitgeschichte (...) Das alles ist so spannend wie engagiert erzählt und in seiner sprachlichen Gestaltung ein großes Lesevergnügen ...“ (WAZ – Westdeutsche Allgemeine) ––– „Peter Schmidt, westfälischer Doyen des deutschen Kriminalromans, legt mit ‘Winger’ einen spannenden, politisch ‘brandaktuellen’ Thriller vor ... Die actionreiche Schnitzeljagd durch Hinterzimmer dubioser Etablissements, Redaktionsstuben rechtsgesinnter Tageszeitungen und abgelegener Waldhäuser mit Trainingscamp-Appeal offenbart schrittweise ein bundesdeutsches Komplott, das erst dieser Tage in Italien bittere Realität wurde. Schmidts Schreibe ist knapp und lakonisch, erspart sich jeden Kommentar und läßt das Geschilderte gerade dadurch furchterregend real erscheinen.“ (Marabo) ––– „Das Thema ist auch wirklich bestechend: Rechtslastige Politiker wollen mit Hilfe von Geheimdienst, Verlagen und korrupten Kriminalbeamten die Macht an sich reißen. Schmidts Buch ist keines von den Machwerken, die politische Fiktion nett verpacken. Das Schauerliche daran ist die Nähe zur Realität. Schmidt zeigt, wie’s klappen könnte.“ (Münchener Merkur) ––– „Schmidt hatte aktuelle Erscheinungen schon in „Schafspelz“ und in „Die andere Schwester“ aufgegriffen, in „Winger“ ist er mit Rechtsruck, DDR-Hinterlassenschaften, Ausländerhass usw. der tatsächlichen Entwicklung (noch) einen Schritt voraus.“ (Einkaufszentrale für öffentliche Bibliotheken) ––– „Ein Buch, das man nicht aus der Hand legen kann.“ (Neue Osnabrücker Zeitung) ––– AUTORENINFO: http://autoren-info-peter-schmidt.blogspot.de/",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783847655589"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3847655582"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 217,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DuRWDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DuRWDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.ru/books?id=DuRWDAAAQBAJ&dq=thriller&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=DuRWDAAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Winger.html?hl=&id=DuRWDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DuRWDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Winger – bekannt aus einem gleichnamigen WDR-Hörspiel und dem Thriller &quot;Trojanische Pferde&quot; – ist keiner von den heroischen Helden, wie etwa bei Raymond Chandler – wenn auch im Kern gar nicht so übel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4h3dDQAAQBAJ",
+      "etag": "x8lJZw5c0ls",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4h3dDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Thriller Novels",
+        "subtitle": "Population Zero (thriller novels, thriller, thriller novels free, thriller free books, thriller books free, thriller free) [thriller novels]",
+        "authors": [
+          "I.G. Harding"
+        ],
+        "publisher": "thriller novels",
+        "publishedDate": "2017-01-09",
+        "description": "Hear What the Critics are Saying \"Wow, what an amazing and Entertaining Book; great cast of characters, very good story with a lot of eerie twists and turns. Population Zero is by far one of the best zombie books to have come out in a long time.\" -Mary Jones – Valley Daily News “A must read in the horror genre. Population Zero is a book that will leave you begging for more; Five Stars All The Way.” -Judy B. Cohen – Elite Media Group “Deliciously entertaining and very fun read. I bought it for a friend as a gift and she loved it as well. It’s by far one of the finest zombie apocalypse books to have come out in the last decade. Highly Recommend This Book.” -Dave Baker – Book Bloggers of America “Very interesting story. I highly recommend this book to any zombie lover out there. Can’t Go Wrong.” -Carl Mosner – Readers Cove Unlimited “Population Zero is an extremely well developed post-apocalyptic zombie tale. I really had a lot of fun reading this story. If you’re looking for a phenomenal zombie book, then look no further than this one. Ten Thumbs Up.” -Debra Eisner – Literary Times Inc. “My favorite zombie book this year; so far I have read more than eight. Once I started reading, I simply couldn’t put it down. Great Read.” -Emma Righter – Writers United Group “This story reminded me why I fell in love with reading zombie books in the first place; thank you Mr. Harding for making such an amazing and fun book. Keep up with the great story telling. Awesome Book!” -Lee Ratner – Daily Media Trends, Inc. Editorial Review Population Zero is an amazing book and a really interesting read. By the end of the book, you will feel like you have gone on an emotional rollercoaster which is not only fun, but also frightening. This zombie book is definitely one of a kind in the horror genre. If you are looking for a book that will leave you biting your nails at the edge of your seat, then look no further than Population Zero. This book is chock-full of amazing characters and terrifying zombies. Five Stars! Jim S. Stein About the Book When a scientist unleashes the deadliest virus the world has ever seen, a small group must band together to survive the zombie apocalypse; their tale is one of redemption, joy and tears. Come and join us in the town of Steel Valley. A world filled with chaos, where even the dead don’t know their rightful place. (thriller novels, thriller, thriller novels free, thriller free books, thriller books free, thriller free) [thriller novels]",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=4h3dDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=4h3dDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=4h3dDQAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=4h3dDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=4h3dDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 525.9,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 473.31,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=4h3dDQAAQBAJ&rdid=book-4h3dDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 525900000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 473310000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4h3dDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Highly Recommend This Book.” -Dave Baker – Book Bloggers of America “Very interesting story. I highly recommend this book to any zombie lover out there."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "CJIVEAAAQBAJ",
+      "etag": "ZVAB4jwzi9I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/CJIVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Clean Kill",
+        "authors": [
+          "Adam Nicholls"
+        ],
+        "publisher": "Papyrus Publishing",
+        "publishedDate": "2021-01-28",
+        "description": "Lies run thicker than blood. When Blake Salinger went to work that day, everything seemed normal. His life was structured and routine. All he wanted was a little excitement—he just never expected to be arrested for his own father’s murder. Caught between the lies of corrupt cops and a silver-haired stranger, Blake flees across Los Angeles to learn the truth of his father’s mysterious past. The deeper he goes, the bigger the lies become. The only certain thing is that he can’t run forever. The secrets come thick and fast in a new relentless thriller novel. Full of lies and conspiracies, this rocket-paced ride follows a man pitted against his own family, the LAPD and a corrupt government agency. Clean Kill was previously published as Keeping with Killers and has since undergone developmental edits to bring the reader an enhanced experience. This novel is the first instalment of a three-part story, followed by Dead Ties and Last Hunt.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=CJIVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=CJIVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=CJIVEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=16&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=CJIVEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=CJIVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 0,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=CJIVEAAAQBAJ&rdid=book-CJIVEAAAQBAJ&rdot=1&source=gbs_api"
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=CJIVEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Enjoy this vigilante spy series by bestselling crime thriller author Adam Nicholls… Lies run thicker than blood."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "UWN5DwAAQBAJ",
+      "etag": "5mUt0G+nuM0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/UWN5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Deceive Me",
+        "subtitle": "The addictive psychological thriller with the most breathtaking ending of 2020!",
+        "authors": [
+          "Karen Cole"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2019-07-01",
+        "description": "YOUR DAUGHTER IS MISSING. HOW FAR WOULD YOU GO TO FIND HER? 'The ending was nothing short of brilliant!' Amazon reviewer 'An ending that left me gasping' Amazon reviewer 'An explosive ending' Amazon reviewer 'The end left me with my jaw on the floor' Amazon reviewer ********** When Jo's teenage daughter goes missing, she feels like the world is collapsing around her. The police believe Grace is just an angry teenager, punishing her parents by hiding out at a friend's house, but Jo is terrified that her daughter is in grave danger. With so little urgency from the police, Jo decides to take matters into her own hands. But, as Jo gets closer to discovering what has happened to her daughter, a devastating secret is uncovered that threatens to destroy the family she has been trying so very hard to protect... ********** An addictive psychological thriller, perfect for fans of Rachel Abbott's And So It Begins, Claire McGowan's What You Did and Erin Kinsley's Found.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781787476585"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1787476588"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 400,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=UWN5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=UWN5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=UWN5DwAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=17&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=UWN5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=UWN5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 231.52,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 231.52,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=UWN5DwAAQBAJ&rdid=book-UWN5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 231520000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 231520000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Deceive_Me-sample-epub.acsm?id=UWN5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=UWN5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "YOUR DAUGHTER IS MISSING."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yZQXEAAAQBAJ",
+      "etag": "RI6Sp4UxEhk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yZQXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "In Her Shadow",
+        "authors": [
+          "Adam Nicholls",
+          "Jay Nadal"
+        ],
+        "publisher": "Papyrus Publishing",
+        "publishedDate": "2021-02-11",
+        "description": "A crime she didn’t commit. A lie she couldn’t prove. When Erin is arrested for attacking her boyfriend, it’s the biggest shock of her life. While witnesses and evidence stack up against her, it seems impossible to prove her innocence, and that leaves only one explanation: somebody has framed her. Following the official statement from Erin’s arrest, In Her Shadow unravels the truth behind the events of the night that changed her life, in a nail-biting psychological thriller that will have you second guessing until the very end.",
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 290,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.3.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yZQXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yZQXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=yZQXEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=18&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=yZQXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yZQXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 376.38,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 376.38,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=yZQXEAAAQBAJ&rdid=book-yZQXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 376380000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 376380000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yZQXEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Enjoy this psychological vigilante thriller by bestselling author Adam Nicholls… A crime she didn’t commit."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q3Z8AwAAQBAJ",
+      "etag": "wnCwlhq/ATI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q3Z8AwAAQBAJ",
+      "volumeInfo": {
+        "title": "How To Write a Chiller Thriller",
+        "authors": [
+          "Sally Spedding"
+        ],
+        "publisher": "John Hunt Publishing",
+        "publishedDate": "2014-04-25",
+        "description": "Have you dreamt of becoming a thriller writer but not dared to do so because of lack of self-belief, or the necessary time, or both? Are you also a thriller reader who has been disappointed by the sameness and lack of ambition in what you've read? If so, this book will help you create chiller thrillers with a difference, with memorable characters and truly chilling plots, drawing not only from the past and present, but the future too. From horror and the paranormal, to equally disturbing scientific and hi-tech developments. Bravery is the key. So, come on board!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781782791737"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1782791736"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Language Arts & Disciplines"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q3Z8AwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q3Z8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=q3Z8AwAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=19&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q3Z8AwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q3Z8AwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 464.54,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 464.54,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q3Z8AwAAQBAJ&rdid=book-q3Z8AwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 464540000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 464540000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/How_To_Write_a_Chiller_Thriller-sample-epub.acsm?id=q3Z8AwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q3Z8AwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "If so, this book will help you create chiller thrillers with a difference, with memorable characters and truly chilling plots, drawing not only from the past and present, but the future too."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eJctEAAAQBAJ",
+      "etag": "DtwKBROEAXI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eJctEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Rogue Force (A Troy Stark Thriller—Book #1)",
+        "authors": [
+          "Jack Mars"
+        ],
+        "publisher": "Jack Mars",
+        "publishedDate": "2022-05-11",
+        "description": "“Thriller writing at its best. Thriller enthusiasts who relish the precise execution of an international thriller, but who seek the psychological depth and believability of a protagonist who simultaneously fields professional and personal life challenges, will find this a gripping story that's hard to put down.” --Midwest Book Review, Diane Donovan (regarding Any Means Necessary) “One of the best thrillers I have read this year. The plot is intelligent and will keep you hooked from the beginning. The author did a superb job creating a set of characters who are fully developed and very much enjoyable. I can hardly wait for the sequel.” --Books and Movie Reviews, Roberto Mattos (re Any Means Necessary) From #1 bestselling and USA Today bestselling author Jack Mars, author of the critically-acclaimed Luke Stone and Agent Zero series (with over 5,000 five-star reviews), comes an explosive new, action-packed thriller series that takes readers on a wild-ride across Europe, America, and the world. When elite Navy Seal Troy Stark is forced into retirement for his dubious respect for authority, he dreads the quiet life awaiting him with his brothers and buddies in Yonkers, New York. But the quiet doesn’t last long: the NYPD needs Troy’s military expertise to help find and stop a major terrorist threat to New York City. To pre-empt the attack, they need him to fly to Europe and stop it at its source—using any means necessary. Troy finds himself partnered with an Interpol agent who is as different from him as can be, and their instant dislike is mutual. But they have an attack to stop, and only a few days to do it, and together they’ll need each other as they criss-cross Europe in a high-octane cat-and-mouse chase to shut these terrorists down. But what starts off as a straightforward mission (and an opportunity to clear his name) soon catapults Troy headfirst into a global conspiracy. These criminals are more sophisticated than they appear, and even with Troy’s unparalleled military skills, he and his team find themselves constantly one stop behind. With the fate of New York City on the line, the stakes couldn’t be higher. Where will they strike? And when? And can Troy stop it before it’s too late? An unputdownable action thriller with heart-pounding suspense and unforeseen twists, ROGUE FORCE is the debut novel in an exhilarating new series by a #1 bestselling author that will have you fall in love with a brand new action hero—and turn pages late into the night. Books #2 and #3 in the series—ROGUE COMMAND and ROGUE TARGET—are now also available.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094390734"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1094390739"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eJctEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eJctEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=eJctEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=eJctEAAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rogue_Force_A_Troy_Stark_Thriller_Book_1.html?hl=&id=eJctEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eJctEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Thriller enthusiasts who relish the precise execution of an international thriller, but who seek the psychological depth and believability of a protagonist who simultaneously fields professional and personal life challenges, will find this ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1C8XDQAAQBAJ",
+      "etag": "l0GDQUnEJhE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1C8XDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Дом на Холодном холме",
+        "authors": [
+          "Питер Джеймс"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2021-12-29",
+        "description": "Когда Олли и Каро Хэркурт увидели дом своей мечты – огромный красивый особняк в георгианском стиле, – они не смогли устоять перед его очарованием. И, хотя дом был старым и очень запущенным, супруги купили его, потратив все свои средства. Однако в первый же день приезда Олли, Каро и их двенадцатилетней дочери Джейд стало ясно, что в особняке обитает кто-то еще. С ними стали происходить странные пугающие истории, казалось, кто-то настроен против семьи. Вскоре Олли и Каро узнают ужасное прошлое дома на Холодном холме и понимают, что им всем грозит страшная опасность...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040235193"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040235194"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1C8XDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1C8XDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=1C8XDQAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=21&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=1C8XDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=1C8XDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 355.35,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 319.82,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=1C8XDQAAQBAJ&rdid=book-1C8XDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 355350000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 319820000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC_%D1%85%D0%BE%D0%BB%D0%BC%D0%B5-sample-epub.acsm?id=1C8XDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%BE%D0%BC_%D0%BD%D0%B0_%D0%A5%D0%BE%D0%BB%D0%BE%D0%B4%D0%BD%D0%BE%D0%BC_%D1%85%D0%BE%D0%BB%D0%BC%D0%B5-sample-pdf.acsm?id=1C8XDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1C8XDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Когда Олли и Каро Хэркурт увидели дом своей мечты – огромный красивый особняк в георгианском стиле, – они не смогли устоять перед ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_fDjCQAAQBAJ",
+      "etag": "w6frIvcjMyM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_fDjCQAAQBAJ",
+      "volumeInfo": {
+        "title": "The Laughing Buddha",
+        "subtitle": "An Original Short Story",
+        "authors": [
+          "M. J. Rose",
+          "Lisa Gardner"
+        ],
+        "publisher": "Hachette UK",
+        "publishedDate": "2015-07-07",
+        "description": "Lisa Gardner and M.J. Rose - along with their popular characters D.D. Warren and Malachai Samuels - team up for the first time ever in this original short story from the New York Times bestselling anthology Face Off. Sergeant detective D.D. Warren gets called to a murder scene in Boston's colourful Chinatown neighbourhood. An antiques dealer specializing in ancient Chinese artefacts - ceramics, jade, and stone carvings - is dead from a single gunshot wound. Although he appeared to have no known enemies, Mr. John Wen did have a business card clutched in his cold, dead hand. A card bearing the name Malachai Samuels. A Jungian therapist specializing in past lives and regression therapy, Samuels has also been named a 'person of interest' in recent criminal cases involving stolen artefacts. And there is an eight-inch, solid jade Buddha statue missing from Wen's office. D.D. Warren will have to pay Malachai Samuels a visit - the question is, is he the killer, or can he simply help her find out who is? For more exciting short story pairings, don't miss all eleven short stories in Face Off!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780751563504"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0751563501"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 32,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_fDjCQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_fDjCQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=_fDjCQAAQBAJ&pg=PT25&dq=thriller&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=_fDjCQAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Laughing_Buddha.html?hl=&id=_fDjCQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/The_Laughing_Buddha-sample-epub.acsm?id=_fDjCQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_fDjCQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This story was originally in the anthology Face Off. Editor David Baldacci explains how this came about: In 2004 two accomplished <b>thriller</b> writers harbored a dream. Their names: Gayle Lynds and David Morrell."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OGwhDAAAQBAJ",
+      "etag": "GGmOXB+lULk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OGwhDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Blackout",
+        "subtitle": "The addictive international bestselling disaster thriller",
+        "authors": [
+          "Marc Elsberg"
+        ],
+        "publisher": "Random House",
+        "publishedDate": "2016-12-15",
+        "description": "'Fast, tense, thrilling - and timely: this will happen one day. Highly recommended' LEE CHILD 'A dazzling debut' Marcel Berlins, The Times THE TIMES THRILLER OF THE MONTH THE GLOBAL MILLION-COPY BESTSELLER *************************************** Tomorrow will be too late. A cold night in Milan, Piero Manzano wants to get home. Then the traffic lights fail. Manzano is thrown from his Alfa as cars pile up. And not just on this street – every light in the city is dead. Across Europe, controllers watch in disbelief as electricity grids collapse. Plunged into darkness, people are freezing. Food and water supplies dry up. The death toll soars. Former hacker and activist Manzano becomes a prime suspect. But he is also the only man capable of finding the real attackers. Can he bring down a major terrorist network before it’s too late? ************************ 'Part Dan Brown–style chase and part eco-thriller, this debut—a bestseller in Germany—will get people talking' — Booklist US",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473541399"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473541395"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.6.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OGwhDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OGwhDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OGwhDAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=OGwhDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=OGwhDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1039.64,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 935.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=OGwhDAAAQBAJ&rdid=book-OGwhDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1039640000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 935680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Blackout-sample-epub.acsm?id=OGwhDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OGwhDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Highly recommended&#39; LEE CHILD &#39;A dazzling debut&#39; Marcel Berlins, The Times THE TIMES THRILLER OF THE MONTH THE GLOBAL MILLION-COPY BESTSELLER *************************************** Tomorrow will be too late."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TPlZvgEACAAJ",
+      "etag": "6el2+BrmuoA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TPlZvgEACAAJ",
+      "volumeInfo": {
+        "title": "Suspense Thriller",
+        "subtitle": "How to Write Chase, Spy, Legal, Medical, Psychological, Political & Techno-Thrillers",
+        "authors": [
+          "Paul Tomlinson"
+        ],
+        "publisher": "Independently Published",
+        "publishedDate": "2018-07-26",
+        "description": "Your in-depth guide to writing edge-of-the-seat suspense The Thriller is one of the top-selling genres for books and it",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1717768717"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781717768711"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 440,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TPlZvgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TPlZvgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=TPlZvgEACAAJ&dq=thriller&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=TPlZvgEACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Suspense_Thriller.html?hl=&id=TPlZvgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TPlZvgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Your in-depth guide to writing edge-of-the-seat suspense The Thriller is one of the top-selling genres for books and it&#39;s in the top five for movies. This is the genre of assassinations, Watergate-like conspiracies, and terrorist plots."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ZOObDwAAQBAJ",
+      "etag": "nWztoE2OOpQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ZOObDwAAQBAJ",
+      "volumeInfo": {
+        "title": "X Ways to Die",
+        "authors": [
+          "Stefan Ahnhem"
+        ],
+        "publisher": "Head of Zeus Ltd",
+        "publishedDate": "2020-05-07",
+        "description": "A murderous game. The killer makes the rules. Death hangs on the roll of the dice. In murder investigations, it pays to keep things simple: motive, method, opportunity. But the case in front of Detective Fabian Risk is a nightmare. A killer who strikes out of nowhere. No apparent motive. No consistent method. Victims are tortured, strangled, burned, dismembered – each grisly killing carried out with savage precision, as if following the rules of a hellish game. Fear and chaos have spread through the seaside town of Helsingborg. While Fabian Risk hunts the killer, his life is falling apart: a son on the run from the law; a daughter gravely injured; a colleague with dark secrets of his own. But there's no turning back now. The game of death is on, and Fabian Risk must play to win. AFTER ALL, THERE ARE MANY WAYS TO DIE... This explosive thriller from Scandinavia's most inventive storyteller concludes the epic events of Motive X. REVIEWS FOR STEFAN AHNHEM: 'Atmospheric and complicated... with great cop characters and some imaginatively grisly perps' Sunday Times (star pick). 'More gripping than Jo Nesbo, blacker than Stieg Larsson and more bleakly human than Henning Mankell' Tony Parsons. 'Epic in scale and ambition' Daily Mail. 'An intense journey, with an intricate plot ... Ahnhem has mastered atmosphere, pacing and intrigue' Crime Review. 'Masterly plotting, grisly murders and chilling suspense: Stefan Ahnhem keeps the threads of this complex, two-country narrative pulled tense' Better Reading.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786694638"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786694638"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 544,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ZOObDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ZOObDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ZOObDwAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=25&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=ZOObDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZOObDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 657.4,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 657.4,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=ZOObDwAAQBAJ&rdid=book-ZOObDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 657400000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 657400000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/X_Ways_to_Die-sample-epub.acsm?id=ZOObDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/X_Ways_to_Die-sample-pdf.acsm?id=ZOObDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ZOObDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A killer who strikes out of nowhere. No apparent motive. No consistent method. Victims are tortured, strangled, burned, dismembered – each grisly killing carried out with savage precision, as if following the rules of a hellish game."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TzVbEAAAQBAJ",
+      "etag": "qmNny95v1Jo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TzVbEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Use of Force",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Brad Thor"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2022-02-22",
+        "description": "After the body of a high-value terrorism suspect washes ashore on the coast of Italy, covert counterterrorism operative Scot Horvath must stop an ISIS-led plot to destroy the Vatican in this pulse-pounding thriller by #1 \"New York Times\"-bestselling author Thor. Tall Premium Edition.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982148546"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982148543"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TzVbEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TzVbEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=TzVbEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=TzVbEAAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Use_of_Force.html?hl=&id=TzVbEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TzVbEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "After the body of a high-value terrorism suspect washes ashore on the coast of Italy, covert counterterrorism operative Scot Horvath must stop an ISIS-led plot to destroy the Vatican in this pulse-pounding thriller by #1 &quot;New York Times&quot; ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Vg1nCgAAQBAJ",
+      "etag": "Y2PZ1CU2MF4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Vg1nCgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Black Angel",
+        "subtitle": "A Charlie Parker Thriller",
+        "authors": [
+          "John Connolly"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2015-08-25",
+        "description": "Assisting a friend in a search for a kidnapped woman, detective Charlie Parker links the abduction to a church of bones in Eastern Europe, a 1944 slaughter at a French monastery, and the myth of an object known as the Black Angel.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501115837"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501115839"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 528,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 13,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Vg1nCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Vg1nCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Vg1nCgAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Vg1nCgAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Black_Angel.html?hl=&id=Vg1nCgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Vg1nCgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Assisting a friend in a search for a kidnapped woman, detective Charlie Parker links the abduction to a church of bones in Eastern Europe, a 1944 slaughter at a French monastery, and the myth of an object known as the Black Angel."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cDCSkN6aQwQC",
+      "etag": "4+hQDKYvPVg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cDCSkN6aQwQC",
+      "volumeInfo": {
+        "title": "Hit and Run",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Casey Moreton"
+        ],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2007-11-27",
+        "description": "This gripping page-turner by the author of \"The Greater Good\" reveals the underside of politics and examines the lengths a parent will go to save his child, as an ordinary man is pitted against the rich and powerful in a deadly struggle to save his son.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780743456609"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0743456602"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 438,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=cDCSkN6aQwQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=cDCSkN6aQwQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=cDCSkN6aQwQC&printsec=frontcover&dq=thriller&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=cDCSkN6aQwQC&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hit_and_Run.html?hl=&id=cDCSkN6aQwQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cDCSkN6aQwQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A political thriller by the author of The Greater Good pits financially disadvantaged Oklahoma father Allan Adler against some of the nation&#39;s most influential power brokers when his Harvard junior son is framed by his one-time best friend ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7rLfDwAAQBAJ",
+      "etag": "hmVaR1wZd1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7rLfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Zero Zero (An Agent Zero Spy Thriller—Book #11)",
+        "authors": [
+          "Jack Mars"
+        ],
+        "publisher": "Jack Mars",
+        "publishedDate": "2021-03-02",
+        "description": "“You will not sleep until you are finished with AGENT ZERO. A superb job creating a set of characters who are fully developed and very much enjoyable. The description of the action scenes transport us into a reality that is almost like sitting in a movie theater with surround sound and 3D (it would make an incredible Hollywood movie). I can hardly wait for the sequel.” --Roberto Mattos, Books and Movie Reviews ZERO ZERO is book #11 in the #1 bestselling AGENT ZERO series, which begins with AGENT ZERO (Book #1), a free download with nearly 300 five-star reviews. When Agent Zero visits his doctor in Switzerland, hoping to salvage his deteriorating health, he is met with a shocking surprise: another agent who has been given a memory implant, just like him. And, just like him, this agent has deadly skills—and a singular mission: to kill Agent Zero. Agent Zero has met his doppleganger, a darker version of himself. Who is he? Who does he work for? Who chipped him? What secrets does he hold about Zero’s past? And why does he want Zero dead? ZERO ZERO (Book #11) is an un-putdownable espionage thriller that will keep you turning pages late into the night. Book #12--THE SERIES FINALE--is also available! “Thriller writing at its best.” --Midwest Book Review (re Any Means Necessary) “One of the best thrillers I have read this year.” --Books and Movie Reviews (re Any Means Necessary) Also available is Jack Mars’ #1 bestselling LUKE STONE THRILLER series (7 books), which begins with Any Means Necessary (Book #1), a free download with over 800 five star reviews!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094371450"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1094371459"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.5.5.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7rLfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7rLfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=7rLfDwAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=29&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7rLfDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7rLfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 618.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7rLfDwAAQBAJ&rdid=book-7rLfDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 618680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7rLfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Book #12--THE SERIES FINALE--is also available! “Thriller writing at its best.” --Midwest Book Review (re Any Means Necessary) “One of the best thrillers I have read this year.” --Books and Movie Reviews (re Any Means Necessary) ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OD4ErgEACAAJ",
+      "etag": "86N0CxoCbfM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OD4ErgEACAAJ",
+      "volumeInfo": {
+        "title": "Kolobok",
+        "subtitle": "A Doodle Thriller",
+        "authors": [
+          "Andrey Ustinov"
+        ],
+        "publisher": "CreateSpace",
+        "publishedDate": "2013-07-12",
+        "description": "A unique Artist's Book for curious children and adults from 9 to 99 years of age.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "149098304X"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781490983042"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 50,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OD4ErgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OD4ErgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=OD4ErgEACAAJ&dq=thriller&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=OD4ErgEACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kolobok.html?hl=&id=OD4ErgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OD4ErgEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A unique Artist&#39;s Book for curious children and adults from 9 to 99 years of age."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rHcinwEACAAJ",
+      "etag": "LOiksiHTXfA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rHcinwEACAAJ",
+      "volumeInfo": {
+        "title": "Moving Day",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Jonathan Stone"
+        ],
+        "publisher": "Thomas & Mercer",
+        "publishedDate": "2014",
+        "description": "When Stanley Peke and his wife become victims of a moving day scam, it reminds him of his time evading the Nazis in the Polish countryside, and soon he and his wife embark on a cross-country trip to track the criminals down.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1477818243"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781477818244"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 284,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rHcinwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rHcinwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=rHcinwEACAAJ&dq=thriller&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=rHcinwEACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moving_Day.html?hl=&id=rHcinwEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rHcinwEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When Stanley Peke and his wife become victims of a moving day scam, it reminds him of his time evading the Nazis in the Polish countryside, and soon he and his wife embark on a cross-country trip to track the criminals down."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uiW7DQAAQBAJ",
+      "etag": "TfmA7MScyt4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uiW7DQAAQBAJ",
+      "volumeInfo": {
+        "title": "Remnants",
+        "subtitle": "A gripping and heart-pounding serial killer thriller",
+        "authors": [
+          "Carolyn Arnold"
+        ],
+        "publisher": "Hibbert & Stiles Publishing Inc.",
+        "publishedDate": "2017-04-11",
+        "description": "He wrenches at the chains on his wrists and ankles—to no avail. Tears stream down his cheeks as his captor comes at him all dressed in black, chanting and mumbling incoherently, a large knife in his hands… When multiple body parts are recovered from the Little Ogeechee River in Savannah, Georgia, local law enforcement calls in the FBI. Special Agent Brandon Fisher and his team with the Behavioral Analysis Unit set out to investigate, but with the remains pointing to three separate victims, this isn’t going to be an open-and-shut case. With no quick means of identifying the deceased, building a profile of this serial killer is more challenging than usual. Why are these victims being selected? Where are they are targeted? Why are their limbs being severed and their bodies mutilated? The questions compound as the body count continues to rise, and when a torso painted blue and missing its heart is found, the case takes an even darker turn. The FBI will need to convince the Deep South to give up her secrets if they’re going to catch the killer. After all, one thing is clear: the killing isn’t going to stop until they figure it all out. And they are running out of time… Remnants is “a gritty nightmare of a tale that will churn the stomachs of even the most hard-boiled of FBI agents…” (Tome Tender Book Blog). Buy this heart-pounding thriller today and hunt a serial killer alongside the FBI! Perfect for fans of Catherine Coulter, JT Ellison, and Patricia Cornwell. Readers love Remnants: “WOW!! And again wow. I thoroughly enjoyed this gritty, psychological, twisted thriller.” ⭐⭐⭐⭐⭐ “The perfect thriller to keep you up at night…” ⭐⭐⭐⭐⭐ “The plot has that gripping intensity to it.” ⭐⭐⭐⭐⭐ “Enthralling from beginning to end.” ⭐⭐⭐⭐⭐ “Gripping & intriguing.” ⭐⭐⭐⭐⭐ “A thrilling book, full of twists and turns.” ⭐⭐⭐⭐⭐ “This book is gritty, sometimes almost gross, with plot twists that will keep you guessing for hours.” ⭐⭐⭐⭐⭐ “This book was fast paced from page one. It had me sucked in, and I hated putting it down.” ⭐⭐⭐⭐⭐ “All the details in this story are amazingly accurate.” ⭐⭐⭐⭐⭐ “It’s twisted, mind-reeling, and captivating!” ⭐⭐⭐⭐⭐ “Arnold makes the reader feel like part of the team.”⭐⭐⭐⭐⭐",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781988353494"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1988353491"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 275,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.29.29.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uiW7DQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uiW7DQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=uiW7DQAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=32&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uiW7DQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uiW7DQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 433.22,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 433.22,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uiW7DQAAQBAJ&rdid=book-uiW7DQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 433220000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 433220000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Remnants-sample-epub.acsm?id=uiW7DQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Remnants-sample-pdf.acsm?id=uiW7DQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uiW7DQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Buy this heart-pounding thriller today and hunt a serial killer alongside the FBI! Perfect for fans of Catherine Coulter, JT Ellison, and Patricia Cornwell. Readers love Remnants: “WOW!! And again wow."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "svZVEAAAQBAJ",
+      "etag": "XH4B/FvyIGo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/svZVEAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Complete Agent Zero Spy Thriller Bundle (Books 1-12)",
+        "authors": [
+          "Jack Mars"
+        ],
+        "publisher": "Jack Mars",
+        "publishedDate": "2021-12-22",
+        "description": "“You will not sleep until you are finished with AGENT ZERO. The author did a superb job creating a set of characters who are fully developed and very much enjoyable. The description of the action scenes transport us into a reality that is almost like sitting in a movie theater with surround sound and 3D (it would make an incredible Hollywood movie). I can hardly wait for the sequel.” --Roberto Mattos, Books and Movie Reviews In this much-anticipated debut of an epic spy thriller series by #1 bestseller Jack Mars, readers are taken on an action thriller across Europe as presumed-CIA operative Kent Steele, hunted by terrorists, by the CIA, and by his own identity, must solve the mystery of who is after him, of the terrorists’ pending target—and of the beautiful woman he keeps seeing in his mind. Kent Steele, 38, a brilliant professor of European History at Columbia University, lives a quiet life in a New York suburb with his two teenage daughters. All that changes when late one night he gets a knock on his door and is abducted by three terrorists—and finds himself flown across the ocean to be interrogated in a basement in Paris. They are convinced that Kent is the most lethal spy the CIA has ever known. He is convinced they have the wrong man. Do they? With a conspiracy around him, adversaries as smart as he is, and an assassin on his tail, the wild game of cat and mouse leads Kent on a perilous road—one that may lead back to Langley—and to a shocking discovery of his own identity. AGENT ZERO is an espionage thriller that will keep you turning pages late into the night. “One of the best thrillers I have read this year.” --Books and Movie Reviews (re Any Means Necessary) Also available is Jack Mars’ #1 bestselling LUKE STONE THRILLER series (7 books), which begins with Any Means Necessary (Book #1), a free download with over 800 five star reviews!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094375212"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1094375217"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=svZVEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=svZVEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=svZVEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=33&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=svZVEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=svZVEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 5419.48,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 5419.48,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=svZVEAAAQBAJ&rdid=book-svZVEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 5419480000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 5419480000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=svZVEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "AGENT ZERO is an espionage thriller that will keep you turning pages late into the night. “One of the best thrillers I have read this year.” --Books and Movie Reviews (re Any Means Necessary) Also available is Jack Mars’ #1 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dG8QEAAAQBAJ",
+      "etag": "hixpDOxZvsk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dG8QEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Takedown",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Brad Thor"
+        ],
+        "publisher": "Atria/Emily Bestler Books",
+        "publishedDate": "2021-01-19",
+        "description": "From #1 New York Times, #1 Wall Street Journal, and #1 Publishers Weekly bestselling author, Brad Thor, comes Takedown. July 4th weekend, New York City: As thousands of holiday travelers make their way out of Manhattan, a flawlessly executed terrorist attack plunges the city into a maelstrom of panic and death. Amid the chaos, an elite team of foreign operatives is systematically searching for one of their own, a man so powerful that the US government refuses to admit he even exists and will do anything to keep him hidden. Now, with the world’s deadliest enemy upon America’s doorstep, counterterrorism operative Scot Harvath must fight his way through the burning city streets to take down an invisible terrorist mastermind with the means to unleash hell on a global scale.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982150037"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982150033"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 10,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dG8QEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dG8QEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=dG8QEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=dG8QEAAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Takedown.html?hl=&id=dG8QEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dG8QEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From #1 New York Times, #1 Wall Street Journal, and #1 Publishers Weekly bestselling author, Brad Thor, comes Takedown."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Tfj1DwAAQBAJ",
+      "etag": "wVkBUA/JxQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Tfj1DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Blowback",
+        "subtitle": "A Thriller",
+        "authors": [
+          "Brad Thor"
+        ],
+        "publisher": "Atria/Emily Bestler Books",
+        "publishedDate": "2020-09-01",
+        "description": "From #1 New York Times, #1 Wall Street Journal, and #1 Publishers Weekly bestselling author, Brad Thor, comes Blowback. Scot Harvath’s counterterrorism career has just crashed and burned—thanks in part to a ruthless senator with her sights set on the White House. But when the war on terror takes a chilling turn, the president has no choice but to secretly bring Harvath back inside. Deep beneath an Alpine glacier, an ancient weapon designed to decimate the Roman Empire has been unearthed—and a shadowy organization intends to use it for America’s downfall. Racing across Europe, Harvath must secure the ultimate instrument of destruction before it brings the United States and the rest of the world to their knees.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982148232"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982148233"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 11,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Tfj1DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Tfj1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=Tfj1DwAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=Tfj1DwAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Blowback.html?hl=&id=Tfj1DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Tfj1DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "From #1 New York Times, #1 Wall Street Journal, and #1 Publishers Weekly bestselling author, Brad Thor, comes Blowback."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TxN9DwAAQBAJ",
+      "etag": "JLe3cbO7A0M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TxN9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Жена между нами",
+        "authors": [
+          "Сара Пекканен",
+          "Грир Хендрикс"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-12-01",
+        "description": "Недавно Ричард оставил Ванессу ради более молодой и красивой женщины. Теперь сломленная жизнью, увядшая бывшая жена живет у своей тети, много пьет, постоянно лжет и пытается где-нибудь подкараулить свою «замену». Нелли – прелестная, энергичная невеста Ричарда. Она собирается уйти с работы, чтобы счастливо жить и растить детей вместе со своим идеальным мужем. Есть ли между этими женщинами что-то общее? Знают ли они по-настоящему мужчину, который их связывает? И знают ли они себя? Постепенно за простым на первый взгляд любовным треугольником раскрывается сложная, запутанная история страдания, обмана и насилия. Только финал объяснит читателю мотивы персонажей – как и им самим.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041407674"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041407673"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TxN9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TxN9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=TxN9DwAAQBAJ&pg=PP1&dq=thriller&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=TxN9DwAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%96%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%BD%D0%B0%D0%BC%D0%B8.html?hl=&id=TxN9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%96%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%BD%D0%B0%D0%BC%D0%B8-sample-epub.acsm?id=TxN9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%96%D0%B5%D0%BD%D0%B0_%D0%BC%D0%B5%D0%B6%D0%B4%D1%83_%D0%BD%D0%B0%D0%BC%D0%B8-sample-pdf.acsm?id=TxN9DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TxN9DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Недавно Ричард оставил Ванессу ради более молодой и красивой женщины. Теперь сломленная жизнью, увядшая бывшая жена живет у своей ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qUlDEAAAQBAJ",
+      "etag": "SpOmKhWxNys",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qUlDEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Джек Ричер. Цена ее жизни",
+        "authors": [
+          "Ли Чайлд"
+        ],
+        "publisher": "Азбука-Аттикус",
+        "publishedDate": "2021-09-16",
+        "description": "Джек Ричер, военный полицейский в отставке, видел эту женщину первый раз в жизни. У нее была травмирована нога, и он решил помочь незнакомке. Но, как известно, ни одно доброе дело не остается безнаказанным. Через считаные секунды Ричер оказался на заднем сиденье черного седана под дулом пистолета. Женщину втолкнули в машину следом. Это похищение? Да, причем средь бела дня и на оживленной улице Чикаго. Их везут через всю Америку — понять, в каком направлении и с какой целью, невозможно, но после всего, что с ними произошло по пути, Ричер твердо уверен в одном: он должен спасти эту женщину любой ценой.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785389201439"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5389201434"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 512,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qUlDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qUlDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=qUlDEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=qUlDEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=qUlDEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 229,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 206.1,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=qUlDEAAAQBAJ&rdid=book-qUlDEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 229000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 206100000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%B5%D0%BA_%D0%A0%D0%B8%D1%87%D0%B5%D1%80_%D0%A6%D0%B5%D0%BD%D0%B0_%D0%B5%D0%B5_%D0%B6%D0%B8%D0%B7-sample-epub.acsm?id=qUlDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%B5%D0%BA_%D0%A0%D0%B8%D1%87%D0%B5%D1%80_%D0%A6%D0%B5%D0%BD%D0%B0_%D0%B5%D0%B5_%D0%B6%D0%B8%D0%B7-sample-pdf.acsm?id=qUlDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qUlDEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Джек Ричер, военный полицейский в отставке, видел эту женщину первый раз в жизни. У нее была травмирована нога, и он решил помочь ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qXY3EAAAQBAJ",
+      "etag": "X7SSaGO/epA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qXY3EAAAQBAJ",
+      "volumeInfo": {
+        "title": "Already Dead (A Laura Frost FBI Suspense Thriller—Book 5)",
+        "authors": [
+          "Blake Pierce"
+        ],
+        "publisher": "Blake Pierce",
+        "publishedDate": "2022-03-28",
+        "description": "A new serial killer leaves a creepy signature at each crime scene: a burning candle. Psychic—and FBI Special Agent—Laura Frost must unearth why. But will her psychic vision lead her astray? “A MASTERPIECE OF THRILLER AND MYSTERY. Blake Pierce did a magnificent job developing characters with a psychological side so well described that we feel inside their minds, follow their fears and cheer for their success. Full of twists, this book will keep you awake until the turn of the last page.” --Books and Movie Reviews, Roberto Mattos (re Once Gone) ALREADY DEAD (A Laura Frost FBI Suspense Thriller) is book #5 in a long-anticipated new series by #1 bestseller and USA Today bestselling author Blake Pierce, whose bestseller Once Gone (a free download) has received over 1,000 five star reviews. The series begins with ALREADY GONE (Book #1). FBI Special Agent and single mom Laura Frost, 35, is haunted by her talent: a psychic ability which she refuses to face and which she keeps secret from her colleagues. While Laura gets obscured glimpses of what the killer may do next, she must decide whether to trust her confusing gift—or her investigative work. As a string of bodies turns up, abandoned in increasingly public places, the FBI notes that they all have something in common: a single, burning candle at the scene of the crime. Is he playing a sick game? Laura must decode the riddle: what does the fire mean? What drives him? And, most importantly, who is next? A page-turning and harrowing crime thriller featuring a brilliant and tortured FBI agent, the LAURA FROST series is a startlingly fresh mystery, rife with suspense, twists and turns, shocking revelations, and driven by a breakneck pace that will keep you flipping pages late into the night. Book #6 is also available!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781094392196"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1094392197"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 500,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qXY3EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qXY3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=qXY3EAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qXY3EAAAQBAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Already_Dead_A_Laura_Frost_FBI_Suspense.html?hl=&id=qXY3EAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qXY3EAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Full of twists, this book will keep you awake until the turn of the last page.” --Books and Movie Reviews, Roberto Mattos (re Once Gone) ALREADY DEAD (A Laura Frost FBI Suspense Thriller) is book #5 in a long-anticipated new series by #1 ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s8ohEAAAQBAJ",
+      "etag": "qONNWUysYMM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s8ohEAAAQBAJ",
+      "volumeInfo": {
+        "title": "A Darker Place",
+        "subtitle": "A Detective Kay Hunter crime thriller",
+        "authors": [
+          "Rachel Amphlett"
+        ],
+        "publisher": "Saxon Publishing",
+        "publishedDate": "2021-07-12",
+        "description": "The frozen body of a man is discovered in a used car yard on the hottest day of the year, his face contorted by fear and pain. Detective Kay Hunter and her team are assigned the case, but when they find out who their victim is, their worst fears are realised. There is another man missing – but is he a victim, or a killer? With time running out and witnesses afraid to talk, Kay is thrust into one of the most challenging investigations of her career to date. A Darker Place is the tenth book in the Detective Kay Hunter series by USA Today bestselling crime fiction writer Rachel Amphlett: 1. Scared to Death 2. Will to Live 3. One to Watch 4. Hell to Pay 5. Call to Arms 6. Gone to Ground 7. Bridge to Burn 8. Cradle to Grave 9. Turn to Dust 10. A Darker Place Detective books, thriller books, crime fiction, crime fiction books, crime fiction authors, British detective series, female cop, female detective, small town, rural crime, English detective series, English detective, murder mystery series, book series, hard boiled fiction, noir, mystery series, suspense, thriller, mystery, Kent, England, women sleuth, legal thriller, NCIS, law and order, criminal justice, John Grisham, thriller series, mystery series, strong female, strong female protagonist, police procedural, thriller and suspense, crime, police officer, legal, suspense series, crime, financial, murder, theft, death, due justice, deadly, killer, crime fiction, crime novel, kidnapping, serial killers, book, series, women's fiction, detective, contemporary fiction, genre fiction, new release, USA Today, bestselling, Harlan Coben, David Baldacci, Ann Cleeves, Peter James, Michael Connelly, Robert Crais, Ian Rankin, Louise Penny, CJ Box, DK Hood, Rachel Lynch, Mary Stone, MJ Lee, Caroline Mitchell, LJ Ross, Robert Bryndza, Angela Marsons, Patricia Gibney, Carol Wyer, Cara Hunter, Karin Slaughter, Lisa Jackson, Lisa Gardner, Tess Gerritsen, Ian Rankin, Nick Louth, Steve Cavanagh, Adrian McKinty, Jane Harper 1. Scared to Death 2. Will to Live 3. One to Watch 4. Hell to Pay 5. Call to Arms 6. Gone to Ground 7. Bridge to Burn 8. Cradle to Grave 9. Turn to Dust 10. A Darker Place",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781913498566"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1913498565"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 330,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.6.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s8ohEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s8ohEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=s8ohEAAAQBAJ&printsec=frontcover&dq=thriller&hl=&cd=39&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=s8ohEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=s8ohEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 457.12,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 457.12,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=s8ohEAAAQBAJ&rdid=book-s8ohEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 457120000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 457120000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/A_Darker_Place-sample-epub.acsm?id=s8ohEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s8ohEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Darker Place is the tenth book in the Detective Kay Hunter series by USA Today bestselling crime fiction writer Rachel Amphlett: 1. Scared to Death 2. Will to Live 3. One to Watch 4. Hell to Pay 5. Call to Arms 6. Gone to Ground 7."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "248rtQEACAAJ",
+      "etag": "ww4VWqsX7Xw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/248rtQEACAAJ",
+      "volumeInfo": {
+        "title": "The American Thriller",
+        "subtitle": "Generic Innovation and Social Change in the 1970s",
+        "authors": [
+          "P. Cobley"
+        ],
+        "publisher": "Palgrave Macmillan",
+        "publishedDate": "2000-11-08",
+        "description": "What is the American thriller? Has it developed over time? What was it like in the past? This is a book about thrillers and gaining knowledge of what American thrillers were like in a specific period - the 1970s. Analysing seventies texts about crime, police, detectives, corruption, paranoia and revenge, The American Thriller aims to open debates on genre in the light of audience theory, literary history and the place of popular fiction at the moment of its production.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0333776682"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780333776681"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 242,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=248rtQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=248rtQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=248rtQEACAAJ&dq=thriller&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=248rtQEACAAJ&dq=thriller&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_American_Thriller.html?hl=&id=248rtQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=248rtQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "What is the American thriller? Has it developed over time? What was it like in the past? This is a book about thrillers and gaining knowledge of what American thrillers were like in a specific period - the 1970s."
+      }
+    }
+  ]
+}

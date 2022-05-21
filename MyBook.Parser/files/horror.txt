@@ -1,0 +1,3099 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 752,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "AM3-DwAAQBAJ",
+      "etag": "i4/yi7Bne4I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/AM3-DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Book of Horror",
+        "subtitle": "The Anatomy of Fear in Film",
+        "authors": [
+          "Matt Glasby"
+        ],
+        "publisher": "White Lion Publishing",
+        "publishedDate": "2020-09-22",
+        "description": "The Book of Horror introduces you to the scariest movies ever made and examines the factors that make them so frightening. Horror movies have never been more critically or commercially successful, but there's only one metric that matters: are they scary? Back in the silent era, viewers thrilled at Frankenstein and Dracula. Today, the monsters may have changed, but the instinct remains the same: to seek out the unspeakable, ride the adrenaline rush and play out our fears in the safety of the cinema. The Book of Horror focuses on the most frightening films of the post-war era - from Psycho (1960) to It Chapter Two (2019) - examining exactly how they scare us across a series of key categories. Each chapter explores a seminal horror film in depth, charting its scariest moments with infographics and identifying the related works you need to see. Including references to more than 100 classic and contemporary horror films from around the globe, and striking illustrations from Barney Bodoano, this is a rich and compelling guide to the scariest films ever made. The films: Psycho (1960), The Innocents (1961), The Haunting (1963), Don't Look Now (1973), The Exorcist (1973), The Texas Chain Saw Massacre (1974), Who Can Kill a Child? (1976), Suspiria (1977), Halloween (1978), The Shining (1980), The Entity (1982), Angst (1983), Henry: Portrait of a Serial Killer (1990), Ring (1998), The Blair Witch Project (1999), The Others (2001), The Eye (2002), Ju-On: The Grudge (2002), Shutter (2004), The Descent (2005), Wolf Creek (2005), The Orphanage (2007), [Rec] (2007), The Strangers (2008), Lake Mungo (2008), Martyrs (2008), The Innkeepers (2011), Banshee Chapter (2013), Oculus (2013), The Babadook (2014), It Follows (2015), Terrified (2017), Hereditary (2018), It Chapter Two (2019)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780711251786"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0711251789"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=AM3-DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=AM3-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=AM3-DwAAQBAJ&printsec=frontcover&dq=horror&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=AM3-DwAAQBAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Book_of_Horror.html?hl=&id=AM3-DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=AM3-DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Book of Horror introduces you to the scariest movies ever made and examines the factors that make them so frightening."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "C-oMDgAAQBAJ",
+      "etag": "2XZeuK63tTQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/C-oMDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Cтрахосказки. Horror stories",
+        "authors": [
+          "Александр Рэлдер"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-01-31",
+        "description": "Судьба человека это его поступки в той или иной ситуации, последствия которых иногда бывают ужасны... Еще ужасней когда выбор диктует само зло...",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040420445"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040420447"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=C-oMDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=C-oMDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=C-oMDgAAQBAJ&pg=PT1&dq=horror&hl=&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=C-oMDgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=C-oMDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 92,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 82.8,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=C-oMDgAAQBAJ&rdid=book-C-oMDgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 92000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 82800000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/C%D1%82%D1%80%D0%B0%D1%85%D0%BE%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_Horror_stories-sample-epub.acsm?id=C-oMDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/C%D1%82%D1%80%D0%B0%D1%85%D0%BE%D1%81%D0%BA%D0%B0%D0%B7%D0%BA%D0%B8_Horror_stories-sample-pdf.acsm?id=C-oMDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=C-oMDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Александр Рэлдер. Cтрахосказки <b>Horror</b> stories Александр Рэлдер © Александр Рэлдер, 2017 ISBN 978-5-4483-7054-0 Создано в интеллектуальной издательской."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Wb80DwAAQBAJ",
+      "etag": "vcAYLYIT7bA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Wb80DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Fantasy Horror Poetry. Авторский сборник стихов",
+        "authors": [
+          "Ленни Лоренц"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-01-31",
+        "description": "Фэнтези. Север. Густые темные леса. Страх, порой дикий, неистовый и животный, который может преследовать самого обычного человека, проживающего в большом городе. В каждом из нас есть частичка самого древнего и бесстрашного воина, у которого отсутствует страх. Ночь. Мерцающая луна, мельком, проглядывающая сквозь туманные сумерки. Беспокойные сны, открывающие самые тайные знания, потемки души и раскрывающие истинное лицо человека и загадки всего мироздания. А что разглядите в себе вы?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040782611"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040782616"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Poetry"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Wb80DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Wb80DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=Wb80DwAAQBAJ&pg=PT35&dq=horror&hl=&cd=3&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=Wb80DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=Wb80DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 285.2,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 256.68,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=Wb80DwAAQBAJ&rdid=book-Wb80DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 285200000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 256680000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Fantasy_Horror_Poetry_%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-sample-epub.acsm?id=Wb80DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Fantasy_Horror_Poetry_%D0%90%D0%B2%D1%82%D0%BE%D1%80%D1%81%D0%BA%D0%B8%D0%B9-sample-pdf.acsm?id=Wb80DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Wb80DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "<b>Horror</b>. Rhapsody. И воздух пропитан огнем и печалью, Вдыхаю, и вмиг замираю отчаянно. Я разрываюсь: с чем боле играть? Холодным рассудком? Голодною сталью? Умерить твою королевскую стать... Как много воды и бесчувственных слов Яднем&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rnBXEAAAQBAJ",
+      "etag": "THf5WseUkQs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rnBXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Clown Horror 150 (Russian Edition)",
+        "authors": [
+          "I. D. Oro"
+        ],
+        "publisher": "I. D. Oro",
+        "publishedDate": "2022-01-02",
+        "description": "В параллельной вселенной партия «Правительство расистов» (G.O.P.) Побеждает на президентских выборах 2016 года, сформировав фашистскую коалицию с другими правыми партиями. Прибыл President Führer Devil-Eggs свое обещание, данное Соединенным Штатам Америки, однажды избранным им \"Сделаем Америку 4 снова фашистом\". President Führer Devil-Eggs благодарит President Vladimir Putin за его помощь в победе на выборах, сформировав Альянс лучших друзей навсегда. Официально известный как продолжение Пакта Молотова-Риббентропа, этот новый альянс будет бороться с Организацией Североатлантического договора (Н.А.Т.О.) и ее новым членом - Китаем. Альтернативные факты теперь являются научными доказательствами указов. Пенсии по социальному обеспечению и медицинские льготы по программе Medicare для пожилых людей исчезают после того, как поступит указ, отменяющий налоги, взимаемые для финансирования этих программ. A. C. A. (Закон о доступном медицинском обслуживании) или Obamacare отменяется, в то время как President Führer Devil-Eggs заменяет его Devilcare Death Panels & Camps. В Devilcare Death Panels & Camps есть бесплатное медицинское обслуживание, бесплатные панели смерти, где бухгалтеры ограничивают медицинское обслуживание, чтобы сэкономить деньги, и бесплатные концентрационные лагеря, в которых используются санкционированные правительством вакцины против гриппа для уничтожения граждан, политических врагов и преступников в стране. Теперь отряд персонажей должен разобраться в своей новой реальности. Irene всегда была второстепенным персонажем в школьной пьесе, и она хочет хоть раз стать звездой. Osvaldo пытается обмануть правительство, чтобы заработать денег на его пенсию. Shmuel - государственный служащий, который пытается служить своей стране и выполнять миссию своего ведомства. Anthony знает все, даже если его семья думает, что он просто сходит с ума. Riya застряла в тупиковой работе и находит возможность избежать своей скучной жизни. Courtney приветствует вызов новой возможности трудоустройства в Devilcare Death Panels & Camps. Aryanna знает, что она должна вести борьбу. против фашиста в ее городе. Jurnee - пастор церкви End Racism Church, которая ведет свою паству в борьбе со злом. Naya- французский шпион, пытающийся передать информацию своей стране, прежде чем они ее поймают.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rnBXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rnBXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=rnBXEAAAQBAJ&pg=PA62&dq=horror&hl=&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=rnBXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=rnBXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 226.93,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 226.93,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=rnBXEAAAQBAJ&rdid=book-rnBXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 226930000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 226930000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Clown_Horror_150_Russian_Edition-sample-pdf.acsm?id=rnBXEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rnBXEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... на фондовом рынке, вы их выбрасываете в мусорную корзину! Все заявления, которые вы получаете, являются фальшивыми и раздутыми, чтобы держать ваши деньги там, пока один процент богатых не решит снять деньги и 62. Clown. <b>Horror</b>. 150."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vzq805jZSAoC",
+      "etag": "yOMMENa2u68",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vzq805jZSAoC",
+      "volumeInfo": {
+        "title": "Horror Film Aesthetics",
+        "subtitle": "Creating the Visual Language of Fear",
+        "authors": [
+          "Thomas M. Sipos"
+        ],
+        "publisher": "McFarland",
+        "publishedDate": "2014-01-10",
+        "description": "This richly informed study analyzes how various cinematic tools and techniques have been used to create horror on screen--the aesthetic elements, sometimes not consciously noticed, that help to unnerve, frighten, shock or entertain an audience. The first two chapters define the genre and describe the use of pragmatic aesthetics (when filmmakers put technical and budgetary compromises to artistic effect). Subsequent chapters cover mise-en-scene, framing, photography, lighting, editing and sound, and a final chapter is devoted to the aesthetic appeals of horror cinema. Instructors considering this book for use in a course may request an examination copy here.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780786458349"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0786458348"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 2.5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vzq805jZSAoC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vzq805jZSAoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vzq805jZSAoC&printsec=frontcover&dq=horror&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=vzq805jZSAoC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=vzq805jZSAoC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1395.24,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1395.24,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=vzq805jZSAoC&rdid=book-vzq805jZSAoC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1395240000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1395240000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_Film_Aesthetics-sample-epub.acsm?id=vzq805jZSAoC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_Film_Aesthetics-sample-pdf.acsm?id=vzq805jZSAoC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vzq805jZSAoC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Instructors considering this book for use in a course may request an examination copy here."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wHFXEAAAQBAJ",
+      "etag": "wi94BzjBycI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wHFXEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Clown Horror 152 (Russian Edition)",
+        "authors": [
+          "I. D. Oro"
+        ],
+        "publisher": "I. D. Oro",
+        "publishedDate": "2022-01-02",
+        "description": "Osvaldo гений, даже если его жена Sariyah любит высмеивать его за его паршивую работу посудомойкой в ресторане. Osvaldo не заботится о своей скучной работе, поскольку это всего лишь прикрытие для его настоящей работы. Контрабанда людей в секретном отсеке его Chevrolet Suburban - его настоящая работа. Его задача - победить правительство и заработать деньги. Он капиталист, которого интересуют только деньги и деньги. Неважно, кто хочет перейти, если они ему платят. Эта побочная возня - единственное, что оплачивает его счета в южной Калифорнии, поскольку его обычная работа - это работа с минимальной заработной платой. Приходит друг из Сиэтла, Вашингтон, чтобы попросить Osvaldo оказать ему одолжение. Osvaldo не уверен, что он справится с задачей, но он должен заплатить свою услугу, чтобы его надоедливый друг перестал его беспокоить. Прибывает новый вызов, который ставит его перед опасной работой по спасению людей из групп и лагерей смерти Devilcare. Теперь его жизнь находится в реальной опасности, когда President Führer Devil-Eggs подписывает распоряжение о расстреле любого, кто спасает людей изнутри. Osvaldo должен справиться со стрессом и опасностями, в то же время следя за тем, чтобы его жена не рассказала правительству о его новой побочной возне. Он не хочет умереть, потому что у его жены бывают приступы паники, когда они занимаются незаконной деятельностью.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wHFXEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wHFXEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=wHFXEAAAQBAJ&pg=PA8&dq=horror&hl=&cd=6&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=wHFXEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=wHFXEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 226.93,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 226.93,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=wHFXEAAAQBAJ&rdid=book-wHFXEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 226930000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 226930000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Clown_Horror_152_Russian_Edition-sample-pdf.acsm?id=wHFXEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wHFXEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Меня не должно удивлять, что все остальные не боятся АНБ (Агентства национальной безопасности) или это шляпа из » федерального правительства. Правительство хочет нас заполучить! Военнопромышленный комплекс Конгресса - 8. Clown. <b>Horror</b>."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "MetZDwAAQBAJ",
+      "etag": "0NkxX0M0jSM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/MetZDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Маленькие большие парадоксы. Sci-Fi. Horror. Mystic. Fantasy",
+        "authors": [
+          "Андрей Аполлонов"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2018-09-04",
+        "description": "Вселенная полна парадоксов. Одни из них удивительно прекрасны, другие – пугают неизвестностью. Одни могут открыть пути в новые миры, другие – разрушить все, что нам знакомо и привычно. Сила веры может стать оружием против чуждой реальности, экспериментатор – оказаться подопытным, а память и реальность – ложными.Авторский сборник повестей и рассказов Андрея Аполлонова «Маленькие большие парадоксы» открывает перед нами новые грани фантастики, новые горизонты возможного и невозможного.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785041141677"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5041141673"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=MetZDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=MetZDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=MetZDwAAQBAJ&pg=PP1&dq=horror&hl=&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=MetZDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=MetZDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 92,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 82.8,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=MetZDwAAQBAJ&rdid=book-MetZDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 92000000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 82800000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80-sample-epub.acsm?id=MetZDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5_%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5_%D0%BF%D0%B0%D1%80-sample-pdf.acsm?id=MetZDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=MetZDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Андрей Аполлонов. | }}|.| |}|| ||} Маленькие большие парадоксы Sci-Fi. <b>Horror</b>. Mystic. Fantasy Андрей Аполлонов. Front Cover."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JDhAEAAAQBAJ",
+      "etag": "ju2gBD2rbFU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JDhAEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Untold Horror",
+        "authors": [
+          "George. A Romero",
+          "John Landis",
+          "Dave Alexander",
+          "Joe Dante",
+          "Brian Yuzna"
+        ],
+        "publisher": "Dark Horse Comics",
+        "publishedDate": "2021-08-31",
+        "description": "Insightful interviews of horror legends George Romero, John Landis, Joe Dante, Brian Yuzna, and more, by former editor-in-chief of Rue Morgue, Dave Alexander, about the scariest horror movies never made! Take a behind-the-scenes look into development hell to find the most frightening horror movies that never were, from unmade Re-Animator sequels to alternate takes on legendary franchises like Frankenstein and Dracula! Features art, scripts, and other production material from unmade films that still might make you scream--with insights from dozens of directors, screenwriters, and producers with decades of experience. Featured Interviews With: George A. Romero John Landis Joe Dante Vincenzo Natali Brian Yuzna William Lustig William Malone Buddy Giovinazzo Tim Sullivan Richard Raaphorst Ruggero Deodato Jim Shooter Bob Layton David J. Skal",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781506719023"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1506719023"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 152,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JDhAEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JDhAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=JDhAEAAAQBAJ&printsec=frontcover&dq=horror&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=JDhAEAAAQBAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Untold_Horror.html?hl=&id=JDhAEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JDhAEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Insightful interviews of horror legends George Romero, John Landis, Joe Dante, Brian Yuzna, and more, by former editor-in-chief of Rue Morgue, Dave Alexander, about the scariest horror movies never made!"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oBRAAAAAIAAJ",
+      "etag": "KLLcc7JnmC8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oBRAAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Horror!",
+        "authors": [
+          "Drake Douglas"
+        ],
+        "publisher": "New York : Macmillan",
+        "publishedDate": "1966",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UCAL:$B120657"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 309,
+        "printType": "BOOK",
+        "categories": [
+          "Horror films"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oBRAAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oBRAAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=oBRAAAAAIAAJ&q=horror&dq=horror&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=oBRAAAAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror.html?hl=&id=oBRAAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oBRAAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Poe&#39;s <b>horror</b> stories to Hoffmann&#39;s &#39;Tales&#39; has motivated the admirable detective work... of a dozen monographs....” Until he died in 1822, aged forty-six, a bitter, disillusioned, pain-racked man, so shrunken in body that his nurse was&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "q1pCDwAAQBAJ",
+      "etag": "zi+/1lsE+30",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/q1pCDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Horror Film",
+        "subtitle": "A Critical Introduction",
+        "authors": [
+          "Murray Leeder"
+        ],
+        "publisher": "Bloomsbury Publishing USA",
+        "publishedDate": "2018-01-25",
+        "description": "Throughout the history of cinema, horror has proven to be a genre of consistent popularity, which adapts to different cultural contexts while retaining a recognizable core. Horror Film: A Critical Introduction, the newest in Bloomsbury's Film Genre series, balances the discussions of horror's history, theory, and aesthetics as no introductory book ever has. Featuring studies of films both obscure and famous, Horror Film is international in its scope and chronicles horror from its silent roots until today. As a straightforward and convenient critical introduction to the history and key academic approaches, this book is accessible to the beginner but still of interest to the expert.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501314445"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501314440"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.2.3.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=q1pCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=q1pCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=q1pCDwAAQBAJ&printsec=frontcover&dq=horror&hl=&cd=10&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=q1pCDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=q1pCDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2574.61,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 2574.61,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=q1pCDwAAQBAJ&rdid=book-q1pCDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2574610000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 2574610000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_Film-sample-epub.acsm?id=q1pCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_Film-sample-pdf.acsm?id=q1pCDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=q1pCDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As a straightforward and convenient critical introduction to the history and key academic approaches, this book is accessible to the beginner but still of interest to the expert."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "g5AYAAAAIAAJ",
+      "etag": "iyIMNo3eBNk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/g5AYAAAAIAAJ",
+      "volumeInfo": {
+        "title": "Fantasy and Horror",
+        "subtitle": "A Critical and Historical Guide to Literature, Illustration, Film, TV, Radio, and the Internet",
+        "authors": [
+          "Marshall B. Tymn"
+        ],
+        "publishedDate": "1999",
+        "description": "More than 2,300 works of fiction and poetry are discussed, each cross-referenced to other works with similar or contrasting themes. Winners and nominees for major awards are identified. Books that are part of a series are flagged, with a complete list of books in series included in a final chapter, along with a comprehensive list of awards, of translations, and of young adult and children's books.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015002915008"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 816,
+        "printType": "BOOK",
+        "categories": [
+          "Art"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=g5AYAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=g5AYAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=g5AYAAAAIAAJ&q=horror&dq=horror&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=g5AYAAAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Fantasy_and_Horror.html?hl=&id=g5AYAAAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=g5AYAAAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "British Library Cataloguing in Publication Information Available Library of Congress Cataloging-in-Publication Data Fantasy and <b>horror</b>: a critical and historical guide to literature, illustration, film, TV, radio, and the Internet&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "PVfZ_zypYsQC",
+      "etag": "UysWtR6leNc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/PVfZ_zypYsQC",
+      "volumeInfo": {
+        "title": "How to Survive a Horror Movie",
+        "subtitle": "All the Skills to Dodge the Kills",
+        "authors": [
+          "Seth Grahame-Smith"
+        ],
+        "publisher": "Quirk Books",
+        "publishedDate": "2011-05-18",
+        "description": "Written by best-selling author, screenwriter, and producer Seth Grahame-Smith (Stephen King’s It), with an introduction by horror icon Wes Craven (A Nightmare on Elm Street), this is a hilarious must-read for any horror movie fan...and it just might save your life. Are you reading this in a cornfield, at a summer camp, or in an abandoned mental institution? Have you noticed that everything is poorly lit, or that music surges every time you open a door? If the answer is yes, you’re probably trapped in a horror movie. But don’t freak out—just read this book! With it you will learn how to overcome every obstacle found in scary films, including: • How to determine what type of horror film you’re trapped in • The five types of slashers and how to defeat them • How to handle killer dolls, murderous automobiles, and other haunted objects • How to deal with alien invasions, zombie apocalypses, and other global threats • What to do if you did something last summer, if your corn has children in it, or if you suspect you’re already dead",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594745683"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594745684"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "4.7.6.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=PVfZ_zypYsQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=PVfZ_zypYsQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=PVfZ_zypYsQC&printsec=frontcover&dq=horror&hl=&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=PVfZ_zypYsQC&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=PVfZ_zypYsQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1578.21,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1578.21,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=PVfZ_zypYsQC&rdid=book-PVfZ_zypYsQC&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1578210000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1578210000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/How_to_Survive_a_Horror_Movie-sample-epub.acsm?id=PVfZ_zypYsQC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/How_to_Survive_a_Horror_Movie-sample-pdf.acsm?id=PVfZ_zypYsQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=PVfZ_zypYsQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Written by best-selling author, screenwriter, and producer Seth Grahame-Smith (Stephen King’s It), with an introduction by horror icon Wes Craven (A Nightmare on Elm Street), this is a hilarious must-read for any horror movie fan...and it ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "taERAQAAMAAJ",
+      "etag": "Ac3hi/mPwj0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/taERAQAAMAAJ",
+      "volumeInfo": {
+        "title": "St. James Guide to Horror, Ghost & Gothic Writers",
+        "authors": [
+          "St James Press"
+        ],
+        "publisher": "St. James Guide to Writers Ser",
+        "publishedDate": "1998",
+        "description": "Provides background information and a critical evaluation of authors of horror, ghost and gothic fiction, and lists each author's works in these fields and in other genres.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015002922251"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 746,
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=taERAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=taERAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=taERAQAAMAAJ&q=horror&dq=horror&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=taERAQAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/St_James_Guide_to_Horror_Ghost_Gothic_Wr.html?hl=&id=taERAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=taERAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Aiken&#39;s <b>horror</b> walks close beside the mundane of scientific medicine, comfortable houses, cars and ships like floating palaces, reminding the reader that the death in the age of romanticism is the same death that is present in the age&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "OBMqDwAAQBAJ",
+      "etag": "+dah+X+K+o4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/OBMqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Horror Stories 4",
+        "subtitle": "Terror at Your Door",
+        "authors": [
+          "Jaydeep Shah"
+        ],
+        "publisher": "Jaydeep Shah",
+        "publishedDate": "2018-05-01",
+        "description": "Horror Stories 4: Terror at Your Door contains thirty scary tales as same as the previous books of Horror Stories series. This is really not a good idea to read this book in the night because the stories of this book are extremely terrifying. Horror Stories 4: Terror at Your Door is available only for adults.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781543196702"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1543196705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 114,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "4.3.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=OBMqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=OBMqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=OBMqDwAAQBAJ&pg=PT1&dq=horror&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=OBMqDwAAQBAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror_Stories_4.html?hl=&id=OBMqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_Stories_4-sample-pdf.acsm?id=OBMqDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=OBMqDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Story9 CONTENTS Social Media Teddy Bears Ancient Painting A Camera Taxi A Film Production Studio <b>Horror</b> Book Possessed Coat Wheelchair Online Store Last Dream Betel Leaf Printer Garbage Bag Free eBook Sex School Unique Laptop&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "7HU5DwAAQBAJ",
+      "etag": "I1fnWs8mTTE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7HU5DwAAQBAJ",
+      "volumeInfo": {
+        "title": "State Violence and Moral Horror",
+        "subtitle": "",
+        "authors": [
+          " Jeremy Arnold"
+        ],
+        "publisher": "SUNY Press",
+        "publishedDate": "2017-10-11",
+        "description": "Explores the concept of “moral horror” as the experience of living amidst unjustifiable state violence. Can state violence ever be morally justified? In State Violence and Moral Horror, Jeremy Arnold critically engages a wide variety of arguments, both canonical and contemporary, arguing that there can be no justification. Drawing on the concept of singularity found in the work of French philosopher Jean-Luc Nancy, Arnold demonstrates that any attempt to justify state violence will itself be violent and, therefore, must fail as a justification. On the basis of this argument, the book explores the concept of “moral horror” as the experience of living amidst and acquiescing to unjustifiable state violence. The careful explanation of arguments from across the spectrum of political theory and exceptionally clear prose will enable both advanced undergraduates and more general readers interested in political thought to understand and engage the central argument. State Violence and Moral Horror is a unique contribution to the growing literature on violence and will be of interest to political theorists and philosophers in both the analytic and continental traditions, philosophers of law, international relations theorists, law and society scholars, and social scientists interested in normative aspects of state violence.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781438466774"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1438466773"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Philosophy"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7HU5DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7HU5DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=7HU5DwAAQBAJ&pg=PA102&dq=horror&hl=&cd=15&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7HU5DwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7HU5DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2555.49,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 2555.49,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7HU5DwAAQBAJ&rdid=book-7HU5DwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2555490000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 2555490000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/State_Violence_and_Moral_Horror-sample-epub.acsm?id=7HU5DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/State_Violence_and_Moral_Horror-sample-pdf.acsm?id=7HU5DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7HU5DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "violence we allow to take place is moral <b>horror</b> rather than the aesthesis of a distorted or destroyed singular body. Moral <b>horror</b> is the experience of <b>horror</b> produced by the thought of the contradiction between the unjustifiable&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_TJaAAAAYAAJ",
+      "etag": "ephvmzwpXik",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_TJaAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Horror Zone",
+        "subtitle": "The Cultural Experience of Contemporary Horror Cinema",
+        "authors": [
+          "Ian Conrich"
+        ],
+        "publisher": "I.B. Tauris",
+        "publishedDate": "2010",
+        "description": "In his landmark Introduction to the American Horror Film, Robin Wood noted that horror \"has consistently been one of the most popular and, at the same time, the most disreputable of Hollywood genres.\" Horror is still immensely popular but its assimilation into our culture continues apace. In Horror Zone, leading international writers on horror take horror out into the world beyond cinema screens to explore the interconnections between the films and modern media and entertainment industries, economies and production practices, cultural and political forums, spectators and fans. They critically examine the ways in which the horror genre functions in all its multifarious forms, for example the Friday the 13th films as modern grand guignol, the relationship between the contemporary horror film and the theme park ride, horror as art house cinema, connections between pornography and the horror film and the place of special effects in this most respectable of Hollywood genres.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000067093595"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 306,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_TJaAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_TJaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=_TJaAAAAYAAJ&q=horror&dq=horror&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=_TJaAAAAYAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror_Zone.html?hl=&id=_TJaAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_TJaAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "the cultural experience of contemporary <b>horror</b> cinema Ian Conrich."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QLEmAQAAMAAJ",
+      "etag": "Ay9lQ5Grk/E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QLEmAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Accounting For Horror",
+        "subtitle": "Post-Genocide Debates in Rwanda",
+        "authors": [
+          "Nigel Eltringham"
+        ],
+        "publisher": "Pluto Press (UK)",
+        "publishedDate": "2004-01-20",
+        "description": "The is the first book to explore how the events of 1994 have been interpreted within in the politics of post-genocide Rwanda.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39076002369648"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 232,
+        "printType": "BOOK",
+        "categories": [
+          "Political Science"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QLEmAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QLEmAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=QLEmAQAAMAAJ&q=horror&dq=horror&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=QLEmAQAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Accounting_For_Horror.html?hl=&id=QLEmAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QLEmAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "5 3 __ I_I___m&#39;“_&#39;lV1_ I _ I ll Accounting For <b>Horror</b> Accounting For <b>Horror</b> Post-Genocide Debates in Rwanda."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "usuVCDz12RsC",
+      "etag": "QlEGTj8JLaE",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/usuVCDz12RsC",
+      "volumeInfo": {
+        "title": "Horror Story",
+        "authors": [
+          "Oliver McNab",
+          "Richard Frede"
+        ],
+        "publishedDate": "1979",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0395277655"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780395277652"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 289,
+        "printType": "BOOK",
+        "categories": [
+          "Cults"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=usuVCDz12RsC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=usuVCDz12RsC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=usuVCDz12RsC&q=horror&dq=horror&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=usuVCDz12RsC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror_Story.html?hl=&id=usuVCDz12RsC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=usuVCDz12RsC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bKEqAQAAIAAJ",
+      "etag": "Ax3Hq8dr9qc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bKEqAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Horror Films",
+        "authors": [
+          "Richard H. W. Dillard"
+        ],
+        "publishedDate": "1976",
+        "description": "\"The artistic and moral values implicit in the [horror] genre are analyzed by R.H.W. Dillard in his examination of four horror classics: James Whale's Freankenstein (1931), George Waggner's The Wolf Man (1941), George Romero's Night of teh Living Dead (1968), and Frederico Fellini's Satyricon (1969).\"--Cover.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105036511785"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 129,
+        "printType": "BOOK",
+        "categories": [
+          "Horror films"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.4.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bKEqAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bKEqAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=bKEqAQAAIAAJ&q=horror&dq=horror&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=bKEqAQAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror_Films.html?hl=&id=bKEqAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bKEqAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "qDllo1htgewC",
+      "etag": "w1ChD+gIgnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/qDllo1htgewC",
+      "volumeInfo": {
+        "title": "Holocaust Horror",
+        "authors": [
+          "Mark Grant"
+        ],
+        "publishedDate": "1991",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0380761920"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780380761920"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 196,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=qDllo1htgewC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=qDllo1htgewC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=qDllo1htgewC&q=horror&dq=horror&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=qDllo1htgewC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Holocaust_Horror.html?hl=&id=qDllo1htgewC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=qDllo1htgewC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mPwQAAAAMAAJ",
+      "etag": "eYken8trpRs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mPwQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Horror on the Asteroid",
+        "subtitle": "And Other Tales of Planetary Horror",
+        "authors": [
+          "Edmond Hamilton"
+        ],
+        "publisher": "Macmillan Reference USA",
+        "publishedDate": "1975",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015015387866"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mPwQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mPwQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=mPwQAAAAMAAJ&q=horror&dq=horror&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=mPwQAAAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Horror_on_the_Asteroid.html?hl=&id=mPwQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mPwQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "And Other Tales of Planetary <b>Horror</b> Edmond Hamilton. hand flung palm - outward against his face , across his eyes . “ Funny thing about that arm , ” the sergeant remarked . “ When we found him , his hand was up in front of his eyes like&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "F34qAAAAYAAJ",
+      "etag": "7SuHiOBLzbI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/F34qAAAAYAAJ",
+      "volumeInfo": {
+        "title": "Horror of the 20th Century",
+        "subtitle": "An Illustrated History",
+        "authors": [
+          "Robert E. Weinberg"
+        ],
+        "publishedDate": "2000",
+        "description": "The most renowned writers, illustrators, publishers, actors, and filmmakers are drawn together in this exquisite portrayal of horror. Every media from comics, paperbacks, hardcovers, and movies is represented in full color.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UVA:X004465433"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "2.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=F34qAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=F34qAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=F34qAAAAYAAJ&q=horror&dq=horror&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=F34qAAAAYAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Horror_of_the_20th_Century.html?hl=&id=F34qAAAAYAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=F34qAAAAYAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The 165 Haunt of Fear, The 148 Haunt of <b>Horror</b> 181 Hawthorne, Nathanic lo Hell House 210 Henneberger, Jacob Clark 74,79 Herbert, James 199 Hersey, Harold 74 Her Ways Are Death 75 Hinds, Anthony 155 Hitchcock, Alfred 165, 168 Hjortsberg,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "oZUrAQAAMAAJ",
+      "etag": "X7pW8u4hyxk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/oZUrAQAAMAAJ",
+      "volumeInfo": {
+        "title": "The Horror Genre",
+        "subtitle": "Classroom Resources",
+        "authors": [
+          "Kate Domaille"
+        ],
+        "publisher": "Auteur Pub",
+        "publishedDate": "2008-03",
+        "description": "The Classroom Resources include tasks, questions and discussion topics, providing a ready-made scheme of work for teaching genre and also features frameworks for such practical activities as designing a video/DVD sleeve and stimulating a TV discussion about 'video nasties'.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "PSU:000065616994"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 40,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=oZUrAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=oZUrAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=oZUrAQAAMAAJ&q=horror&dq=horror&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=oZUrAQAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Horror_Genre.html?hl=&id=oZUrAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=oZUrAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Classroom Resources Kate Domaille. &#39;, \\ &#39;\\ 1 e &#39;The <b>Horror</b> Gx. Classriggnjn/Resourc, K D0ma|||e D."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "rhM1AAAAMAAJ",
+      "etag": "nmilkza3C1A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/rhM1AAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Baddington Horror",
+        "authors": [
+          "Walter Sidney Masterman"
+        ],
+        "publishedDate": "1934",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015063934387"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=rhM1AAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=rhM1AAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=rhM1AAAAMAAJ&q=horror&dq=horror&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=rhM1AAAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Baddington_Horror.html?hl=&id=rhM1AAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=rhM1AAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Walter Sidney Masterman. &gt; The Baddington <b>Horror</b> CHAPTER I THE MURDER OF THE JUDGE."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "pHxDGE4EJh4C",
+      "etag": "Jpugy5DoH5U",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/pHxDGE4EJh4C",
+      "volumeInfo": {
+        "title": "The Owlsfane Horror",
+        "authors": [
+          "Duffy Stein"
+        ],
+        "publisher": "Dell Publishing Company",
+        "publishedDate": "1981",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0440167817"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780440167815"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 474,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=pHxDGE4EJh4C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=pHxDGE4EJh4C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=pHxDGE4EJh4C&q=horror&dq=horror&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=pHxDGE4EJh4C&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Owlsfane_Horror.html?hl=&id=pHxDGE4EJh4C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=pHxDGE4EJh4C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Duffy Stein. - - - - - - - - ... ... . ... ... ——- - ... ... ... - - - AUTHOR &#39; S NOTE THE OWLSFANE <b>HORROR</b> is a work."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LTMkAAAAMAAJ",
+      "etag": "mxPi1jbSgjg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LTMkAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Australian Horror Stories",
+        "publishedDate": "1983",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015001778581"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 280,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, Australian"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LTMkAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LTMkAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=LTMkAAAAMAAJ&q=horror&dq=horror&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=LTMkAAAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Australian_Horror_Stories.html?hl=&id=LTMkAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LTMkAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "When I decided to compile this anthology of my favourite reading in the field of the Australian <b>horror</b> story I looked for representative examples from each of the categories mentioned above . All the stories which follow are concerned&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HvQZPpTm76MC",
+      "etag": "GT7d+cIjGpk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HvQZPpTm76MC",
+      "volumeInfo": {
+        "title": "True Horror Stories",
+        "authors": [
+          "Terrance Dicks"
+        ],
+        "publisher": "Sterling Publishing Company Incorporated",
+        "publishedDate": "1997",
+        "description": "Presents accounts of ghostly appearances, terrifying fires, alien sightings and encounters, terrorist activities, ecological disasters, and other occurrences that strike fear in people's hearts.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0806996552"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780806996554"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 345,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HvQZPpTm76MC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HvQZPpTm76MC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=HvQZPpTm76MC&q=horror&dq=horror&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=HvQZPpTm76MC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/True_Horror_Stories.html?hl=&id=HvQZPpTm76MC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HvQZPpTm76MC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Terrance Dicks. - - - - - - TRUE <b>HORROR</b> STORIES TERRANCE DICKS STERLING PUBLISHING CO . ,"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p0EOAQAAMAAJ",
+      "etag": "NxZ2wE7++P8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p0EOAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Best New Horror",
+        "publishedDate": "1992",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:49015003451193"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.3.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p0EOAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p0EOAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=p0EOAQAAMAAJ&q=horror&dq=horror&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=p0EOAQAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Best_New_Horror.html?hl=&id=p0EOAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p0EOAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "ו ו ו ו - י ום נ INTRODUCTION : <b>HORROR</b> IN 1991 Despite many predictions that the."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9nFQAAAAMAAJ",
+      "etag": "DDLAwMqYGbs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9nFQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Horror of Collier County",
+        "authors": [
+          "Rich Tommaso"
+        ],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015053394345"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 140,
+        "printType": "BOOK",
+        "categories": [
+          "Comic books, strips, etc"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.5.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9nFQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9nFQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=9nFQAAAAMAAJ&q=horror&dq=horror&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=9nFQAAAAMAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Horror_of_Collier_County.html?hl=&id=9nFQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9nFQAAAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "THE <b>HORROR</b> OF COLLIER COUNTY IMAGINE A PLACE where everywhere you go — every corner of every street, behind every tree, bush, or piece of foliage — there seems a presence ... of evil! You can never figure out for sure if anything&#39;s&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "y28xEAAAQBAJ",
+      "etag": "CHIaVx6rLGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/y28xEAAAQBAJ",
+      "volumeInfo": {
+        "title": "Contemporary British Horror Cinema",
+        "subtitle": "Industry, Genre and Society",
+        "authors": [
+          "Walker Johnny Walker"
+        ],
+        "publisher": "Edinburgh University Press",
+        "publishedDate": "2015-10-01",
+        "description": "Combining industrial research and primary interview material with detailed textual analysis, Contemporary British Horror Cinema looks beyond the dominant paradigms which have explained away British horror in the past, and sheds light on one of the most dynamic and distinctive - yet scarcely talked about - areas of contemporary British film production. Considering high-profile theatrical releases, including The Descent, Shaun of the Dead and The Woman in Black, as well as more obscure films such as The Devil's Chair, Resurrecting the Street Walker and Cherry Tree Lane, Contemporary British Horror Cinema provides a thorough examination of British horror film production in the twenty-first century.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780748689750"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0748689753"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 184,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=y28xEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=y28xEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=y28xEAAAQBAJ&pg=PA1839&dq=horror&hl=&cd=30&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=y28xEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=y28xEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 1558.97,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 1403.07,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=y28xEAAAQBAJ&rdid=book-y28xEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 1558970000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 1403070000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Contemporary_British_Horror_Cinema-sample-epub.acsm?id=y28xEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Contemporary_British_Horror_Cinema-sample-pdf.acsm?id=y28xEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=y28xEAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Julian Richards (2005) has mentioned in several interviews how the opening scene of the film was designed to satirise mainstream teen <b>horror</b> cinema: something that he saw as lacking the intellect and conviction of the <b>horror</b> films of&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "X_VzBQAAQBAJ",
+      "etag": "35oZE8jo9k0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/X_VzBQAAQBAJ",
+      "volumeInfo": {
+        "title": "Anni 80 Il Decennio d’oro del Cinema Horror",
+        "authors": [
+          "Matteo Tortora"
+        ],
+        "publisher": "Self-Publish",
+        "publishedDate": "2014-11-19",
+        "description": "Il presente libro nasce come tentativo di sintetico catalogo ragionato del cinema horror degli anni 80 compiuto da uno spettatore che nel 1980 aveva cinque anni e nel 1990 quindici, quindi uno spettatore fortemente influenzabile e che, pertanto, risente, nei giudizi, delle proprie memorie di giovane testimone, delle paure e delle inquietudini che le tematiche horror gli trasmettevano. L'approccio ai film avviene pertanto su basi fortemente affettive e nostalgiche. L'angolo di prospettiva seguito, è francamente unilaterale: non si è voluto rifare qui una storia generale ed approfondita del cinema horror dal 1980 al 1990, ma verificare l'influenza diretta delle varie tematiche sulla produzione internazionale, le imitazioni del passato e gli indirizzi e le nuove mete indicate dai maestri quali Tobe Hooper, Wes Craven, Kubrick, Carpenter, ect. ect.. Così analizzando le varie tematiche e le piccole o grandi ideologie che esse trasmettono potremo ritrovare alcuni tratti tipici di fortunatissimi filoni quali Halloween, Venerdì 13, solo per citare i più importanti. Inoltre un viaggio nel Cinema Horror degli anni 80 analizzato sotto un profilo laico ed il profilo religioso, prettamente cattolico. Diversificazioni di analisi, certo, ma un sicuro approfondimento delle tematiche che ci interessano. Infatti di tutti i film presi in considerazione, non solo si dà un sintetico giudizio laico, ma si riporta anche l’approfondita Scheda redatta dal Centro Cattolico Cinematografico che analizza la trama, valuta il film sotto il profilo etico-morale-religioso, al fine di indicare ai Cattolici se può essere visto o meno. Ne viene fuori uno spaccato veramente interessante e, a volte, addirittura divertente. Bisogna dare atto, però, che la critica cattolica sa diversificare il giudizio religioso da quello tecnico-creativo. Ciò vuol dire che un film può essere riconosciuto come un capolavoro, ma non per questo ottenere il nulla osta di visibilità. Il libro è stato concepito per l’editoria elettronica è come tale ha delle peculiarità che il libro cartaceo non ha. La principale è quella della interattività. Non indispensabile ma opportuna. Disponendo di una connessione internet sul proprio lettore di ebook sarà possibile collegarsi, ad esempio, a Wikipedia potendo così consultare una scheda approfondita del film e del suo regista. Inoltre subito dopo l’introduzione si riportano tutti i film horror usciti dal 1980 al 1989 linkati a IMDB e a MRQE per le recensioni in lingua inglese.",
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 118,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=X_VzBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=X_VzBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=X_VzBQAAQBAJ&pg=PT12&dq=horror&hl=&cd=31&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=X_VzBQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=X_VzBQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 353.45,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 353.45,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=X_VzBQAAQBAJ&rdid=book-X_VzBQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 353450000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 353450000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Anni_80_Il_Decennio_d_oro_del_Cinema_Hor-sample-epub.acsm?id=X_VzBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=X_VzBQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... del Cinema <b>Horror</b> L&#39;<b>Horror</b> negli anni 80 <b>Horror</b> Movies List of Year 1980 Narrazione e Stile Visivo dell&#39;<b>Horror</b> Movie <b>Horror</b> Movies List of Year 1981 Introduzione ai Maestri <b>Horror</b> Movies List of year 1982 Case maledette, demoniache,&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "vSmfp_CJocMC",
+      "etag": "3T3GdXTYaN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/vSmfp_CJocMC",
+      "volumeInfo": {
+        "title": "Three Tales of Horror",
+        "authors": [
+          "Edgar Allan Poe",
+          "Ambrose Bierce",
+          "Robert Louis Stevenson"
+        ],
+        "publisher": "Penguin Group",
+        "publishedDate": "1995-09",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0146000900"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780146000904"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 64,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=vSmfp_CJocMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=vSmfp_CJocMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=vSmfp_CJocMC&q=horror&dq=horror&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=vSmfp_CJocMC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Three_Tales_of_Horror.html?hl=&id=vSmfp_CJocMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=vSmfp_CJocMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Edgar Allan Poe, Ambrose Bierce, Robert Louis Stevenson. J THREE TALES OF <b>HORROR</b> ® penguin books Thi s One."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eb0qAQAAIAAJ",
+      "etag": "t8OCFQHHPwA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eb0qAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The American Horror Film",
+        "subtitle": "An Introduction",
+        "authors": [
+          "Reynold Humphries"
+        ],
+        "publishedDate": "2002",
+        "description": "An overview of the horror movie genre, this book moves from Dracula in 1931 to contemporary films, and treats recurring characters and themes, as well as key directors.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105112344291"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eb0qAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eb0qAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=eb0qAQAAIAAJ&q=horror&dq=horror&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=eb0qAQAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_American_Horror_Film.html?hl=&id=eb0qAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eb0qAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "An Introduction Reynold Humphries. I I &lt; Tfft 4MIRIC4N <b>HORROR</b> FILM 4N INTRODUCTION."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xm4sAQAAIAAJ",
+      "etag": "XFJ/SPEjzpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xm4sAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Mammoth Book of Best New Horror",
+        "authors": [
+          "Stephen Jones",
+          "Ramsey Campbell"
+        ],
+        "publishedDate": "2009",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105132154381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales, American"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.6.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xm4sAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xm4sAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=xm4sAQAAIAAJ&q=horror&dq=horror&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=xm4sAQAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Mammoth_Book_of_Best_New_Horror.html?hl=&id=xm4sAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xm4sAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Originally published in The Second Humdrumming Book of <b>Horror</b> Stories. Reprinted by permission of the author. &quot;DESTINATION NIHIL&quot; BY EDMUND BERTRAND copyright © Mark Samuels 2008. Originally published in PS Showcase #4: Glyphotec&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DBZV3F6HQ14C",
+      "etag": "n/yrJCBdSv8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DBZV3F6HQ14C",
+      "volumeInfo": {
+        "title": "Kingdom of Horror",
+        "authors": [
+          "J. H. Brennan"
+        ],
+        "publisher": "Laurel Leaf",
+        "publishedDate": "1987-05",
+        "description": "The reader enters the world of King Arthur's time, and begins a quest to recover Excalibur, the king's fabled sword.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0440945402"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780440945406"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Knights and knighthood"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DBZV3F6HQ14C&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DBZV3F6HQ14C&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=DBZV3F6HQ14C&q=horror&dq=horror&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=DBZV3F6HQ14C&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kingdom_of_Horror.html?hl=&id=DBZV3F6HQ14C"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DBZV3F6HQ14C&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ADsA_MxPewUC",
+      "etag": "xCiyPc1cVuQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ADsA_MxPewUC",
+      "volumeInfo": {
+        "title": "The Amityville Horror",
+        "authors": [
+          "Jay Anson"
+        ],
+        "publishedDate": "1978",
+        "description": "In Dec. 1975, the Lutz family moved into their dream home, the same house where Ronald DeFeo had murdered his parents, brothers and sisters just one year earlier. A psychic phenomena followed and created the most terrifying experience and force them to leave.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0553116606"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780553116601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 300,
+        "printType": "BOOK",
+        "categories": [
+          "Amityville (N.Y.)"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ADsA_MxPewUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ADsA_MxPewUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=ADsA_MxPewUC&q=horror&dq=horror&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=ADsA_MxPewUC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Amityville_Horror.html?hl=&id=ADsA_MxPewUC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ADsA_MxPewUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "HJyBAgAAQBAJ",
+      "etag": "PsgF27/NWSI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/HJyBAgAAQBAJ",
+      "volumeInfo": {
+        "title": "Horror, The Film Reader",
+        "authors": [
+          "Mark Jancovich"
+        ],
+        "publisher": "Routledge",
+        "publishedDate": "2002-01-10",
+        "description": "Horror, The Film Reader brings together key articles to provide a comprehensive resource for students of horror cinema. Mark Jancovich's introduction traces the development of horror film from The Cabinet of Dr. Caligari to The Blair Witch Project, and outlines the main critical debates. Combining classic and recent articles, each section explores a central issue of horror film, and features an editor's introduction outlining the context of debates.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781134563753"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1134563752"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 208,
+        "printType": "BOOK",
+        "categories": [
+          "Performing Arts"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=HJyBAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=HJyBAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=HJyBAgAAQBAJ&pg=PA63&dq=horror&hl=&cd=37&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=HJyBAgAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=HJyBAgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4163.91,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 4163.91,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=HJyBAgAAQBAJ&rdid=book-HJyBAgAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4163910000,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 4163910000,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/Horror_The_Film_Reader-sample-pdf.acsm?id=HJyBAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=HJyBAgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... lacking what Christine&#39;s handsome lover Raoul possesses (“He had no nose!”), or he is overly endowed and potent (“Yes he did, it was enormous!”). Yet it is a truism of the <b>horror</b> genre that sexual interest resides most often&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "32voobkmomMC",
+      "etag": "ygNtRLTP7mU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/32voobkmomMC",
+      "volumeInfo": {
+        "title": "The Giant Book of Horror",
+        "authors": [
+          "Stephen Jones (éditeur.)"
+        ],
+        "publishedDate": "1996",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1854876201"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781854876201"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 587,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=32voobkmomMC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=32voobkmomMC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=32voobkmomMC&q=horror&dq=horror&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=32voobkmomMC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Giant_Book_of_Horror.html?hl=&id=32voobkmomMC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=32voobkmomMC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen Jones (éditeur.) ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... ... THE GIANT BOOK OF <b>HORROR</b> Edited by Stephen Jones This ... ... ... ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "tEfxyxM8UJkC",
+      "etag": "CtWoY/dwvDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/tEfxyxM8UJkC",
+      "volumeInfo": {
+        "title": "The World's Greatest Horror Stories",
+        "authors": [
+          "Stephen Jones",
+          "Dave Carson"
+        ],
+        "publishedDate": "2004",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0760754667"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780760754665"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 450,
+        "printType": "BOOK",
+        "categories": [
+          "Horror tales"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=tEfxyxM8UJkC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=tEfxyxM8UJkC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=tEfxyxM8UJkC&q=horror&dq=horror&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=tEfxyxM8UJkC&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_World_s_Greatest_Horror_Stories.html?hl=&id=tEfxyxM8UJkC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=tEfxyxM8UJkC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Stephen Jones, Dave Carson. i 1 The World&#39;s Greatest <b>Horror</b> Stories Edited by Stephen Jones &amp;"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QCocAQAAIAAJ",
+      "etag": "WLay5izWBRg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QCocAQAAIAAJ",
+      "volumeInfo": {
+        "title": "The Changing Face of Horror",
+        "subtitle": "A Study of the Nineteenth Century French Fantastic Short Story",
+        "authors": [
+          "Gary Cummiskey"
+        ],
+        "publisher": "Peter Lang Pub Incorporated",
+        "publishedDate": "1992",
+        "description": "This insightful study explores the enthralling world of the fantastic short story in France. Born in the early 1800's of the enormous popularity of the works of E.T.A. Hoffmann, the genre flourished again toward the end of the century. The aesthetics of the two periods are quite distinct, the first reflecting the technique of Hoffmann and the second the intervening influence of the equally popular stories of Edgar Allan Poe. The author examines this change from the point of view of the contemporary reader. Of particular value are his textual analyses that demonstrate the differences between the two periods.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105004441395"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 170,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Criticism"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.4.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QCocAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QCocAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.ru/books?id=QCocAQAAIAAJ&q=horror&dq=horror&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=QCocAQAAIAAJ&dq=horror&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Changing_Face_of_Horror.html?hl=&id=QCocAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QCocAQAAIAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A Study of the Nineteenth Century French Fantastic Short Story Gary Cummiskey. - - - - - - The Changing Face of <b>Horror</b> The Age of Revolution and."
+      }
+    }
+  ]
+}
