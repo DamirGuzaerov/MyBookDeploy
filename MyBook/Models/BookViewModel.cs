@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using Microsoft.AspNetCore.Identity;
+using MyBook.Controllers;
 using MyBook.Entities;
 using MyBook.Infrastructure.Repositories;
 using Repositories;
@@ -15,7 +16,7 @@ public class BookViewModel
     private readonly IGenericRepository<Genre> _genreRepository;
     public readonly Book? _resultBook;
     public User? User;
-    private readonly ILogger _logger;
+    private readonly ILogger<BookController> _logger;
     private readonly UserManager<User> _userManager;
     private string userId;
     public List<DownloadLink> downloadLink;
@@ -24,7 +25,7 @@ public class BookViewModel
     public BookViewModel(EFHistoryRepository historyRepository, IGenericRepository<DownloadLink> linksRepository,
         IGenericRepository<MyBook.Entities.Type> typeRepository, EfBookRepository bookRepository,
         int bookId, User user,
-        ILogger logger)
+        ILogger<BookController> logger)
     {
         _historyRepository = historyRepository;
         _linksRepository = linksRepository;
@@ -36,7 +37,7 @@ public class BookViewModel
         downloadLink = linksRepository.GetWithInclude(link =>
             _resultBook != null && _resultBook.BookDescId == link.BookDescId).ToList();
     }
-
+    
     public bool HasPremiumSubscription()
     {
         var type = GetTypes().FirstOrDefault(it => it.TypeName == "Премиум");

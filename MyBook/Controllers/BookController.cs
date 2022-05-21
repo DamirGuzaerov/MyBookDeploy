@@ -14,7 +14,7 @@ namespace MyBook.Controllers
     public class BookController : Controller
     {
         private readonly UserManager<User> _userManager;
-        private readonly ILogger _logger;
+        private readonly ILogger<BookController> _logger;
         private readonly EfBookRepository _bookRepository;
         private readonly EFUserRepository _userRepository;
         private readonly EFHistoryRepository _historyRepository;
@@ -30,7 +30,7 @@ namespace MyBook.Controllers
             IGenericRepository<Rating> ratingsRepository,
             EFHistoryRepository historyRepository,
             UserManager<User> userManager,
-            ILogger logger)
+            ILogger<BookController> logger)
         {
             _bookRepository = bookRepository;
             _userRepository = userRepository;
