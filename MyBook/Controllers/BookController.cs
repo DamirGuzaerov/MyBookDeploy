@@ -14,6 +14,7 @@ namespace MyBook.Controllers
     public class BookController : Controller
     {
         private readonly UserManager<User> _userManager;
+        private readonly ILogger _logger;
         private readonly EfBookRepository _bookRepository;
         private readonly EFUserRepository _userRepository;
         private readonly EFHistoryRepository _historyRepository;
@@ -28,7 +29,8 @@ namespace MyBook.Controllers
             IGenericRepository<DownloadLink> linksRepository,
             IGenericRepository<Rating> ratingsRepository,
             EFHistoryRepository historyRepository,
-            UserManager<User> userManager)
+            UserManager<User> userManager,
+            ILogger logger)
         {
             _bookRepository = bookRepository;
             _userRepository = userRepository;
@@ -37,6 +39,7 @@ namespace MyBook.Controllers
             _ratingsRepository = ratingsRepository;
             _historyRepository = historyRepository;
             _userManager = userManager;
+            _logger = logger;
         }
 
         // GET
@@ -44,7 +47,7 @@ namespace MyBook.Controllers
         public IActionResult Book(int bookId)
         {
             _viewModel = new BookViewModel(_historyRepository, _linksRepository,
-                _typeRepository, _bookRepository, bookId, CheckUser());
+                _typeRepository, _bookRepository, bookId, CheckUser(),_logger);
             return View(_viewModel);
         }
 
