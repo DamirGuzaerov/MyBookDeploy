@@ -18,7 +18,9 @@ namespace MyBook.Entities
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseNpgsql("Host=localhost;Port=5432;Database=MyBook;Username=postgres;Password=password");
+                optionsBuilder.UseNpgsql(
+                    "Host=localhost;Port=5432;Database=MyBook;Username=postgres;Password=password");
+                /*optionsBuilder.UseNpgsql("Host=ec2-52-212-228-71.eu-west-1.compute.amazonaws.com;Port=5432;Database=d1nkp2eq393e2b;Username=fddtwfllcggpwb;Password=7f56d11f396e47885ffb41fb8162700b361db554943a3b2c5e64062900c74830;SSL Mode=Require;Trust Server Certificate=true");*/
             }
         }
 
@@ -39,8 +41,6 @@ namespace MyBook.Entities
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            
-            
             modelBuilder.Entity<Author>(entity =>
             {
                 entity.ToTable("author");

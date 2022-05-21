@@ -15,7 +15,7 @@ WORKDIR "/src/MyBook"
 RUN dotnet build "MyBook.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "MyBook.csproj" -c Release -o /app/publish
+RUN dotnet publish "MyBook.csproj" -c Release -o /app/publishcc
 
 FROM base AS final
 WORKDIR /app

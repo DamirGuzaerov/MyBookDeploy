@@ -15,6 +15,7 @@ public class BookViewModel
     private readonly IGenericRepository<Genre> _genreRepository;
     public readonly Book? _resultBook;
     public User? User;
+    private readonly ILogger _logger;
     private readonly UserManager<User> _userManager;
     private string userId;
     public List<DownloadLink> downloadLink;
@@ -22,7 +23,8 @@ public class BookViewModel
 
     public BookViewModel(EFHistoryRepository historyRepository, IGenericRepository<DownloadLink> linksRepository,
         IGenericRepository<MyBook.Entities.Type> typeRepository, EfBookRepository bookRepository,
-        int bookId, User user)
+        int bookId, User user,
+        ILogger logger)
     {
         _historyRepository = historyRepository;
         _linksRepository = linksRepository;
@@ -30,6 +32,7 @@ public class BookViewModel
         _bookRepository = bookRepository;
         _resultBook = _bookRepository.GetFullBook(bookId);
         User = user;
+        _logger = logger;
         downloadLink = linksRepository.GetWithInclude(link =>
             _resultBook != null && _resultBook.BookDescId == link.BookDescId).ToList();
     }
@@ -101,6 +104,7 @@ public class BookViewModel
         var today = DateTime.Today;
         string[] date = User.BirthDate.Split('.');
         int yearBirth;
+        _logger.LogInformation(User.BirthDate);
         bool success = int.TryParse(date[2], out yearBirth);
         var age = today.Year - yearBirth;
         return _resultBook != null && (_resultBook.IsForAdult && age >= 18 || !_resultBook.IsForAdult);
