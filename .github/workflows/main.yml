@@ -18,7 +18,7 @@ jobs:
           usedocker: true
       - name: Update database
         run: |
-                dotnet ef database update -c MyBookContext -p MyBookDeploy
+                heroku dotnet ef database update
         env:
             ASPNETCORE_ENVIRONMENT: Development
       
