@@ -1,1 +1,1 @@
-release: bin/rails db:migrate
+release: heroku run dotnet ef database update
