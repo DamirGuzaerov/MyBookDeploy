@@ -20,7 +20,7 @@ jobs:
         run: |
                 heroku run dotnet tool install --global dotnet-ef
                 heroku run dotnet tool restore
-                heroku run dotnet-ef database update
+                heroku run dotnet ef database update
         env:
             ASPNETCORE_ENVIRONMENT: Production
             
